@@ -26,6 +26,12 @@ from email.utils import parsedate_to_datetime
 
 import requests
 
+try:
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+    sys.stderr.reconfigure(encoding="utf-8", errors="replace")
+except AttributeError:
+    pass
+
 IS_CI = os.environ.get("GITHUB_ACTIONS") == "true"
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))  # deploy-repo/
@@ -288,12 +294,52 @@ DASHBOARD_TEMPLATE = """<!DOCTYPE html>
   }}
   .more-btn:hover {{ border-color: var(--accent); }}
   .limit-note {{ color: var(--muted); font-size: 12px; margin: 4px 0 12px; }}
+  .meta-row {{ display: flex; align-items: center; gap: 6px; margin-bottom: 16px; }}
+  .meta {{ color: var(--muted); font-size: 13px; margin-bottom: 0; }}
+  .info-btn {{
+    display: inline-flex; align-items: center; justify-content: center;
+    width: 18px; height: 18px; border-radius: 50%; border: 1px solid var(--border);
+    background: var(--panel); color: var(--muted); font-size: 12px; cursor: pointer;
+    flex-shrink: 0; line-height: 1;
+  }}
+  .info-btn:hover {{ border-color: var(--accent); color: var(--accent); }}
+  .modal-overlay {{
+    position: fixed; inset: 0; background: rgba(0,0,0,.55); z-index: 100;
+    display: flex; align-items: flex-start; justify-content: center; padding: 40px 16px;
+  }}
+  .modal-overlay[hidden] {{ display: none; }}
+  .modal {{
+    background: var(--panel); border: 1px solid var(--border); border-radius: 12px;
+    max-width: 640px; width: 100%; max-height: 85vh; overflow-y: auto; padding: 24px 28px;
+  }}
+  .modal h2 {{ margin: 0 0 4px; font-size: 17px; }}
+  .modal .modal-sub {{ color: var(--muted); font-size: 12px; margin-bottom: 18px; }}
+  .modal h3 {{ font-size: 13px; margin: 18px 0 8px; color: var(--text); }}
+  .modal h3:first-of-type {{ margin-top: 0; }}
+  .modal p {{ font-size: 12.5px; color: var(--muted); line-height: 1.6; margin: 0 0 6px; }}
+  .feed-list {{ display: flex; flex-wrap: wrap; gap: 6px; }}
+  .feed-chip {{
+    font-size: 12px; padding: 3px 10px; border-radius: 20px; border: 1px solid var(--border);
+    color: var(--text);
+  }}
+  .feed-chip.kr {{ background: rgba(91,140,255,.12); }}
+  .feed-chip.en {{ background: rgba(51,196,141,.12); }}
+  .kw-list {{ display: flex; flex-wrap: wrap; gap: 5px; }}
+  .kw {{ font-size: 11.5px; padding: 2px 8px; border-radius: 20px; background: rgba(122,130,144,.18); color: var(--text); }}
+  .modal-close {{
+    position: sticky; top: 0; float: right; background: none; border: none; color: var(--muted);
+    font-size: 20px; cursor: pointer; line-height: 1;
+  }}
+  .modal-close:hover {{ color: var(--text); }}
 </style>
 </head>
 <body>
 <header>
   <h1>IT 뉴스 리서치 대시보드</h1>
-  <div class="meta">마지막 업데이트: {generated_at} · 전체 누적 {total_count}건(대시보드엔 최근 {embedded_count}건 표시) · 기획자 주목 {flag_count}건 · 매체 {feed_count}곳 · 매일 자동 갱신</div>
+  <div class="meta-row">
+    <div class="meta">마지막 업데이트: {generated_at} · 전체 누적 {total_count}건(대시보드엔 최근 {embedded_count}건 표시) · 기획자 주목 {flag_count}건 · 매체 {feed_count}곳 · 매일 자동 갱신</div>
+    <button class="info-btn" id="infoBtn" title="리서치 조건 보기">ⓘ</button>
+  </div>
   <div class="controls">
     <input type="text" id="search" placeholder="제목·요약 검색 (예: AI, GDPR, 다크모드)">
     <div class="chip active" data-cat="전체">전체</div>
@@ -311,8 +357,36 @@ DASHBOARD_TEMPLATE = """<!DOCTYPE html>
   <div id="list"></div>
   <button class="more-btn" id="moreBtn" hidden></button>
 </main>
+
+<div class="modal-overlay" id="infoModal" hidden>
+  <div class="modal">
+    <button class="modal-close" id="infoClose" title="닫기">×</button>
+    <h2>이 대시보드의 리서치 조건</h2>
+    <div class="modal-sub">매일 08:00(KST) GitHub Actions로 자동 수집 + 필요시 로컬에서 수동 실행</div>
+
+    <h3>수집 매체 (<span id="feedCount"></span>곳)</h3>
+    <div class="feed-list" id="feedList"></div>
+
+    <h3>AI/신기술 키워드</h3>
+    <div class="kw-list" id="kwAi"></div>
+
+    <h3>UI/UX 키워드</h3>
+    <div class="kw-list" id="kwUiux"></div>
+
+    <h3>법규/정책 키워드</h3>
+    <div class="kw-list" id="kwLaw"></div>
+
+    <h3>★ 기획자 주목 키워드</h3>
+    <p>아래 표현이 제목·요약에 하나라도 들어가면 ★로 강조 표시됩니다 (출시/공개처럼 흔한 단어는 노이즈가 많아 일부러 제외했습니다).</p>
+    <div class="kw-list" id="kwFlag"></div>
+  </div>
+</div>
+
 <script>
 const DATA = {data_json};
+const FEEDS_INFO = {feeds_json};
+const CATEGORY_KEYWORDS_INFO = {category_keywords_json};
+const PLANNER_KEYWORDS_INFO = {planner_keywords_json};
 const PAGE_SIZE = 150;
 
 const TAG_CLASS = {{"AI/신기술": "ai", "UI/UX": "uiux", "법규/정책": "law", "기타": "etc"}};
@@ -392,6 +466,29 @@ function escapeHtml(s) {{
 }}
 
 render();
+
+// --- 리서치 조건 안내 모달 ---
+const infoBtn = document.getElementById("infoBtn");
+const infoModal = document.getElementById("infoModal");
+const infoClose = document.getElementById("infoClose");
+
+document.getElementById("feedCount").textContent = FEEDS_INFO.length;
+document.getElementById("feedList").innerHTML = FEEDS_INFO.map(f =>
+  `<span class="feed-chip ${{f.region === '국내' ? 'kr' : 'en'}}">${{escapeHtml(f.name)}} · ${{f.region}}</span>`
+).join("");
+
+function fillKeywords(elId, keywords) {{
+  document.getElementById(elId).innerHTML = keywords.map(k => `<span class="kw">${{escapeHtml(k)}}</span>`).join("");
+}}
+fillKeywords("kwAi", CATEGORY_KEYWORDS_INFO["AI/신기술"] || []);
+fillKeywords("kwUiux", CATEGORY_KEYWORDS_INFO["UI/UX"] || []);
+fillKeywords("kwLaw", CATEGORY_KEYWORDS_INFO["법규/정책"] || []);
+fillKeywords("kwFlag", PLANNER_KEYWORDS_INFO);
+
+infoBtn.addEventListener("click", () => {{ infoModal.hidden = false; }});
+infoClose.addEventListener("click", () => {{ infoModal.hidden = true; }});
+infoModal.addEventListener("click", (e) => {{ if (e.target === infoModal) infoModal.hidden = true; }});
+document.addEventListener("keydown", (e) => {{ if (e.key === "Escape") infoModal.hidden = true; }});
 </script>
 </body>
 </html>
@@ -421,6 +518,9 @@ def build_dashboard(db):
         flag_count=len(flagged),
         feed_count=len(feed_names),
         data_json=json.dumps(recent, ensure_ascii=False),
+        feeds_json=json.dumps([{"name": f["name"], "region": f["region"]} for f in FEEDS], ensure_ascii=False),
+        category_keywords_json=json.dumps(CATEGORY_KEYWORDS, ensure_ascii=False),
+        planner_keywords_json=json.dumps(PLANNER_KEYWORDS, ensure_ascii=False),
     )
     with open(DASHBOARD_PATH, "w", encoding="utf-8") as f:
         f.write(html)
