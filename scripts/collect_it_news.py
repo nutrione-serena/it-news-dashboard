@@ -411,7 +411,7 @@ document.querySelectorAll(".chip").forEach(chip => {{
       if (activeRegion === region) {{
         activeRegion = null; chip.classList.remove("active");
       }} else {{
-        document.querySelectorAll(".chip[data-cat^='__'][data-cat!='__flag']").forEach(c => c.classList.remove("active"));
+        document.querySelectorAll(".chip[data-cat^='__']").forEach(c => {{ if (c.dataset.cat !== "__flag") c.classList.remove("active"); }});
         activeRegion = region; chip.classList.add("active");
       }}
     }} else {{
