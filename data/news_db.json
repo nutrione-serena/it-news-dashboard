@@ -1,5 +1,2587 @@
 [
   {
+    "title": "\"6년 넘게 썼는데도 못 잊겠다\"…단종된 갤럭시 노트에 쏟아진 찬사",
+    "link": "https://www.techm.kr/news/articleView.html?idxno=156316",
+    "summary": "삼성전자가 갤럭시 노트 시리즈를 단종한 지 수년이 지났지만 이용자들의 애정은 여전하다. 최신 스마트폰으로 교체하고도 오래 사용한 갤럭시 노트가 더 좋았다는 사연이 온라인에서 화제를 모으면서다. 특히 S펜을 중심으로 한 사용 경험과 가벼운 무게, 익숙한 디자인에 대한 호평이 이어지며 갤럭시 노트의 존재감이 다시 주목받고 있다.21일 정보기술(IT)업계에 따르면 최근 소셜미디어(SNS) 스레드에서는 2019년 구입한 갤럭시 노트를 6년 넘게 사용하다 교체한 한 이용자의 사연이 관심을 끌고 있다.지난달 5일 게시물을 올린 A씨는 오랫동안",
+    "source": "테크M",
+    "region": "국내",
+    "published": "2026-10-21 10:08",
+    "published_sort": "2026-10-21T10:08:59+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "UI/UX"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "[크립토 브리핑] 비트코인 1억1000만원대 횡보…중동 긴장 완화 기대에도 반등 제한",
+    "link": "https://www.techm.kr/news/articleView.html?idxno=156314",
+    "summary": "비트코인이 1억1000만원대에서 뚜렷한 방향을 잡지 못하고 있다. 미국과 이란의 외교적 협상 가능성에 국제유가가 하락하고 뉴욕증시가 상승했지만 가상자산 시장으로 온기가 확산하지는 못하는 모습이다.21일 가상자산업계에 따르면 이날 오전 8시 10분 기준 국내 거래소 빗썸에서 비트코인은 24시간 전보다 0.40% 하락한 1억1042만원에 거래됐다. 같은 시각 글로벌 가상자산 시황 플랫폼 코인마켓캡에서는 8만2963달러를 기록하며 소폭 상승했다.주요 알트코인도 약세를 나타냈다. 이더리움은 0.91%, 솔라나는 1.11%, 엑스알피(XRP",
+    "source": "테크M",
+    "region": "국내",
+    "published": "2026-10-21 09:56",
+    "published_sort": "2026-10-21T09:56:50+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "인텔-AMD, AI 개발 문턱 낮춘다...파이토치 CPU 최적화 '맞손'",
+    "link": "https://www.techm.kr/news/articleView.html?idxno=156313",
+    "summary": "인텔과 AMD가 인공지능(AI) 개발 프레임워크 '파이토치(PyTorch)'의 x86 중앙처리장치(CPU) 최적화 기술을 통합하기 위해 협력한다. 양사 프로세서에서 공통으로 활용할 수 있는 소프트웨어 기반을 마련해 AI 애플리케이션 개발과 유지관리, 배포 부담을 줄인다는 구상이다.양사는 UXL 재단이 관리하는 오픈소스 딥러닝 라이브러리 'oneDNN'을 중심으로 파이토치용 x86 CPU 최적화 기술을 통합한다고 밝혔다. oneDNN은 AI 작업이 CPU에서 효율적으로 실행될 수 있도록 지원하는 라이브러리다.이번 협력은 x86 생태계",
+    "source": "테크M",
+    "region": "국내",
+    "published": "2026-10-21 09:35",
+    "published_sort": "2026-10-21T09:35:50+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "AI/신기술",
+      "UI/UX"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "[AI리더의 서가] LLM을 활용한 데이터 분석",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216343",
+    "summary": "LLM을 활용한 데이터 분석데니스 로스먼 | 위키북스2026년 6월 12일추천이유저자는 코넬대 교수로서 프롬프트와 파이썬을 활용하여 텍스트, 테이블, 이미지, 동영상, 오디오까지 분석하는 실무 기법을 체계적으로 제시합니다. 독자는 이 책을 통해 자신의 데이터 분석 환경을 효율적으로 구축할 수 있습니다.상세보기 에이전트를 다룬 책이 늘어나면서 영풍문고 IT 서가의 풍경도 세분됐다. 한 번의 질문을 잘 쓰는 법을 다루는 프롬프트 엔지니어링서, 외부 문서를 검색해 붙이는 RAG 실습서, 특정 프레임워크로 에이전트를 띄워 보는 입문서가 각",
+    "source": "AI타임스",
+    "region": "국내",
+    "published": "2026-10-21 09:00",
+    "published_sort": "2026-10-21T09:00:00+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "법규/정책",
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "[디깅노트] 삼성전자 '옴니아'가 현대차에 던지는 교훈",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=676138",
+    "summary": "어떤 실패는 시대가 바뀌어도 되풀이된다.2000년대 후반 삼성전자의 스마트폰 '옴니아'를 기억하는가. 당시 옴니아의 사양표는 화려했다. 카메라 화소는 아이폰을 앞섰고 아몰레드 디스플레이는 선명했으며 지상파 DMB까지 품었다. 라틴어로 모든 것(All·Omnia)을 뜻하는 그 이름처럼 가능한 기능을 한 기기에 빼곡하게 담아냈다.하지만 소비자가 원한 것은 기능의 총합이 아닌 완성된 경험이었다. 각각의 기능이 얼마나 자연스럽게 이어지고 얼마나 매끄럽게 작동하느냐가 더 중요했다. 손끝에 닿는 감압식 터치의 둔탁함과 윈도우 모바일의 어색한",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-10-21 08:30",
+    "published_sort": "2026-10-21T08:30:00+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "[디깅노트] 금리 낮추라는 법…은행은 우대금리부터 줄였다",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=676099",
+    "summary": "법을 지켰다고 정책의 목적까지 달성한 것은 아니다. 은행의 대출금리가 그렇다. 법정비용을 금리에서 제외하도록 했지만 은행이 다른 항목을 조정하면 돈을 빌린 차주에게 돌아갈 혜택은 달라질 수 있다. NH농협은행은 가산금리를 0.26%p 낮추는 동안 우대금리를 0.61%p 줄였다. 두 항목의 조정 효과만 계산하면 오히려 0.35%p 높아졌다. 이것이 실제 대출금리 인상을 뜻하지는 않는다. 그러나 규제를 지켰다는 설명만으로 넘길 숫자도 아니다. 은행이 낮춘 것은 금리인가, 금리 계산서의 한 항목인가.국회 정무위원회의 금융감독원 국정감사에",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-10-21 08:00",
+    "published_sort": "2026-10-21T08:00:00+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "법규/정책"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "제네셀, 日 줄기세포 원료 입고…첫 화장품 양산은 검증 후",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=676195",
+    "summary": "제네셀이 일본 헬리오스의 줄기세포 배양 상청액 상업용 초도물량을 국내에 들여왔다. 해외 원료를 국내 제조기업과 연결하는 첫 화장품 사업이 실제 조달 단계로 옮겨갔다. 국내 검증과 대량생산 준비에 시간이 더 걸리면서 연내 출시는 어려워졌다. 첫 제품은 빠르면 내년 1분기 선보인다. 동종 세포치료제 사업으로 넓히려면 국내 사업권과 인허가 체계 확보가 과제다. 상업용 원료 확보에도 매출은 대기21일 업계에 따르면 제네셀은 이달 중 일본 헬리오스의 줄기세포 배양 상청액(MSC-CM) 'HLSI071'의 상업용 초도물량을 국내에 들여왔다.",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-10-21 07:33",
+    "published_sort": "2026-10-21T07:33:44+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "[데스크시각] 그래도 솔리다임 상장 시계는 돌아간다",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=676172",
+    "summary": "솔리다임을 둘러싼 논란이 좀처럼 가라앉지 않고 있다. 금융감독원장은 국정감사에서 솔리다임이 중복상장에 저촉된다는 판단을 내놨고 한국기업거버넌스포럼은 SK하이닉스 이사회에 상장을 중단하라고 요구했다.야당에서는 정경유착이라는 말까지 들먹인다. 고점 대비 크게 떨어진 주가를 들고 있는 하이닉스 주주들로서는 화가 날 만도 한 상황이다.이렇게 많은 말이 오가는 와중에 정작 가장 궁금한 질문은 잘 보이지 않는다. 그래서 이 상장을 막을 수 있는 걸까. 결론부터 말하면, 막기는 어려울 것으로 보인다.해외 상장은 국내 거래소의 심사를 거치지 않는",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-10-21 07:30",
+    "published_sort": "2026-10-21T07:30:00+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "[관리종목 경계선] 큐리언트, 회계 정정에 자본 감소…증자로 보강",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=676048",
+    "summary": "[편집자주] 상장 유지의 문턱이 높아지고 있다. 주가와 시가총액은 물론 재무 요건과 회계·공시의 신뢰성도 상장 유지에 영향을 준다. 이에 는 관리종목 기준이나 공시의 신뢰성을 점검할 필요가 있는 기업들의 과거와 현재를 살펴본다.큐리언트가 1000억원대 유상증자로 신약 개발 자금을 마련하고 자기자본을 확충한다. 증자가 계획대로 이뤄지면 올해 법인세비용차감전계속사업손실(법차손) 비율은 관리종목 지정 기준선을 밑돌 전망이다.앞서 영구 전환사채(CB) 콜옵션 평가를 정정하면서 과거 자기자본이 줄고 법차손 비율이 높아진 사례가 있다",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-10-21 07:00",
+    "published_sort": "2026-10-21T07:00:00+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "법규/정책"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "[10월20일] AI는 과학 연구를 얼마나 잘할까…일반 업무와 달랐던 성능 순위",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216432",
+    "summary": "최근 오픈AI와 앤트로픽이 AI를 활용한 수학 문제 해결과 과학적 발견을 잇달아 발표하고 있습니다. 이제는 AI가 얼마나 많은 지식을 알고 있는지를 넘어, 실제로 새로운 과학적 발견을 해낼 수 있는지가 관심사로 떠오르는 모습입니다. 이런 가운데 최근 AI 성능 평가 분야에서 주목받는 스타트업 발스 AI(Vals AI)가 과학 연구 능력을 종합적으로 측정하는 새로운 지수를 내놨습니다. 첫 평가에서는 오픈AI의 'GPT-6 아스트라'가 1위를 차지했지만, 과학 분야별 성적은 상당히 달랐습니다. 일반적인 업무 수행 능력에서 좋은 평가를",
+    "source": "AI타임스",
+    "region": "국내",
+    "published": "2026-10-21 07:00",
+    "published_sort": "2026-10-21T07:00:00+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "스페이스X, AI·스타링크 급성장에 3분기 호실적",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=676198",
+    "summary": "일론 머스크가 이끄는 스페이스X가 인공지능(AI) 사업의 빠른 확장과 위성 인터넷 서비스 스타링크의 꾸준한 성장세에 힘입어 기대를 뛰어넘는 3분기 실적을 발표했다. 20일(현지시간) 스페이스X는 3분기 매출이 전년 동기 대비 161% 증가한 145억8000만달러를 기록했다고 밝혔다. 이는 애널리스트 예상치인 127억2000만달러를 웃도는 수준이다. 3분기 순이익은 44억달러를 기록했다. 이 또한 월가 전망치인 15억7000만달러를 크게 상회하고 2분기 실적에서도 개선된 수치다. 스페이스X의 2분기 매출은 78억1000만달러를 기록했",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-10-21 06:48",
+    "published_sort": "2026-10-21T06:48:45+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "[박종면의 물음표] SK 최태원과 델 일가의 주식거래",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=676188",
+    "summary": "최태원 SK그룹 회장이 노소영 아트센터 나비 관장에게 줄 재산분할금을 마련하기 위해 개인 보유 SK㈜ 지분을 팔기로 한 거래에 미국 델 창업자 일가가 등장했다. 델 일가 펀드인 ‘DFO 퍼블릭 인베스트먼츠’가 지분 1.34%를 5440억원에 사기로 했다. 주당 가격은 55만9387원. 재산분할 자금을 마련하는 주식 매각에 글로벌 정보기술 업체와의 사업 관계와 지배구조 문제가 겹쳤다.특히 눈길을 끄는 건 매수자다. 델 테크놀로지스가 직접 사는 것은 아니다. 마이클 델 일가의 자산을 굴리는 패밀리오피스 DFO 매니지먼트 계열 투자펀드가",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-10-21 06:00",
+    "published_sort": "2026-10-21T06:00:00+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "애플, 아이폰 듀오 공급 부족 속 美 부품 생산 확대",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=676192",
+    "summary": "애플이 처음으로 내놓는 폴더블 스마트폰 아이폰 듀오에서 활용될 티타늄 생산을 위해 미국 내 공급업체를 확보했다. 또한 아이폰18 프로용 카메라 부품의 미국 내 생산도 확대한다. 20일(이하 현지시간) 애플은 미국 펜실베이니아주 휴스턴에 본사를 둔 페리먼컴퍼니에 향후 3년간 최대 1억달러(약 1330억원)를 투자해 티타늄을 생산할 계획이라고 밝혔다. 애플은 해당 티타늄을 아이폰 듀오를 포함한 자사 제품에 사용할 계획이다. 페리먼은 5등급 티타늄의 용해, 단조, 압연 공정을 담당하게 된다. 애플에 따르면 티타늄은 아이폰 듀오의 외장에",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-10-21 01:00",
+    "published_sort": "2026-10-21T01:00:21+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "YouTube might be testing hiding the dislike button",
+    "link": "https://www.theverge.com/streaming/1015099/youtube-dislike-button-hide-menu",
+    "summary": "YouTube appears to be testing hiding the dislike button on videos, as reported by 9to5Google. At least two users on X have recently shared screenshots of the dislike button now being placed in the three-dots submenu, and a user on Reddit also shared an image of the dislike button being absent for th",
+    "source": "The Verge",
+    "region": "해외",
+    "published": "2026-10-20 20:00",
+    "published_sort": "2026-10-21T00:00:56+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
+    "summary": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by The Guardian, the judge wrote that over the past year, Ann had failed to appear ",
+    "source": "The Verge",
+    "region": "해외",
+    "published": "2026-10-20 19:37",
+    "published_sort": "2026-10-20T23:37:55+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "법규/정책",
+      "AI/신기술",
+      "UI/UX"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+    "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+    "summary": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+    "source": "TechCrunch",
+    "region": "해외",
+    "published": "2026-10-20 23:01",
+    "published_sort": "2026-10-20T23:01:23+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "법규/정책",
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "SpaceX and Tesla boards form special committees to review merger",
+    "link": "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/",
+    "summary": "Elon Musk likes the idea but says he is not on either committee, which is made up of independent directors.",
+    "source": "TechCrunch",
+    "region": "해외",
+    "published": "2026-10-20 22:57",
+    "published_sort": "2026-10-20T22:57:57+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "Google’s more personalized Gemini AI is heading to your car",
+    "link": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+    "summary": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search. As an example, Google says you can ask Gemini abou",
+    "source": "The Verge",
+    "region": "해외",
+    "published": "2026-10-20 18:42",
+    "published_sort": "2026-10-20T22:42:47+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "AI/신기술",
+      "UI/UX"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "내년부터 全 상장사 정보보호 공시 의무화…소기업은 2년 유예",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=676181",
+    "summary": "내년부터 매출액 규모와 관계없이 모든 코스피·코스닥 상장기업은 정보보호 투자와 인력 현황 등을 의무적으로 공시해야 한다. 기존 공시 의무에서 제외됐던 금융회사·전자금융업자·공공기관 및 정보보호 관리체계(ISMS) 인증 의무 기업까지 공시 대상에 포함된다. 과학기술정보통신부(과기정통부)는 20일 정보보호 공시 의무대상을 확대하는 '정보보호산업의 진흥에 관한 법률 시행령' 개정안이 국무회의를 통과했다고 밝혔다. 개정 시행령은 2027년 1월1일부터 시행된다.정보보호 공시는 기업의 정보보호 투자·인력 현황과 관련 인증·평가·점검 및 활동",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-10-20 22:26",
+    "published_sort": "2026-10-20T22:26:35+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "법규/정책"
+    ],
+    "flag": true,
+    "flag_hits": [
+      "의무화"
+    ]
+  },
+  {
+    "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+    "link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+    "summary": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+    "source": "TechCrunch",
+    "region": "해외",
+    "published": "2026-10-20 22:24",
+    "published_sort": "2026-10-20T22:24:02+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "Trump is giving Nick Shirley $10,000 and launching a $25 million fraud bounty program",
+    "link": "https://www.theverge.com/news/1014989/trump-fraud-tips-program-nick-shirley-influencers",
+    "summary": "Donald Trump and Vice President JD Vance said on Tuesday that the Trump administration was giving right-wing YouTuber Nick Shirley $10,000 and launching a $25 million bounty program for members of the public to report fraud. In December 2025, Shirley published a viral video alleging fraud at daycare",
+    "source": "The Verge",
+    "region": "해외",
+    "published": "2026-10-20 18:20",
+    "published_sort": "2026-10-20T22:20:11+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "Snap is paying Robert Downey Jr. to do the Iron Man thing",
+    "link": "https://www.theverge.com/tech/1014869/snap-specs-robert-downey-jr",
+    "summary": "Snap has a new brand ambassador for its Specs AR glasses: Iron Man actor Robert Downey Jr. The company has brought on Downey as Specs' \"Chief Customer Experience Officer\" and has published several videos featuring Downey showcasing the capabilities of the new glasses, including as a tool to get help",
+    "source": "The Verge",
+    "region": "해외",
+    "published": "2026-10-20 18:11",
+    "published_sort": "2026-10-20T22:11:30+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "Merging SpaceX and Tesla would be a \"good idea,\" Musk says",
+    "link": "https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/",
+    "summary": "\"I do think there's a lot of merit to combining the companies.\"",
+    "source": "Ars Technica",
+    "region": "해외",
+    "published": "2026-10-20 22:04",
+    "published_sort": "2026-10-20T22:04:54+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "SpaceX says big AI growth fueled revenue jump",
+    "link": "https://www.theverge.com/science/1014150/spacex-q3-2026-earnings",
+    "summary": "SpaceX announced revenues of $14.6 billion in its Q3 earnings on Tuesday, which it says was a growth of 161 percent year-over-year \"fueled by our Super Intelligence (SI) segment and accelerated growth in Connectivity.\" While its Space division posted a $7 million loss in income from operations, its ",
+    "source": "The Verge",
+    "region": "해외",
+    "published": "2026-10-20 18:04",
+    "published_sort": "2026-10-20T22:04:10+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "법규/정책",
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "Tesla and SpaceX are discussing a possible merger, Musk says",
+    "link": "https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees",
+    "summary": "Tesla and SpaceX have formed special committees to discuss a possible merger, Elon Musk said during the latter's third quarter earnings call Tuesday. Musk, who serves as CEO of both companies, said the special committees were formed at the request of shareholders and consist of independent directors",
+    "source": "The Verge",
+    "region": "해외",
+    "published": "2026-10-20 18:01",
+    "published_sort": "2026-10-20T22:01:50+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "Cops raid office of RFK Jr. allies planning “unethical” vaccine trial on babies",
+    "link": "https://arstechnica.com/health/2026/10/cops-raid-office-of-rfk-jr-allies-planning-unethical-vaccine-trial-on-babies/",
+    "summary": "Guinea-Bissau police said hepatitis B vaccine doses were taken as part of an investigation.",
+    "source": "Ars Technica",
+    "region": "해외",
+    "published": "2026-10-20 21:44",
+    "published_sort": "2026-10-20T21:44:34+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "AI/신기술",
+      "UI/UX"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "Let AI have the average user: Why User Research should focus on bad days",
+    "link": "https://uxdesign.cc/let-ai-have-the-average-user-why-user-research-should-focus-on-bad-days-e7bba55f855f?source=rss----138adf9c44c---4",
+    "summary": "Nn/g found that synthetic research captures common responses. The bad days are still up to you. Continue reading on UX Collective »",
+    "source": "UX Collective",
+    "region": "해외",
+    "published": "2026-10-20 21:30",
+    "published_sort": "2026-10-20T21:30:52+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "AI/신기술",
+      "UI/UX"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "AI doesn’t care about your job title",
+    "link": "https://uxdesign.cc/ai-doesnt-care-about-your-job-title-c08dd4fdf8d8?source=rss----138adf9c44c---4",
+    "summary": "",
+    "source": "UX Collective",
+    "region": "해외",
+    "published": "2026-10-20 21:29",
+    "published_sort": "2026-10-20T21:29:28+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "SpaceX will try catching Starship and its booster for first time, Musk says",
+    "link": "https://www.theverge.com/science/1014913/spacex-will-try-catching-starship-and-its-booster-for-first-time-musk-says",
+    "summary": "SpaceX CEO Elon Musk said the company would attempt to catch Starship and its booster next month, with the goal of recovering the entire orbital launch system for the first time. If successful, Musk said, the attempt would mark the first time in history an orbital launch vehicle has been fully recov",
+    "source": "The Verge",
+    "region": "해외",
+    "published": "2026-10-20 17:29",
+    "published_sort": "2026-10-20T21:29:05+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "Anthropic’s cloud partnerships are getting messy",
+    "link": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+    "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
+    "source": "TechCrunch",
+    "region": "해외",
+    "published": "2026-10-20 21:25",
+    "published_sort": "2026-10-20T21:25:22+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "Microsoft reportedly projects $1,200 to $1,800 price for 2028 Project Helix",
+    "link": "https://arstechnica.com/gaming/2026/10/report-microsofts-project-helix-planned-for-2028-at-1200-to-1800-price/",
+    "summary": "Xbox maker is also apparently planning its own gaming handheld for next year.",
+    "source": "Ars Technica",
+    "region": "해외",
+    "published": "2026-10-20 21:14",
+    "published_sort": "2026-10-20T21:14:33+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "수호아이오, '프로젝트 한강' 실증 성과 인정...글로벌 핀테크 어워즈 최고상",
+    "link": "https://www.techm.kr/news/articleView.html?idxno=156312",
+    "summary": "수호아이오가 한국은행과 진행한 디지털화폐 실증 성과를 통해 세계적인 핀테크 행사에서 한국 기업 최초로 파트너십 부문 최고상을 받았다.수호아이오는 지난 18일(현지시간) 미국 라스베이거스에서 열린 '머니20·20 USA 2026' 시상식 '더 머니 어워즈'에서 파트너십 및 전략적 협력 부문 그랑프리를 수상했다고 20일 밝혔다.머니20·20은 마스터카드, 비자, JP모건, 구글 등 글로벌 금융·기술기업이 참여하는 행사로 '핀테크판 CES'라고 불린다. 공식 시상식인 더 머니 어워즈에서 금융산업 전문가들이 기술 혁신과 사업 성과 등을 평",
+    "source": "테크M",
+    "region": "국내",
+    "published": "2026-10-20 21:13",
+    "published_sort": "2026-10-20T21:13:07+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "KBS 사장 후보에 이태현 前 콘텐츠웨이브 대표 선정",
+    "link": "https://www.techm.kr/news/articleView.html?idxno=156311",
+    "summary": "이태현 전 콘텐츠웨이브 대표가 한국방송공사(KBS) 이사회에서 과반의 표를 얻어 차기 KBS 사장 후보자로 선출됐다. KBS는 20일 서울 영등포구 KBS 본관에서 임시 이사회를 열고 이태현 전 콘텐츠웨이브 대표를 사장 후보로 선임했다.이사회는 지난 17일 사장후보국민추천위원회가 선정한 3명의 후보를 대상으로 이날 차기 사장 최종 면접을 진행했다.최종 면접자는 김영삼 전 KBS미디어 대표와 엄경철 전 KBS 부산방송총국장, 이태현 전 콘텐츠웨이브 대표다.개정 방송법상 KBS 사장은 재적이사 5분의 3 이상의 찬성표를 받아야 한다.",
+    "source": "테크M",
+    "region": "국내",
+    "published": "2026-10-20 21:12",
+    "published_sort": "2026-10-20T21:12:21+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "법규/정책"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "Netflix is telling investors not to worry, even though you&#8217;re watching less and less",
+    "link": "https://www.theverge.com/streaming/1014826/netflix-earnings-q3-2026-viewing-time",
+    "summary": "Netflix is making monetization a top priority amid reports of falling viewing time. As part of its third-quarter earnings report on Tuesday, Netflix lists improvements to monetization as one of its main focuses going forward, alongside efforts to boost entertainment value and leverage new technology",
+    "source": "The Verge",
+    "region": "해외",
+    "published": "2026-10-20 17:01",
+    "published_sort": "2026-10-20T21:01:15+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "It’s a bird, it’s a plane … it’s a robo-puffin?",
+    "link": "https://www.technologyreview.com/2026/10/20/1145205/its-a-bird-its-a-plane-its-a-robo-puffin/",
+    "summary": "Given that water is 1,000 times denser than air, moving through those two mediums requires very different mechanics—or so one might assume. Yet birds like gulls and puffins can plunge into the sea, swim underwater, and leap back into the air to fly away. And now engineers at MIT and EPFL in Lausanne",
+    "source": "MIT Technology Review",
+    "region": "해외",
+    "published": "2026-10-20 21:00",
+    "published_sort": "2026-10-20T21:00:00+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "AI/신기술",
+      "UI/UX"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "Here’s the tea",
+    "link": "https://www.technologyreview.com/2026/10/20/1145274/heres-the-tea/",
+    "summary": "When Tristan Brown, an associate professor of history at MIT, first examined a Chinese tea chest label displayed at Old South Meeting House, he had no reason to doubt its story. Descendants of the Boston blacksmith Thomas Wells had donated the label in 1987, saying it had been recovered after coloni",
+    "source": "MIT Technology Review",
+    "region": "해외",
+    "published": "2026-10-20 21:00",
+    "published_sort": "2026-10-20T21:00:00+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "Melt it, spin it, use it again",
+    "link": "https://www.technologyreview.com/2026/10/20/1145276/melt-it-spin-it-use-it-again/",
+    "summary": "The average American throws out around 81 pounds of clothing each year, and there are few options for recycling it. MIT engineers hope to cut down on that textile waste with a new type of yarn.&#160; The thermoplastic yarn mimics the properties of conventional elastic yarns, which typically combine ",
+    "source": "MIT Technology Review",
+    "region": "해외",
+    "published": "2026-10-20 21:00",
+    "published_sort": "2026-10-20T21:00:00+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "A reason to eat carbs",
+    "link": "https://www.technologyreview.com/2026/10/20/1145279/a-reason-to-eat-carbs/",
+    "summary": "A high-fat, low-carbohydrate diet can help some people lose weight, and some research has shown that it may protect against colon cancer. But a new study suggests that such a ketogenic diet may also increase the risk of cancer in the small intestine. This type of diet forces the body to burn fatty a",
+    "source": "MIT Technology Review",
+    "region": "해외",
+    "published": "2026-10-20 21:00",
+    "published_sort": "2026-10-20T21:00:00+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "Robotic therapy for stroke patients",
+    "link": "https://www.technologyreview.com/2026/10/20/1145282/robotic-therapy-for-stroke-patients/",
+    "summary": "Strokes leave 5 million people with long-term impairments each year, and a growing shortage of physical therapists makes it hard for them to get the care they need. A new approach tries to solve that problem by combining artificial intelligence and human therapy.&#160; Johannes Lachner, a former MIT",
+    "source": "MIT Technology Review",
+    "region": "해외",
+    "published": "2026-10-20 21:00",
+    "published_sort": "2026-10-20T21:00:00+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "Taking a swing at a pickleball startup",
+    "link": "https://www.technologyreview.com/2026/10/20/1145287/taking-a-swing-at-a-pickleball-startup/",
+    "summary": "In corporate America, Stanley Anderson ’79 says, executives often assume that their peers grew up in privileged circumstances. He did not. “I spent my early years trying not to get recruited into gangs, getting shot at, watching my friends get murdered, and thinking that if I don’t leave, I will die",
+    "source": "MIT Technology Review",
+    "region": "해외",
+    "published": "2026-10-20 21:00",
+    "published_sort": "2026-10-20T21:00:00+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "UI/UX"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "A good TA: priceless",
+    "link": "https://www.technologyreview.com/2026/10/20/1145291/a-good-ta-priceless/",
+    "summary": "These are images of quizzes I took in 3.091, Introduction to Solid-State Chemistry, in the fall of 1980. One is my very first exam at MIT, and getting 49 out of 100 was a soul-crushing experience. I can still picture the TA, Leszek Pawlowicz, PhD ’87, returning my paper. He had a big smile on&#8230;",
+    "source": "MIT Technology Review",
+    "region": "해외",
+    "published": "2026-10-20 21:00",
+    "published_sort": "2026-10-20T21:00:00+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "UI/UX"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "Nebraska native explores galaxies far, far away",
+    "link": "https://www.technologyreview.com/2026/10/20/1145294/nebraska-native-explores-galaxies-far-far-away/",
+    "summary": "Growing up on a small farm in Nebraska, Megan Donahue ’85 discovered the wider world by reading her way through her local library. Today, she is learning how the wider universe works by studying galaxy clusters. Donahue discovered her passion for physics in that library at age 12 and started her pat",
+    "source": "MIT Technology Review",
+    "region": "해외",
+    "published": "2026-10-20 21:00",
+    "published_sort": "2026-10-20T21:00:00+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "A champion for brain injury patients",
+    "link": "https://www.technologyreview.com/2026/10/20/1145297/a-champion-for-brain-injury-patients/",
+    "summary": "Alissa Totman ’13 was a sophomore when she joined MIT BrainTrust, a student-run organization that connects Institute undergraduates and people with brain injuries for support and socializing. “That group was a great way to learn about the human experience of what people go through when they experien",
+    "source": "MIT Technology Review",
+    "region": "해외",
+    "published": "2026-10-20 21:00",
+    "published_sort": "2026-10-20T21:00:00+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "A cleaner path to rare earth metals",
+    "link": "https://www.technologyreview.com/2026/10/20/1145300/a-cleaner-path-to-rare-earth-metals/",
+    "summary": "Tomás Villalón Jr. ’14 was raised in San Antonio, Texas, but vividly remembers smog hanging over the city his family came from—Monterrey, Mexico, a steel manufacturing and metal fabrication hub. Even as a child, he realized it was problematic to breathe that air.&#160; “I’m motivated because I’ve se",
+    "source": "MIT Technology Review",
+    "region": "해외",
+    "published": "2026-10-20 21:00",
+    "published_sort": "2026-10-20T21:00:00+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "LIG D&A, 입찰제한 현실화…KF-21 앞두고 신규수주 '제동'",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=676183",
+    "summary": "LIG디펜스&에어로스페이스(LIG D&A)가 방위사업청의 입찰참가자격 제한 제재를 받게 됐다. 임원들의 뇌물공여 혐의가 형사재판에 이어 LIG D&A의 신규 수주를 제약하는 행정제재로 연결됐다. 당장 KF-21 장거리 공대공 유도탄 사업이 첫 시험대로 꼽힌다.20일 방사청은 계약심의위원회를 열고 LIG D&A에 대한 부정당업자 제재 안건을 심의해 입찰참가자격 제한을 의결했다. 제한 기간은 24개월이다.과징금 대체 가능성도 거론됐지만 결국 기존 기준을 벗어나지 않았다. 방사청 개청 이후 뇌물 관련 부정당업자 제재 27건은 모두 입찰",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-10-20 20:54",
+    "published_sort": "2026-10-20T20:54:36+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "법규/정책"
+    ],
+    "flag": true,
+    "flag_hits": [
+      "과징금",
+      "제재"
+    ]
+  },
+  {
+    "title": "SpaceX’s AI business is beating expectations",
+    "link": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+    "summary": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine.",
+    "source": "TechCrunch",
+    "region": "해외",
+    "published": "2026-10-20 20:40",
+    "published_sort": "2026-10-20T20:40:41+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "법규/정책",
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+    "link": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+    "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
+    "source": "TechCrunch",
+    "region": "해외",
+    "published": "2026-10-20 20:35",
+    "published_sort": "2026-10-20T20:35:10+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "AI/신기술",
+      "UI/UX"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "Oura adds two new cardiovascular health tracking features to its smart rings",
+    "link": "https://www.theverge.com/tech/1014712/oura-smart-rings-track-cardio-effort-vo2-max-cardiovascular",
+    "summary": "Oura is introducing two new cardiovascular-focused health tracking features to its smart rings designed to help users better understand the effect regular workouts and exercise are having on their long-term health, and whether they need to ramp it up or dial things down. Cardio Effort and automatic ",
+    "source": "The Verge",
+    "region": "해외",
+    "published": "2026-10-20 16:26",
+    "published_sort": "2026-10-20T20:26:04+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "UI/UX"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "JustWatch, which tackles streaming fragmentation, launches own streaming service",
+    "link": "https://arstechnica.com/gadgets/2026/10/justwatch-which-tackles-streaming-fragmentation-launches-own-streaming-service/",
+    "summary": "A lifetime ad-free subscription is available.",
+    "source": "Ars Technica",
+    "region": "해외",
+    "published": "2026-10-20 20:20",
+    "published_sort": "2026-10-20T20:20:12+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
+    "link": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/",
+    "summary": "Meta changes AI scraping policy but won’t add language respecting robots.txt.",
+    "source": "Ars Technica",
+    "region": "해외",
+    "published": "2026-10-20 20:07",
+    "published_sort": "2026-10-20T20:07:58+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "법규/정책",
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "Gemini's Personal Intelligence is coming to cars",
+    "link": "https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars/",
+    "summary": "It's probably time to audit your Gemini settings.",
+    "source": "Ars Technica",
+    "region": "해외",
+    "published": "2026-10-20 20:00",
+    "published_sort": "2026-10-20T20:00:33+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "Google is bringing a more personal version of its Gemini AI assistant to your car",
+    "link": "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/",
+    "summary": "Google is bringing Gemini's Personal Intelligence feature to cars, allowing its AI assistant to draw on information from Gmail, Calendar, Maps, YouTube, and other Google services to deliver more personalized responses while driving.",
+    "source": "TechCrunch",
+    "region": "해외",
+    "published": "2026-10-20 20:00",
+    "published_sort": "2026-10-20T20:00:00+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "OpenBSD 8.0 arrives with security record still intact",
+    "link": "https://arstechnica.com/gadgets/2026/10/openbsd-8-0-lands-with-intel-arc-graphics-support/",
+    "summary": "OpenBSD 8.0 lands with Intel Arc support, ARM64 hibernation, and 64-vCPU guests",
+    "source": "Ars Technica",
+    "region": "해외",
+    "published": "2026-10-20 19:57",
+    "published_sort": "2026-10-20T19:57:18+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "법규/정책"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "The Internet goes on high alert after discovery of 8 compromised TLS certs",
+    "link": "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/",
+    "summary": "Intermediate certs allow anyone to mint web credentials for any Internet server.",
+    "source": "Ars Technica",
+    "region": "해외",
+    "published": "2026-10-20 19:47",
+    "published_sort": "2026-10-20T19:47:35+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "GM to close Detroit battery assembly plant, but not for reasons you might think",
+    "link": "https://techcrunch.com/2026/10/20/gm-to-close-detroit-battery-assembly-plant-but-not-for-reasons-you-might-think/",
+    "summary": "GM is shuttering the Brownstown Battery Assembly Plant, though the closure has nothing to do with the automaker's electrification strategy.",
+    "source": "TechCrunch",
+    "region": "해외",
+    "published": "2026-10-20 19:32",
+    "published_sort": "2026-10-20T19:32:43+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "TP-Link tries to appease Trump admin with pledge to assemble routers in US",
+    "link": "https://arstechnica.com/tech-policy/2026/10/tp-link-tries-to-appease-trump-admin-with-pledge-to-assemble-routers-in-us/",
+    "summary": "TP-Link can't sell latest routers in US despite rivals getting FCC approvals.",
+    "source": "Ars Technica",
+    "region": "해외",
+    "published": "2026-10-20 19:25",
+    "published_sort": "2026-10-20T19:25:14+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "Does anyone actually want to win the medium-lift race in the United States?",
+    "link": "https://arstechnica.com/space/2026/10/does-anyone-actually-want-to-win-the-medium-lift-race-in-the-united-states/",
+    "summary": "Ars Technica is here to help with a guide to the medium-lift space race.",
+    "source": "Ars Technica",
+    "region": "해외",
+    "published": "2026-10-20 19:13",
+    "published_sort": "2026-10-20T19:13:31+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "UI/UX"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+    "link": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+    "summary": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
+    "source": "TechCrunch",
+    "region": "해외",
+    "published": "2026-10-20 18:38",
+    "published_sort": "2026-10-20T18:38:24+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "ChatGPT now lets you lock your chats",
+    "link": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
+    "summary": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device to friends or family to show them something in another chat.",
+    "source": "TechCrunch",
+    "region": "해외",
+    "published": "2026-10-20 18:36",
+    "published_sort": "2026-10-20T18:36:53+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "AI/신기술",
+      "UI/UX"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "구글, 제미나이 노트북 개편…\"슬라이드·영상 생성 전 구성 검토\"",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216438",
+    "summary": "구글이 AI 자료 제작 도구 '제미나이 노트북(Gemini Notebook)'에 프레젠테이션과 동영상을 만들기 전 구성안을 검토하고 수정할 수 있는 기능을 추가했다. AI가 명령어를 입력받자마자 완성본을 만드는 방식에서 벗어나, 사용자가 기획 단계부터 AI와 함께 내용을 구성하고 결과물을 다듬을 수 있도록 했다.구글은 19일(현지시간) 제미나이 노트북의 '슬라이드 덱(Slide Decks)'과 '비디오 오버뷰(Video Overviews)'에 공동 제작(Co-creation) 기능을 도입한다고 밝혔다.이번 업데이트는 사용자 피드백을",
+    "source": "AI타임스",
+    "region": "국내",
+    "published": "2026-10-20 18:26",
+    "published_sort": "2026-10-20T18:26:21+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "Ukraine’s drone rescue of wounded soldier puts much touted idea into practice",
+    "link": "https://arstechnica.com/gadgets/2026/10/ukraines-drone-rescue-of-wounded-soldier-puts-much-touted-idea-into-practice/",
+    "summary": "Ukraine’s latest drone innovation may boost bleak odds of evacuating casualties.",
+    "source": "Ars Technica",
+    "region": "해외",
+    "published": "2026-10-20 18:22",
+    "published_sort": "2026-10-20T18:22:54+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "텐스토렌트, 8조 가치로 대규모 투자 유치...\"인수 대신 독자 노선\"",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216444",
+    "summary": "캐나다의 AI 칩 스타트업 텐스토렌트(Tenstorrent)가 15억달러(약 2조원) 규모의 신규 투자를 유치하며 기업가치를 62억달러(약 8조원)로 끌어올렸다. 인텔과 퀄컴의 인수 가능성이 거론된 지 약 5개월 만에 매각 대신 독자 성장에 나서기로 했다.텐스토렌트는 19일(현지시간) 시리즈E 투자 라운드에서 15억달러(약 2조원)를 조달했다고 밝혔다. 이번 기업가치는 2024년 투자 당시 평가받은 26억달러(약 3조4000억원)의 두 배를 웃돈다.이번 투자는 트레이스 캐피털이 주도했으며, 이노베이션X를 비롯해 아고스티넬리 그룹,",
+    "source": "AI타임스",
+    "region": "국내",
+    "published": "2026-10-20 18:14",
+    "published_sort": "2026-10-20T18:14:45+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "화재 진압 현장서도 든든…델 테크놀로지스 '러기드 노트북 2종'",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=676180",
+    "summary": "델 테크놀로지스(델)가 화재 진압·수색·야외 설비 점검 등 거친 작업 환경을 겨냥한 러기드 노트북 2종을 국내에 출시했다. 충격·먼지·물에 견디는 내구성에 전원을 끄지 않고 배터리를 교체하는 기능을 더했다. 일반 노트북을 사용하기 어려운 현장에서도 업무를 이어갈 수 있도록 설계했다. 충격과 먼지에 대비한 현장용 노트북20일 델에 따르면 회사는 이달 '델 프로 러기드 13 익스트림'과 '델 프로 러기드 14'를 국내 출시하고 주문을 받고 있다. 군·경찰·소방 등 공공기관과 제조·운송·정유·석유화학 분야 기업이 주요 판매 대상이다.러기",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-10-20 18:14",
+    "published_sort": "2026-10-20T18:14:37+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "홍원식 부인 이운경, 회삿돈 8.6억 '기부'…국감서 배임 의혹 거론",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=676120",
+    "summary": "남양유업 전 오너 일가의 '기부금 배임'을 둘러싼 논란이 국회 국정감사에서 거론됐다. 사모펀드 운용사(PEF) 한앤컴퍼니가 2024년 대주주가 된 뒤 남양유업이 전 오너 일가를 상대로 제기한 고소 가운데 하나다.이달 19일 국회 문화체육관광위원회 국정감사에서 김재원 조국혁신당 의원은 홍원식 전 남양유업 회장의 배우자인 이운경 전 고문이 회사 자금으로 예술단체를 후원했다는 의혹을 제기했다.김 의원은 현대미술관회 부회장을 지낸 이 전 고문이 남양유업 회사 돈 8억6000만원으로 여러 예술단체에 개인 명의로 후원해 배임 혐의로 수사받고",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-10-20 18:09",
+    "published_sort": "2026-10-20T18:09:11+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "Quantum error correction goes well beyond breakeven",
+    "link": "https://arstechnica.com/science/2026/10/quantum-error-correction-goes-well-beyond-breakeven/",
+    "summary": "A demo of error-corrected qubits shows big reductions in errors as they grow.",
+    "source": "Ars Technica",
+    "region": "해외",
+    "published": "2026-10-20 18:08",
+    "published_sort": "2026-10-20T18:08:57+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "소액주주 만난 카카오…\"경영진 블록딜·자회사 매각 없다\" [현장+]",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=676129",
+    "summary": "카카오가 인공지능(AI) 사업과 투자 및 계열사 관리를 분리하는 창사 이래 최대 규모의 지배구조 개편에 나선 가운데 김도영 카카오X(존속법인) 대표 내정자를 비롯한 주요 경영진들이 소액주주들을 직접 만나 설득에 나섰다.회사는 사업별 전문성을 높이고 기업가치 할인 문제를 해소하겠다는 입장이지만 일각에서는 인적분할 이후 주요 계열사를 거느리게 되는 카카오X가 저평가를 받을 수 있다는 우려가 커지고 있는 데다 일부 계열사에 대한 매각 가능성까지 제기되자 이를 조기에 진화하기 위한 조치로 풀이된다. \"왜 굳이 나누나\"…분할비율·주가 하락에",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-10-20 18:04",
+    "published_sort": "2026-10-20T18:04:12+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "법규/정책",
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
+    "link": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
+    "summary": "The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported.",
+    "source": "TechCrunch",
+    "region": "해외",
+    "published": "2026-10-20 17:55",
+    "published_sort": "2026-10-20T17:55:12+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "엠로, 113억원 규모 삼성전자 차세대 구매시스템 유지보수 수주",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=676177",
+    "summary": "삼성SDS의 공급망관리(SCM) 솔루션 자회사 엠로가 삼성전자의 차세대 구매시스템 운영·유지보수를 2년간 맡는다. 계약금액은 112억6600만원으로 지난해 연결 매출의 13.42%에 해당한다.엠로는 20일 삼성전자와 '차세대 구매시스템(N-SRM) 운영·유지보수 계약'을 체결했다고 공시했다. 계약 체결일은 이달 19일이다.계약기간은 11월1일부터 2028년 10월31일까지다. 계약은 별도의 계약금이나 선급금 없이 매월 운영비용을 정산하는 방식으로 대금을 받는다.삼성전자는 엠로 최대주주인 삼성SDS의 최대주주다. 삼성SDS는 올해 6",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-10-20 17:53",
+    "published_sort": "2026-10-20T17:53:47+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "금호건설, 500억원 영구CB 발행…자본 확충 '속도'",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=676178",
+    "summary": "금호건설이 500억원 규모의 영구전환사채(CB)를 발행한다. 6월에 이어 올해 두 번째 자본성 자금 조달이다. 실적 회복에도 400%를 웃도는 부채비율을 낮추고 재무구조 개선에 나선 모습이다. 4개월 만에 추가 조달…부채비율 개선 목적20일 금융감독원 전자공시시스템에 따르면 금호건설은 이날 이사회를 열고 500억원 규모의 304회차 영구CB 발행을 결정했다. 납입일은 이달 30일이며 조달금은 전액 운영자금으로 사용할 예정이다. 회사는 재무건전성 확보와 부채비율 개선을 위해 이번 CB를 발행했다고 밝혔다.이번 CB는 만기가 2056년",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-10-20 17:51",
+    "published_sort": "2026-10-20T17:51:41+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "스카이폴AI, CAD·BIM 3D 설계 자동화 월드모델 ‘스카이-001’ 공개",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216450",
+    "summary": "미국의 스카이폴 AI(Skyfall AI)가 복잡한 물리적 제품의 설계를 자동화하는 월드모델 ‘스카이-001(SKY-001)’을 공개했다. 아이디어나 2D 스케치를 입력하면 설계 구조를 계층적으로 나누고, 컴퓨터 지원 설계(CAD)와 건축정보모델링(BIM) 소프트웨어에서 실제로 구현할 수 있는 단계별 제작 계획을 생성하는 모델이다.스카이폴 AI는 19일(현지시간) ‘스카이-001’이 기존 대형언어모델(LLM) 중심의 접근법을 넘어 장기적인 공간 계획과 반복적인 3D 추론을 수행하도록 설계됐다고 밝혔다. 자동차 엔진과 드론, 위성부터",
+    "source": "AI타임스",
+    "region": "국내",
+    "published": "2026-10-20 17:44",
+    "published_sort": "2026-10-20T17:44:24+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "법규/정책",
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "[딜 인사이드] 유증 인수자 또 변경…자금력 주목 I 파이온엑스①",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=676166",
+    "summary": "코스닥 상장사 파이온엑스가 100억원 규모의 유상증자 투자자를 다시 변경하면서 경영권 재편을 추진하고 있다. 지난 8월 최초 공시 이후 투자자와 납입일 등이 다섯 차례 정정된 가운데 사모펀드 두 곳이 새로운 인수자로 등장했다. 두 펀드의 출자금 납입이 아직 이뤄지지 않은 만큼 예정대로 자금조달을 마무리할 수 있을지가 관건이다.20일 금융감독원 전자공시시스템에 따르면 파이온엑스는 전날 3자배정 유상증자 투자자를 기존 엠케이커머스에서 파빌리온리얼에셋펀드제1호와 파빌리온엠앤에이펀드제1호로 변경했다. 납입일도 10월 29일에서 11월 3일",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-10-20 17:42",
+    "published_sort": "2026-10-20T17:42:49+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "Meta tries to scapegoat staff who downloaded torrents to spare execs",
+    "link": "https://arstechnica.com/tech-policy/2026/10/meta-ordered-to-name-execs-who-approved-torrenting-for-ai-training/",
+    "summary": "Meta argues nobody “decided” to pirate books to train AI.",
+    "source": "Ars Technica",
+    "region": "해외",
+    "published": "2026-10-20 17:40",
+    "published_sort": "2026-10-20T17:40:20+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "엘리스그룹, AI 인프라 상장 랠리 가세.. 코어위브 악재 돌파할까",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216452",
+    "summary": "AI 인프라 운영·관리 솔루션 기업들이 기업공개(IPO) 랠리를 이어 가며 잇따라 자본시장 평가무대에 오른다. 하지만, 최근 불거진 미국 코어위브발 AI 투자 우려 속 투자심리가 위축된 상황이어서 이들 기업들이 어떻게 기업가치를 입증하며 악재를 돌파할 지 주목된다. 20일 한국거래소에 따르면, 이날 코스닥 시장에 상장한 엘리스그룹(대표 김재원)은 공모가(9만500원)보다 16% 낮은 7만5700원에 거래를 시작한 뒤 낙폭을 키워 공모가 대비 32.0% 하락한 6만1500원에 첫날 거래를 마쳤다.시가총액도 공모가 기준 약 1조원에서",
+    "source": "AI타임스",
+    "region": "국내",
+    "published": "2026-10-20 17:26",
+    "published_sort": "2026-10-20T17:26:52+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "플리토, 3분기 누적 창사이래 최대 실적 실현...영업이익률 50% 돌파",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216447",
+    "summary": "AI 데이터 및 솔루션 전문 플리토가 창사 이래 최대 실적을 일궜다.플리토(대표 이정수)는 20일 연결 기준 2026년 3분기 누적 매출 약 311억 원, 영업이익 약 103억 원을 기록했다고 밝혔다. 매출은 전년 동기 대비 20.7%, 영업익은 89.7% 증가했다.누적 영업이익은 100억원 선을 돌파하며 이미 지난해 연간 전체 영업익(약 62억원)을 크게 상회했다. 3분기 매출과 영업이익도 각각 약 178억원, 약 90억원으로 분기 기준 최대치를 기록했다. 특히 영업이익률은 50.4%에 달해 높은 수익성을 실현했다.회사 측은 이",
+    "source": "AI타임스",
+    "region": "국내",
+    "published": "2026-10-20 17:20",
+    "published_sort": "2026-10-20T17:20:56+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "KT, 아크릴과 의료기관 맞춤형 AX 사업 공조",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216440",
+    "summary": "KT(대표 박윤영)는 의료 AI 전문 아크릴(대표 박외진)과 의료기관의 데이터 활용 및 AI 서비스 도입을 위한 의료 AX 사업을 공동 추진한다고 20일 밝혔다.두 회사는 KT의 AI·클라우드·데이터 기반 통합구축 역량과 의료 AX사업 추진 경험에 아크릴의 의료 데이터·AI 기술 및 병원 구축·실증 경험을 결합, 의료기관 맞춤형 AX 사업 모델을 공동 발굴할 계획이다.또 의료기관별 공동 제안과 실증을 추진하고, 기술 검증에서 실제 사업화까지 이어지는 협력 체계를 마련하는 한편, 정부·공공 연구과제와 신규 사업 기회도 공동 모색할 방",
+    "source": "AI타임스",
+    "region": "국내",
+    "published": "2026-10-20 17:18",
+    "published_sort": "2026-10-20T17:18:36+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "MDS테크, 국내 휴머노이드 홈로봇 프로젝트에 엔비디아 AI 플랫폼 패키지 공급",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216436",
+    "summary": "AI·임베디드 솔루션 전문 MDS테크는 국내 기업의 휴머노이드 홈로봇 프로젝트에 40억원 규모의 엔비디아 젯슨(Jetson) 기반 AI 플랫폼 패키지를 공급한다고 20일 밝혔다. MDS테크의 AI 사업 조직 출범 이후 단일 프로젝트 기준 최대 규모의 수주 성과다.MDS테크는 국내기업 A사의 휴머노이드 홈로봇 프로젝트에 젯슨 모듈과 엔비디아 글로벌 에코파트너사들의 시스템･센서 등 주요 제품으로 구성된 ‘젯슨 풀 패키지(Full Package)’를 공급한다.MDS테크는 해당 프로젝트의 개발 단계부터 엔비디아 젯슨 오린(Jetson Or",
+    "source": "AI타임스",
+    "region": "국내",
+    "published": "2026-10-20 17:17",
+    "published_sort": "2026-10-20T17:17:30+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "[겜린이 리뷰]힐링이랬잖아요?…짭짤한 투잡의 맛 넥슨 '데이브' 모바일",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=676151",
+    "summary": "낮에는 바다에서 물고기를 잡고 밤에는 초밥집에서 서빙한다. 바닷속을 구경할 생각으로 시작했는데 알고 보니 만만찮은 투잡이다. 민트로켓의 ‘데이브 더 다이버’ 모바일 이야기다. 쉬러 왔다가 일만 하게 된 셈인데 이상하게 피곤함보다 뿌듯함이 남는다. 비결은 손을 움직인 만큼 눈에 보이는 변화다.직접 잡은 물고기가 저녁 메뉴에 오른다. 장사로 번 돈으로 장비를 바꾸면 어제는 엄두를 내지 못했던 깊이까지 내려갈 수 있다. 현실에서는 애쓴 만큼 드러나지 않던 성과가 이곳에서는 차곡차곡 쌓인다. 잠수와 장사로 바쁜 데이브의 하루가 정작 이용자",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-10-20 17:16",
+    "published_sort": "2026-10-20T17:16:44+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "클로드 코드, 맥에 숨은 암호화폐 채굴 악성코드 포착...CPU 사용률 1175% 치솟아",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216451",
+    "summary": "앤트로픽의 '클로드 코드'가 개발자의 맥(Mac)에 숨어 있던 암호화폐 채굴 프로그램을 찾아냈다. 악성 프로그램이 CPU 자원을 과도하게 점유해 컴퓨터 성능을 떨어뜨리자, AI 에이전트가 시스템 상태를 분석해 원인을 밝혀냈다.톰스하드웨어에 따르면, 개발자이자 레딧 이용자인 'UntilHEX'는 18일(현지시간) 맥의 온도를 모니터링하는 앱을 개발하던 중 클로드 코드에 온도 센서 데이터를 분석해 달라고 요청했다. 센서 수치가 예상보다 높게 나타났기 때문이다.클로드 코드는 분석 과정에서 암호화폐 채굴 프로그램인 'XMRig'가 실행 중",
+    "source": "AI타임스",
+    "region": "국내",
+    "published": "2026-10-20 17:16",
+    "published_sort": "2026-10-20T17:16:09+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "인적분할 놓고 주주 우려 '여전'...카카오, 주주환원·기업가치 제고 약속",
+    "link": "https://www.techm.kr/news/articleView.html?idxno=156309",
+    "summary": "카카오가 인적분할 이후 기업가치 하락과 카카오X의 저평가 가능성을 우려하는 소액주주들을 달래기 위해 양사의 성장 전략과 주주환원 방안을 재차 강조했다. 카카오는 양사의 사업 전문성을 강화하고 경영 효율성을 높이는 한편, 각 사업의 성장성과 실적이 시장에서 충분히 평가받을 수 있도록 주주와의 소통을 확대하겠다는 방침이다.20일 카카오는 서울 여의도 FKI타워 컨퍼런스센터에서 '2차 소액주주 간담회'를 개최했다. 온·오프라인으로 동시에 진행된 이날 간담회에는 김도영 카카오X 대표이사 내정자와 신종환 카카오 최고재무책임자(CFO), 전현",
+    "source": "테크M",
+    "region": "국내",
+    "published": "2026-10-20 17:16",
+    "published_sort": "2026-10-20T17:16:00+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "[부동산신탁 재편] 한투신탁, 불황에도 차입형 키운 배경은",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=676168",
+    "summary": "이국형 대표가 이끄는 한국투자부동산신탁은 부동산 프로젝트파이낸싱(PF) 시장 경색 속에서도 차입형토지신탁을 확대해왔다. 사업성이 양호하지만 자금조달에 어려움을 겪는 현장을 선별하고 위험을 분담하는 구조로 수주를 늘리는 전략이다.신탁과 자산운용을 두루 경험한 이 대표 체제에서 수주와 이자수익은 증가했다. 그러나 분양 부진에 따른 조달·대손비용도 커지면서 지난해까지는 외형 성장이 이익 증가로 이어지지 못했다. 이국형의 선별 수주…차입형 확대한국투자부동산신탁의 올해 상반기 영업보고서에 따르면 신탁계정대 이자수익은 전년 동기 147억원에서",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-10-20 17:14",
+    "published_sort": "2026-10-20T17:14:46+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
+    "link": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
+    "summary": "Meta's AI companion Muse has surpassed 10 million U.S. downloads in its first 40 days, joining an exclusive group of apps that includes Threads. New data also shows Muse is retaining users at higher rates than its AI rivals.",
+    "source": "TechCrunch",
+    "region": "해외",
+    "published": "2026-10-20 17:12",
+    "published_sort": "2026-10-20T17:12:48+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "농협은행, 자산배분 정교화 키맨도 AI…기업여신 적용 사례 보니",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=676162",
+    "summary": "NH농협은행이 기업대출 확대에 따른 자산구조 변화와 자본 부담을 종합적으로 살펴볼 수 있는 분석 기반을 마련했다. 인공지능(AI)을 활용해 다양한 자산 조합의 수익성과 위험 수준을 비교하고 경영 여건에 맞는 운용 대안을 찾는 방식이다. 여신 확대와 건전성 관리를 병행하면서 자본 활용의 효율성을 높이기 위한 의사결정 수단으로 활용될 전망이다.20일 금융권에 따르면 농협은행은 AI 기반 최적 포트폴리오 분석체계를 구축했다고 밝혔다. 은행이 보유한 자산의 수익성과 자본적정성, 건전성 등을 종합적으로 분석해 경영목표에 적합한 자산배분안을",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-10-20 17:09",
+    "published_sort": "2026-10-20T17:09:18+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "레드햇 RHEL, 오라클 OCI 입점의 의미",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=676124",
+    "summary": "오픈소스 소프트웨어 레드햇의 기업용 운영체제 '레드햇 엔터프라이즈 리눅스(RHEL)'가 오라클의 클라우드 서비스 '오라클 클라우드 인프라스트럭처(OCI)'에 정식 상품으로 들어갔다. OCI 이용 기업은 오라클 화면에서 바로 RHEL을 골라 쓰고 요금과 기술 지원도 오라클 한 곳에서 해결할 수 있다.레드햇은 20일 OCI에서 RHEL을 퍼스트파티(클라우드 회사가 직접 판매하고 책임지는 상품) 제품으로 제공한다고 밝혔다. 오라클 마켓플레이스(오라클 클라우드 안의 소프트웨어 장터)에서는 오픈시프트와 앤서블 등 레드햇 주요 제품도 판매한다",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-10-20 17:07",
+    "published_sort": "2026-10-20T17:07:58+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "[단독] 한미사이언스 27일 이사회…신동국 자본시장법 위반 논란 다루나",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=676117",
+    "summary": "한미약품그룹의 최대주주 신동국 한양정밀 회장이 지주사 한미사이언스의 지분(35.10%)을 취득하는 과정에서 공개매수와 관련한 자본시장법을 위반했다는 논란이 커지고 있다. 금융감독원에서 이를 공개매수 의무 위반으로 결론지을 시 그는 약 11%의 매입 지분을 처분해야 한다.이에 따라 한미그룹의 경영권과 주가에도 영향을 미칠 수 있는 만큼 이달 이사회를 개최하는 한미약품과 한미사이언스가 해당 사안을 다루게 될지 주목된다. 신동국 공개매수 논란, 이사회 대응 수위는20일 한미사이언스에 따르면 27일 감사위원회를 마친 뒤 같은 날 정기 이사",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-10-20 17:02",
+    "published_sort": "2026-10-20T17:02:51+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "법규/정책"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "롯데카드, 45일 영업정지에 10만여명 이탈…최악은 면했다",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=676163",
+    "summary": "롯데카드가 대규모 해킹 사태에 따른 당국의 45일 영업정지 제재를 소화하는 동안 10만명 안팎의 회원이 이탈한 것으로 나타났다. 시장에서 최대 13만명의 회원 감소를 예상한 것에 비춰보면 최악의 시나리오는 피했다는 평가다. 연말까지 결제 활동의 기반이 되는 회원 규모를 다시 회복해 나가는 게 과제로 떠올랐다.20일 여신금융협회에 따르면 9월 말 기준 롯데카드의 개인 신용카드 회원 수는 953만2000명으로 집계됐다. 롯데카드는 지난해 9월 297만명의 개인정보 유출이 벌어지면서 금융위원회로부터 45일의 영업정지 제재를 받았다. 이에",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-10-20 17:01",
+    "published_sort": "2026-10-20T17:01:12+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "기타"
+    ],
+    "flag": true,
+    "flag_hits": [
+      "제재"
+    ]
+  },
+  {
+    "title": "[게시판] NC AI, 바르코 3D·사운드 50% 할인 프로모션 등 단신",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216455",
+    "summary": "■ NC AI(대표 이연수)는 3D 생성 AI '바르코 3D'와 사운드 생성 AI '바르코 사운드'의 상품 개편에 맞춰 다음 달 30일까지 첫 달 구독료 50% 할인 프로모션을 진행한다고 밝혔다. 신규 가입자와 무료 이용자가 유료 요금제를 결제하면 할인과 함께 보너스 포인트도 지급한다. 바르코 3D는 텍스트나 이미지로 3D 애셋을, 바르코 사운드는 콘텐츠 맥락에 맞는 효과음과 환경음을 생성하는 서비스다.■ KT(대표 박윤영)는 서울 송파구 소피텔 앰배서더 서울에서 AI 스타트업 육성 프로그램 ‘K-PATH 2026’ 행사를 열었다고",
+    "source": "AI타임스",
+    "region": "국내",
+    "published": "2026-10-20 17:00",
+    "published_sort": "2026-10-20T17:00:00+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "삼성생명 최초 버그바운티 시행 1년여…CISO 책무 범위 늘었나",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=676130",
+    "summary": "금융권에서 고객정보 유출 사고가 잇따르는 가운데 각 금융사의 대응 전략에 이목이 쏠리고 있다. 업계 1위 삼성생명은 임직원의 보안 위반 여부를 월별로 평가하고 악성코드 이메일 모의훈련 취약률을 핵심 관리 지표로 삼고 있다. 2022년 1.29%였던 취약률은 작년 0.95%로 낮아졌다. 2030년까지 0.5%로 줄이는 목표도 세웠다.20일 삼성생명에 따르면 내부 보안 관리는 임직원 평가와 취약점 제보, 모의훈련, 영업 현장 점검을 함께 운영 중이다. 보안 위반 시 월별 보안지수에 감점을 적용하고 모의훈련 결과도 평가에 반영한다. 임직",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-10-20 16:59",
+    "published_sort": "2026-10-20T16:59:02+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "현대아산 건설현장서 근로자 1명 사망…일부 작업중지 명령",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=676157",
+    "summary": "현대아산이 시공하는 경북 안동시 국도건설공사 현장에서 협력업체 소속 근로자 1명이 사망했다. 고용노동부는 현장 일부 작업에 대해 중지 명령을 내렸으며 현재 정확한 사망 원인을 조사하고 있다.20일 금융감독원 전자공시시스템에 따르면 17일 경북 안동시 길안면 송사리 일원의 '포항-안동2(1공구) 국도건설공사' 현장에서 현대아산 협력업체 소속 근로자 1명이 숨졌다.해당 근로자는 점심시간 중 심정지 상태로 발견돼 구급차로 병원에 이송됐으나 끝내 사망했다. 현재까지 정확한 사망 원인은 확인되지 않았다.현대아산은 이달 19일 고용노동부에 사",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-10-20 16:58",
+    "published_sort": "2026-10-20T16:58:42+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "AI 에이전트가 뚫은 기업 100여곳…660만원으로 '해킹 대중화' 열려",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216448",
+    "summary": "중국어를 사용하는 해커가 AI 에이전트를 활용해 미국과 캐나다, 호주, 일본의 기업 웹사이트 100여곳을 해킹한 것으로 드러났다. 이번 사건의 본질은 고도의 기술력을 갖춘 전문 해커 조직이 아니라, 누구라도 몇백만 원의 토큰 비용만으로 AI 에이전트를 동원해 대규모 침입을 감행할 수 있게 되었다는 점에 있다. 공격자는 직접 복잡한 해킹 작업을 수행하는 대신 AI 에이전트에 취약점 탐색과 침입을 맡겼으며, 전체 공격에 들어간 비용은 약 5000달러(약 660만원)에 불과했다.로이터는 19일(현지시간) 사이버 보안 기업 노포지(NorF",
+    "source": "AI타임스",
+    "region": "국내",
+    "published": "2026-10-20 16:56",
+    "published_sort": "2026-10-20T16:56:19+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "베스핀글로벌, 국내외 AX 사례 34건 공개…산업별 성과 정리",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=676128",
+    "summary": "베스핀글로벌이 금융·공공·제조·유통·서비스 등 주요 산업의 인공지능전환(AX) 성과를 사례집으로 묶어 공개했다.베스핀글로벌은 20일 국내외 AX 적용 사례 34건을 담은 '2026 산업별 AX 고객 사례집'을 발간했다고 밝혔다.베스핀글로벌은 AI 서비스와 클라우드 운영·관리 사업을 하는 기업이다. 기업의 클라우드 전환을 지원하는 관리형서비스제공업체(MSP) 사업을 기반으로 최근에는 생성형AI·데이터·AI 에이전트를 결합한 AX 사업을 확대하고 있다.사례집에는 글로벌 선도 사례와 KB라이프·우리금융지주·한국수력원자력·산림청 등 14개",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-10-20 16:47",
+    "published_sort": "2026-10-20T16:47:14+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "[글로벌] 미국, 딥시크 사용 금지 확대...중국 AI 보안 우려에 규제 강화",
+    "link": "https://www.techm.kr/news/articleView.html?idxno=156303",
+    "summary": "미국 정부가 중국 인공지능(AI) 기업 딥시크에 대한 규제를 강화하고 있다. 연방정부 기관에서 딥시크 제품뿐 아니라 딥시크 모델을 활용한 외부 서비스까지 사용을 제한하기로 했다. AI 기술 경쟁이 반도체 수출 규제를 넘어 실제 AI 서비스의 보안과 데이터 관리 문제로 확대되는 모습이다.20일 주요 외신보도에 따르면 미국 국토안보부(DHS)는 연방 민간기관의 정보기술 시스템에서 딥시크 제품과 관련 서비스를 제거하도록 지시했다. 딥시크 모델을 활용해 개발된 제3자 제품과 서비스도 대상에 포함된다. 해당 기관들이 관련 제품과 서비스를 새",
+    "source": "테크M",
+    "region": "국내",
+    "published": "2026-10-20 16:46",
+    "published_sort": "2026-10-20T16:46:28+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "법규/정책",
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "스팀 넥스트 페스트 개막, K게임 유망주 글로벌 시험대",
+    "link": "https://www.techm.kr/news/articleView.html?idxno=156301",
+    "summary": "글로벌 PC게임 유통 플랫폼 스팀이 20일 향후 출시 예정인 수많은 PC게임 신작을 소개하는 행사 '스팀 넥스트 페스트'의 시작을 알렸다. 국내 주요 게임사들 또한 다수 참가하며 글로벌 흥행을 위한 발판을 마련할 방침이다. 스팀 넥스트 페스트는 스팀에서 매년 세차례 진행하는 신작 중심 행사다. 행사 기간에는 전세계 각지에 있는 수많은 게임사들이 준비중인 신작 체험판 공개부터 개발자 소통 방송, 온라인 테스트 등 다양한 방식으로 신작의 면면을 알린다. PC·콘솔 등 신작 출시 영역을 넓히고 있는 국내 게임업계에서도 적극적으로 참여하는",
+    "source": "테크M",
+    "region": "국내",
+    "published": "2026-10-20 16:43",
+    "published_sort": "2026-10-20T16:43:22+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "'몸값 1조' 엘리스, 코스닥 호된 신고식...상장 첫날 32% 급락",
+    "link": "https://www.techm.kr/news/articleView.html?idxno=156308",
+    "summary": "기업공개(IPO) 과정에서 10조원이 넘는 청약증거금을 끌어모으며 흥행에 성공했던 엘리스가 코스닥 상장 첫날 공모가보다 32% 낮은 가격에 거래를 마쳤다. 20일 한국거래소에 따르면 엘리스는 이날 공모가 9만500원에서 32.04% 하락한 주당 6만1500원에 정규장을 마감했다.이날 거래는 주당 7만5700원에 시작됐다. 장중 한때 7만7700원까지 올랐지만 이후 하락세를 보이며 5만6500원까지 떨어졌다. 공모가 대비 37.57% 낮은 가격이다.시가총액은 6844억원으로 장을 마감했다. 공모가를 기준으로 하루 사이 약 3227억원",
+    "source": "테크M",
+    "region": "국내",
+    "published": "2026-10-20 16:39",
+    "published_sort": "2026-10-20T16:39:26+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "미 국방차관 \"AI 기업 협조 안 하면 수출 통제 직접 가할 것\"",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216445",
+    "summary": "미국 국방부 고위 관계자가 AI 기업들이 정부에 협조하지 않으면 수출 통제 등 강력한 조치를 시행할 수 있다고 경고했다. AI 기술이 국가 안보에 미치는 영향이 커지는 가운데, 도널드 트럼프 행정부가 AI 기업에 대한 감독과 통제를 강화할 수 있음을 시사한 것이다.에밀 마이클 미 국방부 연구·공학 담당 차관은 19일(현지시간) 디 인포메이션과의 인터뷰에서 정부가 AI 기업의 행동을 제한할 수 있는 다양한 방법이 있다고 밝혔다.그는 “적대국에 이점을 줄 수 있다고 판단되는 기술의 수출 제한부터 외국인의 소프트웨어 사용을 제한하는 직접",
+    "source": "AI타임스",
+    "region": "국내",
+    "published": "2026-10-20 16:38",
+    "published_sort": "2026-10-20T16:38:57+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "법규/정책",
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "‘이병철 창간 정신’ 잇는 CJ·신세계…‘범삼성’ 명분 중앙일보 인수전",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=676119",
+    "summary": "고(故) 이병철 삼성 창업주가 세운 중앙일보에 범(汎)삼성가 자본이 다시 모인다. 다우키움그룹이 전면에 선 인수 컨소시엄에 CJ그룹과 ㈜신세계가 잇따라 합류하면서 식품·콘텐츠·유통 대기업이 일간지 지분을 나눠 갖는 구도가 짜였다. 다만 창업 유산을 잇는다는 상징성을 넘어 두 그룹이 수천억원의 투자로 얻을 사업적 실익을 입증하는 일이 과제로 남는다.20일 ㈜신세계에 따르면 회사는 전날 중앙일보 인수 우선협상대상자로 선정된 다우키움·CJ 컨소시엄에 합류해 중앙일보 신주 인수에 참여한다. IB 업계에서는 컨소시엄 내 지분을 다우키움 50",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-10-20 16:32",
+    "published_sort": "2026-10-20T16:32:59+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "수은 '18억 항공우주 용역' 국감서 논란…KAI 민영화 의혹 부인",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=676148",
+    "summary": "한국항공우주산업(KAI) 최대주주인 한국수출입은행이 발주한 18억원 규모의 우주·항공산업 컨설팅 용역을 두고 KAI 민영화를 위한 사전 작업 아니냐는 의혹이 국정감사에서 제기됐다. 황기연 수출입은행장은 사실이 아니라며 선을 그었다.황 은행장은 20일 국회 재정기획위원회 국정감사에서 증인으로 출석해 해당 용역을 두고 \"민영화를 전제로 한 것이 아니다\"고 밝혔다. 또 정치권 일각에서 KAI 지분을 민간에 넘길 것을 요구했다는 의혹에 관해 \"들은 것이 없다\"고 말했다.논란이 된 용역은 수은이 8월 발주한 '우주·항공산업 경쟁력 강화를 위",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-10-20 16:27",
+    "published_sort": "2026-10-20T16:27:05+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "딥시크, 플래그십 모델 사전학습에 화웨이 칩 본격 투입...국산 AI 자립 속도",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216439",
+    "summary": "딥시크가 화웨이와 협력해 차세대 AI 칩 설계 단계부터 기술 개발에 참여하고 있다. 중국산 칩만으로도 최첨단 AI 모델을 학습할 수 있는 기반을 마련한 것으로, 엔비디아 의존도를 낮추려는 중국의 AI 인프라 자립 움직임이 빨라지고 있다.19일(현지시간) 디 인포메이션에 따르면, 화웨이는 엔지니어들을 딥시크 사무실에 장기간 파견해 칩 설계에 관한 요구 사항을 반영하고 있다.양사의 협력은 단순한 부품 공급이나 제품 로드맵 논의를 넘어선다. AI 모델의 연산 방식과 프로세서 사이의 데이터 전송 효율을 높이기 위한 양사 간의 긴밀한 조율이",
+    "source": "AI타임스",
+    "region": "국내",
+    "published": "2026-10-20 16:25",
+    "published_sort": "2026-10-20T16:25:07+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in it’s LEGO era’",
+    "link": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
+    "summary": "It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity.",
+    "source": "TechCrunch",
+    "region": "해외",
+    "published": "2026-10-20 16:20",
+    "published_sort": "2026-10-20T16:20:06+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "AI/신기술",
+      "UI/UX"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "인니서 잘 팔리네...韓 보안기업들, 현지 금융권에 제품 공급",
+    "link": "https://www.techm.kr/news/articleView.html?idxno=156307",
+    "summary": "국내 보안기업들이 인도네시아 금융권에서 제품 공급 계약을 따내고 있다. 스틸리언은 현지 은행 두 곳을 신규 고객사로 추가했고, 에브리존은 지난해 따낸 제품 공급 계약을 연장했다.스틸리언은 인도네시아 국영은행 BTN과 북부수마트라 지방은행 뱅크 스무트에 모바일 앱 보안 설루션 '앱수트'를 공급한다고 20일 밝혔다.BTN은 주택금융 등을 취급하는 인도네시아 국영은행이다. 글로벌 보안 제품과의 비교검증을 거쳐 '앱수트'를 선정했다. 가맹점용 모바일 앱에 우선 적용하고 다른 모바일 서비스로 도입 범위를 확대할 계획이다.뱅크 스무트는 기존에",
+    "source": "테크M",
+    "region": "국내",
+    "published": "2026-10-20 16:16",
+    "published_sort": "2026-10-20T16:16:49+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "BCG \"韓, 'AI 선도국' 그룹 첫 진입...이제는 산업 AX 가속화 관건\"",
+    "link": "https://www.techm.kr/news/articleView.html?idxno=156304",
+    "summary": "한국이 미국·중국·영국·싱가포르·캐나다와 함께 'AI 선도국'에 진입했다는 조사 결과가 공개됐다. 이는 국가적 측면의 AI 성숙도가 최상위 단계에 이르렀다는 것을 의미한다.20일 보스턴컨설팅그룹(BCG)은 전 세계 75개 이상 경제권을 대상으로 AI 성숙도를 분석한 'AI 성숙도 매트릭스 2026' 보고서를 통해 이 같은 소식을 전했다. 2024년 첫 조사 이후 AI 선도국 그룹에 새롭게 진입한 경제권은 한국과 일본 두 곳이다.BCG는 한국이 자체 AI 모델 개발에서 두각을 나타냈으며 컴퓨팅 인프라와 AI 생태계 구축을 위한 대규모",
+    "source": "테크M",
+    "region": "국내",
+    "published": "2026-10-20 16:15",
+    "published_sort": "2026-10-20T16:15:00+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "광양경자청, 여수시의회 해양도시건설위원회와 간담회 개최",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216453",
+    "summary": "광양만권경제자유구역청(청장 구충곤)은 20일 여수시의회 해양도시건설위원회(위원장 정신출) 위원들과 광양경자청에서 간담회를 가졌다고 밝혔다.이번 면담은 최근 지역 사회의 관심이 집중된 경도 개발사업의 진행 상황을 공유하고, 성공적인 해양관광단지 조성을 위해 광양경자청과 여수시의회가 긴밀히 소통하며 공동 대응하기 위해 마련됐다.이날 간담회에서 양 기관은 주요 현안에 대해 폭넓은 의견을 교환했다.먼저, 양 기관은 사업시행자인 미래에셋 측의 책임 있는 투자 이행을 강력히 촉구하고 독려해야 한다는 데 뜻을 모았다. 광양경자청은 지역 균형발전",
+    "source": "AI타임스",
+    "region": "국내",
+    "published": "2026-10-20 16:11",
+    "published_sort": "2026-10-20T16:11:02+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "아마존, 파이토치 연동 '토치뉴런' 공개...엔비디아 SW 독점에 도전",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216434",
+    "summary": "아마존이 AI 개발자가 기존 코드를 거의 수정하지 않고 자사 AI 칩에서 실행할 수 있도록 지원하는 오픈소스 소프트웨어 '토치뉴런(TorchNeuron)'을 공개했다. AI 개발에 널리 쓰이는 파이토치(PyTorch)와 자체 AI 칩 트레이니움(Trainium)을 연결해 개발자의 하드웨어 선택 폭을 넓히겠다는 전략이다.아마존웹서비스(AWS)는 19일(현지시간) 미국에서 열린 파이토치 개발자 행사에서 ‘토치뉴런’을 공개하고, 아파치 2.0 라이선스 기반의 오픈소스로 제공한다고 밝혔다. 이를 통해 엔비디아가 소프트웨어 생태계를 기반으로",
+    "source": "AI타임스",
+    "region": "국내",
+    "published": "2026-10-20 16:07",
+    "published_sort": "2026-10-20T16:07:22+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "Streaming guide JustWatch becomes a streamer itself",
+    "link": "https://techcrunch.com/2026/10/20/streaming-guide-justwatch-becomes-a-streamer-itself/",
+    "summary": "JustWatch, the popular streaming search guide used by 50 million people, is launching its own streaming service, offering free, ad-supported movies and shows alongside a $3.99-per-month ad-free tier and movie rentals.",
+    "source": "TechCrunch",
+    "region": "해외",
+    "published": "2026-10-20 16:01",
+    "published_sort": "2026-10-20T16:01:24+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "UI/UX"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "차입·매각 대신 '본업 성장'…KT&G, 환원 재원 바뀐다",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=676126",
+    "summary": "KT&G의 배당이 늘어날 전망이다. 지난 2년간 자산 매각과 차입으로 버텨온 주주환원을 올해부터 본업에서 번 돈으로 감당할 수 있게 됐다. 투자가 마무리 단계에 들어선 올해부터 해외 궐련을 중심으로 불어난 본업 이익이 환원을 이끄는 구조로 바뀌고 있기 때문이다. 새 정책 역시 본업 성장을 발판으로 배당을 늘리는 쪽에 무게가 실릴 것이란 관측이 나온다.20일 증권업계에 따르면 KT&G는 11월 초 새 주주환원 정책을 발표할 예정이다. 현행 정책은 2024년 11월 내놓은 2024~2027년 4개년 계획이다. 배당 2조4000억원과 자",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-10-20 16:01",
+    "published_sort": "2026-10-20T16:01:00+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
+    "link": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
+    "summary": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.",
+    "source": "TechCrunch",
+    "region": "해외",
+    "published": "2026-10-20 16:00",
+    "published_sort": "2026-10-20T16:00:00+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "AI/신기술",
+      "UI/UX"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "[단독] 롯데칠성, 제주 대신 충주에 위스키 증류소 짓는다",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=676123",
+    "summary": "제주에서 멈춰 섰던 롯데칠성음료의 국산 위스키 사업이 충북 충주에서 다시 시동을 건다. 지난해 증류소 건립 계획을 접은 지 1년여 만이다. 맥주 판매 부진으로 활용도가 떨어진 충주2공장에 위스키 증류설비를 들일 계획이다. 이미 제작된 해외 설비와 공장 내 유휴 공간을 활용해 투자 부담을 줄이면서 국산 위스키 생산에 재도전하려는 구상이다.20일 유통업계에 따르면 롯데칠성음료는 충주2공장에 위스키 증류시설을 구축하는 방향으로 사업 계획을 변경한 것으로 파악됐다. 최근 관련 안건이 이사회에 상정됐으며 제주 증류소용으로 제작한 해외 설비를",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-10-20 15:58",
+    "published_sort": "2026-10-20T15:58:59+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "HMM, 운임 회복에 투자 보폭 확대…29조 선대 확충 본격화",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=676133",
+    "summary": "HMM의 29조원 규모 중장기 선대 확충 계획이 본격적인 실행 단계에 들어섰다. 올해 들어서만 투자 규모가 6조원을 넘어선 데 이어 최근 HD현대그룹에 컨테이너선을 추가 발주했다. 보유 금융자산과 개선된 실적을 바탕으로 선대 확충에 속도를 내고 있다. 대형선·피더선 동시 확보…허브 앤 스포크 강화HMM은 20일 컨테이너선 8척과 피더선 4척 확보에 총 2조1000억원을 투자한다고 밝혔다. 1만3000TEU급 선박 8척은 HD현대삼호에서 6척, HD현대중공업에서 2척을 건조한다. 2029년부터 순차적으로 인도받을 예정이다. 나머지 피",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-10-20 15:53",
+    "published_sort": "2026-10-20T15:53:02+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "[탄소중립과 혁신V] (1)지역 전략산업의 AI·탄소중립 전환과 블루이코노미",
+    "link": "https://www.techm.kr/news/articleView.html?idxno=156302",
+    "summary": "탄소중립은 더 이상 장기적인 목표나 선언에 머물 수 없는 과제가 됐습니다. 이제 성패는 목표를 어떻게 실행하느냐에 달려 있습니다. 온실가스 감축 성과를 측정하고, 산업과 에너지 체계를 바꾸며, 지역과 시민이 전환에 참여할 수 있는 기반을 마련해야 합니다. 인공지능(AI)과 데이터, 전력망, 자원순환 기술의 발전이 정책의 공정성, 시민 참여와 맞물릴 때 변화는 현장에 뿌리내릴 수 있습니다. 테크M은 연속기획 '탄소중립과 혁신'을 통해 '선언에서 실행으로, 탄소중립 전환을 설계하는 기술과 사회'를 조명합니다. 연구기관·대학·기업·지역",
+    "source": "테크M",
+    "region": "국내",
+    "published": "2026-10-20 15:47",
+    "published_sort": "2026-10-20T15:47:26+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "ERP 화면에서 금융 업무 본다...영림원소프트랩, KB국민은행과 '맞손'",
+    "link": "https://www.techm.kr/news/articleView.html?idxno=156300",
+    "summary": "영림원소프트랩과 KB국민은행이 전사적자원관리(ERP) 화면에서 자금 관리를 비롯한 금융 업무를 처리할 수 있도록 협력한다. 영림원소프트랩은 KB국민은행과 이같은 내용을 담은 업무협약(MOU)을 체결했다고 20일 밝혔다. 전날 진행된 이번 협약은 영림원소프트랩의 전사적자원관리(ERP) 설루션과 KB국민은행의 금융 서비스를 연계해 기업 고객의 금융 서비스 이용 편의성을 높이고 양사 간 지속 가능한 협력 모델을 구축하기 위해 마련됐다.양사는 ERP 내 금융 응용 프로그램 인터페이스(API) 및 자금관리 서비스(CMS) 설루션을 연계해 기",
+    "source": "테크M",
+    "region": "국내",
+    "published": "2026-10-20 15:46",
+    "published_sort": "2026-10-20T15:46:58+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "UI/UX"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "㈜한화 건설부문, 대전 복합개발 좌초 위기…매몰 비용 유탄 맞나",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=676131",
+    "summary": "㈜한화 건설부문의 사업 다각화 한 축이던 역세권 복합개발사업에 제동이 걸렸다. 대전역세권 복합개발이 토지대금 잔금 미납으로 계약 해지를 앞두고 있다. 올해 상반기 말 수주잔액 7665억원이 잡혀 있는 사업이다. 기존 대형 현장 준공으로 매출이 감소하는 가운데 수서역 복합개발도 본공사 착공 시점이 정해지지 않아 후속 사업의 실적 전환이 과제로 남았다.20일 관련 업계에 따르면 ㈜한화 컨소시엄은 19일 최종 납부 시한까지 대전역세권 복합 2-1구역 개발사업의 토지대금 잔금 9억원을 납부하지 않았다. 전체 토지대금은 859억원으로 납부",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-10-20 15:45",
+    "published_sort": "2026-10-20T15:45:46+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "세일즈포스, 파트너 FDE 국내 도입...2027년 100명 이상 국내 전문가 양성",
+    "link": "https://www.techm.kr/news/articleView.html?idxno=156299",
+    "summary": "세일즈포스는 AI 에이전트 전문 인력 육성 프로그램인 '파트너 FDE(전방 배치 엔지니어)'를 도입한다고 20일 밝혔다. 지난 13일부터 사흘간 서울에서 개최한 워크숍을 시작으로 국내 기업의 '에이전틱 엔터프라이즈' 전환을 지원하는 파트너 역량을 대폭 강화할 계획이다.FDE는 고객의 사업 환경과 업무 절차를 이해하고, AI 에이전트 설계, 구축, 배포, 운영 및 최적화까지 전 과정을 지원하는 전문 엔지니어다. 세일즈포스는 이번 프로그램을 통해 자사 전문 엔지니어링 역량과 기술 표준을 국내 파트너사에 직접 공유한다. 고객 현장에서 A",
+    "source": "테크M",
+    "region": "국내",
+    "published": "2026-10-20 15:44",
+    "published_sort": "2026-10-20T15:44:35+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "[부동산신탁 재편] 신한자산신탁, 다각화 열쇠 '리츠운용사 합병'",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=676122",
+    "summary": "신한자산신탁이 신한리츠운용 흡수합병을 통한 사업 다각화에 나섰다. 기존 신탁사업에서는 부동산 개발시장 침체에 대응해 책임준공형 개발신탁 신규 수주를 줄이고 일반 관리형토지신탁과 담보신탁 수주를 이어가고 있다. 다만 기존 책임준공형 사업장에 투입한 자금 회수 부담은 여전히 남아 있다. 개발신탁 비중 39.5%, 토지신탁 보수 의존 여전20일 금융감독원 전자공시시스템에 따르면 신한자산신탁의 책임준공형 개발신탁 신규 수주 약정보수는 올해 상반기 3억원으로 집계됐다. 부동산 경기 침체로 프로젝트파이낸싱(PF) 대출 실행이 어려워지고 분양사",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-10-20 15:40",
+    "published_sort": "2026-10-20T15:40:04+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "플리토, 3분기 누적 영업익 103억…전년 연간 실적 돌파",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=676125",
+    "summary": "인공지능(AI) 데이터 및 솔루션 전문 기업 플리토가 연결 기준 2026년 3분기 누적 매출 약 311억원, 영업이익 약 103억원을 기록하며 창사 이래 최대 실적을 달성했다고 20일 밝혔다.전년 동기 대비 3분기 누적 매출은 20.7%, 영업이익은 89.7% 증가했다. 특히 누적 영업이익은 약 103억원으로, 단 3개 분기 만에 지난해 연간 전체 영업이익 약 62억원의 167.5%를 달성했다. 지난해 창사 첫 연간 영업흑자에 이어 올해는 역대 최대 영업이익을 경신한 것이다. 3분기 단일 매출과 영업이익도 각각 약 178억원, 약",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-10-20 15:34",
+    "published_sort": "2026-10-20T15:34:12+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "가상자산 과세 시행 앞두고...업계선 \"제도 시행 위한 실무적 준비 필요\" 한 목소리",
+    "link": "https://www.techm.kr/news/articleView.html?idxno=156305",
+    "summary": "국내 5대 가상자산 거래소 관계자들이 권대영 재정경제부 1차관과 만나 내년 1월 시행 예정인 가상자산 소득 과세와 관련한 현장 의견을 전달했다. 업계에서는 거래 방식의 다양화에 대응한 명확한 과세 기준 마련과 과세자료 제출 시스템 구축 등을 위한 준비 기간 확보를 요청했다. 이에 정부는 국가 간 정보교환 여건과 거래 유형별 과세 기준, 납세 편의 등을 종합적으로 점검한다는 방침이다.20일 재정경제부에 따르면 권대영 1차관은 서울지방조달청 PPS홀에서 가상자산 과세 관련 현장 간담회를 개최했다. 이번 간담회는 내년 1월 1일 가상자산",
+    "source": "테크M",
+    "region": "국내",
+    "published": "2026-10-20 15:33",
+    "published_sort": "2026-10-20T15:33:12+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "파마리서치바이오, 2공장 지연에도 유동성 436억 유지…본업이 버팀목",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=676118",
+    "summary": "파마리서치바이오가 제2공장 가동의 지연에도 설비투자를 이어갈 재무여력을 유지하고 있다. 2024년 말부터 올해 상반기까지 현금과 단기금융상품 합계는 2.8% 줄어드는 데 그쳤다. 본업에서 창출한 현금이 설비투자 지출을 상당 부분 뒷받침했다. 올해 상반기 매출·영업이익도 증가했다. 공장 허가 비용이 늘었지만 반기 수익성은 유지됐다. 과제는 기존 공장의 100% 가동률을 바탕으로 변경된 일정에 맞춰 제2공장을 가동하는 것이다. 전환사채(CB) 처리도 변수다. 설비투자에도 유동성 436억 유지20일 파마리서치바이오의 재무자료를 분석한 결",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-10-20 15:22",
+    "published_sort": "2026-10-20T15:22:42+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "'4F² 퀀텀점프' 외친 中 CXMT…실적은 '순익 1%대' 제자리",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=676121",
+    "summary": "중국 최대 D램 제조사 창신메모리(CXMT)가 차세대 기술 '4F²'을 앞세워 삼성전자와 SK하이닉스를 위협하고 있지만 실제 고부가 메모리 경쟁력에서는 여전히 격차를 드러내고 있는 것으로 나타났다. 글로벌 메모리 초호황에도 3분기 순이익 증가율이 1%대까지 떨어지면서 HBM(고대역폭메모리) 등 고부가 제품의 상용 공급 실적 없이 일반·저전력 디램에 집중된 사업 구조가 한계로 지적된다.다만 중국 정부의 막대한 자본 투자와 세제·금융 지원이 CXMT의 기술 개발과 생산 시설 확충을 뒷받침하고 있어 낮은 수익성에도 추격을 지속할 수 있다",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-10-20 15:11",
+    "published_sort": "2026-10-20T15:11:07+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "애플, 28일 신제품 행사서 첫 터치스크린 맥북 프로 공개",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216442",
+    "summary": "애플이 오는 28일(현지시간) 미국 로스앤젤레스에서 신제품 공개 행사 ‘프로 앤 텔(Pro and tell)’을 개최하고 브랜드 최초의 터치스크린 맥북 프로를 선보일 것으로 알려졌다. 아이패드와 맥의 사용 경험을 분리해 온 기존 정책을 뒤집는 변화로, 디스플레이와 인터페이스를 비롯한 맥북의 설계 방향에도 영향을 줄 전망이다.애플은 19일 미디어와 애널리스트들에게 ‘애플 익스피리언스 인 로스앤젤레스(Apple Experience in Los Angeles)’라는 행사 초청장을 발송했다. ‘프로를 위한 발표’이라는 문구는 고성능 프로",
+    "source": "AI타임스",
+    "region": "국내",
+    "published": "2026-10-20 15:10",
+    "published_sort": "2026-10-20T15:10:57+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "UI/UX"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "TikTok staff raised child safety concerns, but executives reportedly failed to act",
+    "link": "https://techcrunch.com/2026/10/20/tiktok-staff-raised-child-safety-concerns-but-executives-reportedly-failed-to-act/",
+    "summary": "Court documents show TikTok employees were frustrated with how executives responded to their concerns about risks to children.",
+    "source": "TechCrunch",
+    "region": "해외",
+    "published": "2026-10-20 15:03",
+    "published_sort": "2026-10-20T15:03:41+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "법규/정책",
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "나주서 남도음식문화포럼…미식관광·외식산업 발전 논의",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216435",
+    "summary": "AI 생성 영상나주 음식문화의 역사와 미래 활용 방안을 살펴보는 ‘남도음식문화포럼’이 열렸다.나주는 최근 나주정미소 3관에서 ‘남도음식의 종가, 나주를 말하다’를 주제로 포럼을 열고 지역 음식문화를 미식관광과 외식산업으로 연계하는 방안을 논의했다고 20일 밝혔다.이번 행사는 오는 23일부터 25일까지 영산강정원에서 열리는 ‘제31회 남도음식문화큰잔치’의 사전 행사로 마련됐다. 포럼에는 시민과 학생, 외식업 관계자와 음식·역사·문화·관광 분야 전문가 등이 참여했다.전문가 토크쇼에는 대한민국 조리명장 안유성 셰프를 비롯해 천수봉 남도반",
+    "source": "AI타임스",
+    "region": "국내",
+    "published": "2026-10-20 14:59",
+    "published_sort": "2026-10-20T14:59:07+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "목포, 행정업무에 생성 AI 도입…LLM 11종 활용",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216433",
+    "summary": "AI 생성 영상목포시가 생성 AI를 행정업무에 도입하고 다국어 누리집 서비스에도 활용한다.목포는 지난 16일부터 전 직원을 대상으로 ‘생성형 AI 업무지원 플랫폼’ 운영을 시작했다고 20일 밝혔다.플랫폼은 챗GPT와 제미나이, 클로드 등 대형언어모델(LLM) 11종을 행정망에서 활용할 수 있도록 구축됐다. 새올행정시스템과 통합인증(SSO) 방식으로 연동해 별도의 인증 절차를 줄였으며, 개인정보 자동 비식별화 필터링을 적용해 민감정보 유출 방지 기능도 마련했다.목포는 생성 AI를 단순·반복 업무에 활용해 직원들이 정책 기획과 데이터",
+    "source": "AI타임스",
+    "region": "국내",
+    "published": "2026-10-20 14:58",
+    "published_sort": "2026-10-20T14:58:26+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "전남광주, 벼 재배면적·쌀 예상생산량 전국 1위…73만8159톤 전망",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216431",
+    "summary": "AI 생성 영상전남광주통합특별시의 올해 벼 재배면적과 쌀 예상생산량이 전국 시·도 가운데 가장 큰 것으로 나타났다.전남광주는 국가데이터처가 발표한 ‘2026년 쌀 예상생산량조사 결과’에서 지역 벼 재배면적이 14만8349헥타르(ha), 쌀 예상생산량은 73만8159톤으로 각각 전국 1위를 기록했다고 20일 밝혔다.전남광주의 예상생산량은 전국 쌀 예상생산량의 약 21%에 해당한다. 전국 쌀 예상생산량은 351만8000톤으로 지난해보다 2만1000톤(0.6%) 감소할 것으로 전망됐다.전국 벼 재배면적은 67만69ha로 전년보다 1.1%",
+    "source": "AI타임스",
+    "region": "국내",
+    "published": "2026-10-20 14:56",
+    "published_sort": "2026-10-20T14:56:48+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "나루씨큐리티, AI 웹 방어 서비스 '제로티카 라이트 웹' 출시",
+    "link": "https://www.techm.kr/news/articleView.html?idxno=156297",
+    "summary": "나루씨큐리티가 방화벽 로그 중심의 침해평가 기술을 웹 영역까지 확장해 네트워크와 웹을 아우르는 AI 기반 통합 위협 대응 체계를 강화한다.나루씨큐리티는 AI 웹 방어 서비스 '제로티카 라이트 웹'을 출시한다고 20일 밝혔다.이번 서비스 출시 배경에는 AI를 활용한 공격이 자리했다. 인터넷에 노출된 웹 서비스와 API 취약점을 빠르게 탐색하고 반복적으로 공격하는 위협이 현실화되면서 대응 필요성이 높아지고 있다.금융권 등 주요 기관을 노린 공격에서는 여러 시스템과 서비스 간 연결 관계를 악용하는 사례가 이어지면서 개별 보안 장비의 탐지",
+    "source": "테크M",
+    "region": "국내",
+    "published": "2026-10-20 14:54",
+    "published_sort": "2026-10-20T14:54:19+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "삼성전기, 'AI 사업·AI 전환' 두 마리 토끼 잡는다",
+    "link": "https://www.techm.kr/news/articleView.html?idxno=156298",
+    "summary": "삼성전기가 인공지능(AI) 사업과 전환 모두 속도를 내고 있다. 삼성전기는 AI 서버와 반도체용 적층세라믹캐페시터(MLCC)와 반도체 기판 장기공급계약(LTA)을 확대 중이다. 사내 AX도 진행하고 있다.20일 삼성전기는 AI 사업과 AX 양쪽 모두 순항 중이라고 밝혔다.삼성전기는 지난 18일 글로벌 대형 기업과 '메모리 반도체용 패키지 기판 공급계약'을 체결했다. 3605억원 규모다. 계약기간은 내년 1월1일부터 12월31일까지다.패키지 기판은 반도체 칩과 메인 기판을 연결하는 역할이다. 전기 신호를 전달해 반도체가 안정적으로 작",
+    "source": "테크M",
+    "region": "국내",
+    "published": "2026-10-20 14:53",
+    "published_sort": "2026-10-20T14:53:57+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "Polestar tries to quantify what it’s like to drive a performance car",
+    "link": "https://arstechnica.com/cars/2026/10/polestar-tries-to-quantify-what-its-like-to-drive-a-performance-car/",
+    "summary": "Drivers had electrodes strapped to their heads as they tested EVs on track.",
+    "source": "Ars Technica",
+    "region": "해외",
+    "published": "2026-10-20 14:53",
+    "published_sort": "2026-10-20T14:53:07+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "엔스케일, 앤트로픽과 추가 60조 규모 컴퓨팅 계약 협상…총 120조 육박",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216446",
+    "summary": "영국 AI 클라우드 업체 엔스케일이 450억달러(약 59조7510억원) 규모의 추가 컴퓨팅 공급 계약을 앤트로픽과 협상하고 있다. 성사되면 기존 계약을 합친 거래 규모는 약 900억달러(약 119조5020억원)에 이른다. 최근 마이크로소프트(MS)의 영국 데이터센터 계약 해지로 상장을 앞두고 악재를 만난 엔스케일에는 호재지만, 앤트로픽에 대한 의존도도 높아진다.블룸버그와 로이터는 19일(현지시간) 엔스케일이 미국 웨스트버지니아주 모나크 데이터센터 캠퍼스의 두 번째 시설에서 앤트로픽에 AI 컴퓨팅 자원을 공급하는 계약을 논의하고 있다",
+    "source": "AI타임스",
+    "region": "국내",
+    "published": "2026-10-20 14:41",
+    "published_sort": "2026-10-20T14:41:26+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "LG전자·KT, '안전' 시장 공략 '시동'",
+    "link": "https://www.techm.kr/news/articleView.html?idxno=156296",
+    "summary": "LG전자와 KT가 '안전' 시장 공략에 나섰다. LG전자는 교통을 주목했다. KT는 사업장 관리에 집중했다.20일 LG전자와 KT는 각각 안전 관리 시장 진출을 추진한다고 밝혔다.LG전자는 '2026 지능형교통체계(ITS) 세계 총회'에 참가했다. 19일부터 23일까지 강원 강릉시에서 열린다. ITS 총회는 각국 정부 등이 ITS 기술과 정책을 공유하는 자리다.LG전자는 차량사물통신(V2X)과 차량네트워크통신(V2N)을 결합한 교통안전 설루션을 시연했다. V2X는 차량과 도로 인프라 등이 직접 통신을 하는 것이 특징이다. V2N은",
+    "source": "테크M",
+    "region": "국내",
+    "published": "2026-10-20 14:23",
+    "published_sort": "2026-10-20T14:23:54+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "OK저축은행, 보안 구멍에 500여명 털렸다…정길호 책임론 번지나",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=676113",
+    "summary": "OK저축은행에서 발생한 연쇄 해킹으로 500명 넘는 고객의 개인·금융 정보가 유출된 가운데 책임 범위를 놓고 설왕설래가 이어지고 있다. 금융당국이 금융권 사이버 보안 실패의 책임 문제를 최고경영자(CEO)까지 다루겠다고 공식화하면서 정길호 OK저축은행 대표이사도 사정권에 들어올 수 있다는 평가가 나온다. 책무구조도상 내부통제 관리 의무 이행을 비롯해 사후 수습 노력, 불가항력적 여부 등이 쟁점으로 지목된다.20일 금융권에 따르면 금융감독원은 16일부터 OK저축은행 해킹 사태와 관련해 현장점검을 벌이고 있다. OK저축은행 측은 \"아직",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-10-20 14:22",
+    "published_sort": "2026-10-20T14:22:27+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "디스플레이 잡고 반도체로…이에스티, 웨이퍼 고정부품 키운다 [현장+]",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=676112",
+    "summary": "반도체·디스플레이 공정용 핵심부품 기업 이에스티가 코스닥 상장을 계기로 반도체 사업 확대에 나선다. 대면적 디스플레이 기판을 고정하는 기술을 바탕으로 고사양 반도체용 정전척과 유리기판용 제품까지 공급 범위를 넓힌다는 구상이다. 기존 디스플레이 중심의 사업구조를 재편하고 신규 제품의 양산을 확대하는 것이 향후 성장의 관건으로 꼽힌다. 대면적 OLED로 쌓은 기술력…반도체 공급망 진입이에스티는 20일 서울 여의도 63빌딩에서 기업공개(IPO) 기자간담회를 열고 코스닥 상장 계획과 중장기 성장 전략을 발표했다. 지난 9월 한국거래소의 상",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-10-20 14:16",
+    "published_sort": "2026-10-20T14:16:54+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "삼성전자 '삼성 아트 스토어·삼성 헬스' 강화...맞춤 서비스 확대",
+    "link": "https://www.techm.kr/news/articleView.html?idxno=156295",
+    "summary": "삼성전자가 완제품 고객 경험 향상 노력을 이어가고 있다. '삼성 아트 스토어'와 '삼성 헬스'를 개편했다.20일 삼성전자는 '삼성 아트 스토어'와 '삼성 헬스' 서비스를 정비했다고 밝혔다.삼성 아트 스토어는 삼성전자 TV용 예술 작품 구독 서비스다. 세계 유명 미술관과 작가의 대표작 5000점 이상을 보유했다. ▲더 프레임 프로 ▲더 프레임 ▲마이크로 적녹청(RGB) ▲유기발광다이오드(OLED) TV 등에서 즐길 수 있다.삼성전자는 이날 삼성 아트 스토어에 '아트 바젤 파리 2026' 주요작 19점을 공개했다. 조지아 출신 현대 미",
+    "source": "테크M",
+    "region": "국내",
+    "published": "2026-10-20 14:16",
+    "published_sort": "2026-10-20T14:16:09+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "SK하이닉스 '소부장'·KT '스타트업', 상생 활동 강화",
+    "link": "https://www.techm.kr/news/articleView.html?idxno=156292",
+    "summary": "SK하이닉스와 KT가 상생 활동을 강화했다. SK하이닉스는 소재/부품/장비(소부장) 업계를 지원한다. KT는 스타트업 육성을 이어간다.20일 SK하이닉스와 KT는 각각 환경/사회/지배구조(ESG) 경영을 확대했다고 밝혔다.SK하이닉스는 지난 19일 '수출공급망 강화보증 협약식 및 1호 보증서 전달식'을 가졌다.수출공급망 강화보증은 반도체 소부장 업체 대상이다. ▲SK하이닉스 ▲KB국민/신한/우리/하나은행 ▲한국무역보험공사가 손을 잡았다. SK하이닉스와 은행이 2조원 규모 재원을 출연했다. 소부장 업체는 대출 과정에서 발생하는 보증료",
+    "source": "테크M",
+    "region": "국내",
+    "published": "2026-10-20 14:15",
+    "published_sort": "2026-10-20T14:15:52+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
+    "link": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
+    "summary": "Figma said it plans to support as many standards as possible without exposing all of its data.",
+    "source": "TechCrunch",
+    "region": "해외",
+    "published": "2026-10-20 14:13",
+    "published_sort": "2026-10-20T14:13:32+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "'1일1주' 매입 나선 포스코퓨처엠 경영진…추가 유증설 '솔솔'",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=676087",
+    "summary": "엄기천 포스코퓨처엠 대표이사 사장을 포함한 주요 경영진이 함께 하루 1~2주씩 자사주 매입을 이어가면서 추가 유상증자 가능성에 관심이 쏠리고 있다. 엄 사장은 지난해에도 1조원이 넘는 유상증자를 결정하기 두 달 전 자사주를 매입한 바 있다. 대규모 증자 이후에도 차입 부담이 해소되지 않은 데다 향후 수천억원대 추가 투자가 예정돼 있어 지난해와 유사한 자금조달이 반복되는 게 아니냐는 관측이 나온다. 71차례 걸쳐 125주 매입, '또' 대규모 유증 신호탄? 20일 금융감독원 전자공시시스템에 따르면 엄 사장은 7월3일부터 이달 15일까",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-10-20 14:10",
+    "published_sort": "2026-10-20T14:10:26+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "SAP코리아, 성장기업 100곳 ERP 도입 문턱 낮춘다 [현장+]",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=676077",
+    "summary": "SAP코리아가 중소·중견기업의 전사적자원관리(ERP) 도입 부담을 낮추고 인공지능(AI) 활용을 위한 업무 기반 구축을 지원한다. 매출이 빠르게 늘더라도 경영관리 체계가 뒤따르지 못하면 투자 유치와 해외 진출 과정에서 어려움을 겪을 수 있다는 판단에서다. 성장 뒤 ERP 도입하면 비용·조직 부담 커져20일 서울 영등포구 IFC더포럼에서 열린 SAP코리아 기자간담회에서 김준영 SAP코리아 부사장은 회사가 중소·중견 성장기업 지원 프로그램 'SAP NEXT 100'을 추진하는 배경을 소개했다.김 부사장은 \"성장 초기부터 디지털 기반을",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-10-20 14:03",
+    "published_sort": "2026-10-20T14:03:08+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "아이티센글로벌 강진모, 자사주 추가 매입으로 지분율 12.34%",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=676080",
+    "summary": "강진모 아이티센글로벌 회장이 1억4000만원을 들여 회사 주식 6190주를 추가 매입했다. 이번 매수로 강 회장의 보유 지분율은 12.34%로 높아졌다.20일 금융감독원 전자공시시스템에 따르면 강 회장은 이달 두 차례에 걸쳐 아이티센글로벌 보통주 6190주를 장내 매수했다.강 회장은 16일 주당 2만2541원에 3990주를 매입했다. 이어 19일에는 주당 2만2760원에 2200주를 추가 취득했다. 총 매입금액은 1억4000만원이며 평균 매입단가는 2만2619원이다.이번 매수로 강 회장의 보유 주식은 기존 285만7587주에서 28",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-10-20 13:56",
+    "published_sort": "2026-10-20T13:56:52+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "코덱스 총괄 ‘티보’, 머스크 제쳤다…‘리셋 잘해주는 고마운 남자’",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216441",
+    "summary": "오픈AI의 코딩 에이전트 ‘코덱스’를 이끄는 티보 소티오가 X 계정 페이지 트래픽 순위에서 일론 머스크 CEO를 제치고 1위에 올랐다. 코덱스 이용 한도를 되살려 주는 ‘리셋’ 공지로 개발자들 사이에서 인기를 얻은 인물이다. 최근에는 28일 동안 매일 제품을 개선하거나 이용 한도를 초기화하겠다고 약속하며 게시물 하나하나에 관심이 쏠리고 있다.웹 트래픽 분석 전문 시밀러웹은 18일(현지시간) 9월 X 계정 페이지 트래픽 점유율 순위를 공개했다. 소티오의 계정 ‘@thsottiaux’가 1위, 축구 이적 전문 기자 파브리치오 로마노가",
+    "source": "AI타임스",
+    "region": "국내",
+    "published": "2026-10-20 13:54",
+    "published_sort": "2026-10-20T13:54:35+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "AI/신기술",
+      "UI/UX"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "'14조 유가 담합 의혹' 정유 4사 재판, 11월부터 본격 심리",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=676114",
+    "summary": "자본시장 사건파일미국·이란 전쟁 이후 담합으로 기름값을 인상한 혐의 등을 받는 국내 정유사 4곳의 재판이 11월 프레젠테이션(PT)을 시작으로 본격적인 심리에 들어간다. 공소청이 1차로 신청한 증인 35명에 대한 신문은 쟁점별로 진행될 예정이다.20일 서울중앙지법 형사5단독 류지미 판사는 독점규제 및 공정거래에 관한 법률 위반 등의 혐의로 기소된 HD현대오일뱅크·SK에너지·에쓰오일(S-OIL)·GS칼텍스 법인과 HD현대오일뱅크 임직원 3명, GS칼텍스 임직원 1명에 대한 공판준비기일을 마쳤다.이날 재판부는 공소청이 신청한 증인 35",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-10-20 13:51",
+    "published_sort": "2026-10-20T13:51:13+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "법규/정책"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "경영 진단은 무료, ERP는 반값...SAP, 제2의 글로벌 강소기업 키운다",
+    "link": "https://www.techm.kr/news/articleView.html?idxno=156291",
+    "summary": "SAP코리아가 AI 도입이나 해외 진출, 기업공개(IPO) 등을 앞둔 중소·중견기업 100곳을 지원한다. 조직의 현 상황을 무상 진단하고 컨설팅을 제공한다. SAP를 절반 가격에 도입할 수 기회도 포함됐다. 성장을 위해 조직의 변화를 수용할 수 있는 기업들이 대상이다.SAP코리아는 20일 서울 영등포구 국제금융센터에서 기자간담회를 열고 'SAP 넥스트 100'을 소개했다.넥스트 100은 SAP 코리아가 시행하는 중소·중견기업 성장 지원 프로그램이다. 최대 100개 기업을 선정해 경영 인프라와 AI 활용, 금융, 컨설팅을 패키지로 지",
+    "source": "테크M",
+    "region": "국내",
+    "published": "2026-10-20 13:44",
+    "published_sort": "2026-10-20T13:44:42+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "KT, 대내외 AX 행보 '가속'...'모두의 AI' 이어 '의료 AX' 진출",
+    "link": "https://www.techm.kr/news/articleView.html?idxno=156293",
+    "summary": "KT가 인공지능(AI) 행보를 강화했다. AI 전환(AX) 사업 분야 확대와 사내 AX 확장을 동시에 추진 중이다.20일 KT는 AX 사내 적용과 사업 개발에 힘을 쏟고 있다. AX는 올해 취임한 박윤영 대표의 역점 사업이다. 박 대표는 AX를 KT의 새로운 성장 동력으로 여기고 있다.KT는 아크릴과 의료 AX 공동 추진 업무협약(MOU)을 체결했다.아크릴은 의료 AI 업체다. 양사는 아크릴의 의료 데이터 및 AI를 KT 클라우드 등을 기반으로 제공하는 사업을 모색한다. ▲의료 데이터 표준화 및 활용 기반 조성 ▲의료 AI 기술·서",
+    "source": "테크M",
+    "region": "국내",
+    "published": "2026-10-20 13:44",
+    "published_sort": "2026-10-20T13:44:12+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "앤커, 충전·오디오·가전 브랜드 통합...자체 신기술 탑재로 '프리미엄' 승부수",
+    "link": "https://www.techm.kr/news/articleView.html?idxno=156294",
+    "summary": "보조배터리 시장에서 존재감을 나타내던 중국 브랜드 앤커(Anker)가 충전·오디오·가전 브랜드 통합과 자체 신기술을 탑재한 프리미엄 신제품을 앞세워 한국 시장 공략을 강화한다.앤커 이노베이션코리아는 20일 서울 삼성동 그랜드 인터컨티넨탈 서울 파르나스에서 기자간담회를 열고 통합 리브랜딩 전략과 신제품 라인업을 발표했다.앤커코리아는 오디오 브랜드 '사운드코어(Soundcore)', 스마트홈 브랜드 '유피(Eufy)' 등 카테고리별로 분산된 브랜드 체계를 '앤커(Anker)' 중심으로 통일한다고 밝혔다.다케우치 히로아키 엔커코리아 부회",
+    "source": "테크M",
+    "region": "국내",
+    "published": "2026-10-20 13:35",
+    "published_sort": "2026-10-20T13:35:20+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "[유안타증권 재무체력]② 위탁매매에 자산관리까지…수수료수익 3배 증가",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=676109",
+    "summary": "유안타증권의 수수료수익이 위탁매매와 자산관리 항목을 중심으로 증가했다. 수탁수수료가 전체 수수료수익의 가장 큰 비중을 유지하는 가운데 자산관리수수료도 지난 10년간 규모와 비중을 높였다. 올해 상반기에는 두 항목의 증가액이 전체 수수료수익 증가액의 90.6%를 차지했다. 수수료비용을 차감한 순수수료이익도 확대됐다.20일 유안타증권 사업보고서와 반기보고서에 따르면 올해 상반기 연결 수수료수익은 5236억원으로 지난해 같은 기간 1569억원보다 3667억원 늘었다. 수탁수수료는 986억원에서 3566억원으로, 자산관리수수료는 164억원",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-10-20 13:34",
+    "published_sort": "2026-10-20T13:34:00+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "SpaceX alum’s aviation startup, Reliable Robotics, lands $115M, topping $1B valuation",
+    "link": "https://techcrunch.com/2026/10/20/spacex-alums-aviation-startup-reliable-robotics-lands-115m-topping-1b-valuation/",
+    "summary": "Reliable Robotics extended its Series D round with $115 million in equity and $25 million in debt.",
+    "source": "TechCrunch",
+    "region": "해외",
+    "published": "2026-10-20 13:17",
+    "published_sort": "2026-10-20T13:17:36+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "UI/UX"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
+    "link": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
+    "summary": "The U.S. has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
+    "source": "TechCrunch",
+    "region": "해외",
+    "published": "2026-10-20 13:07",
+    "published_sort": "2026-10-20T13:07:24+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "AI/신기술",
+      "UI/UX"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "미니맥스 ‘M3.1 플래시’, 업무 자동화 성능 높이고 비용 낮춰…환각은 숙제",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216437",
+    "summary": "중국 미니맥스가 추론 속도를 높이고 사용 비용을 낮춘 새 AI 모델 'M3.1 플래시(Flash)'를 공개했다. 독립평가에서 딥시크 등 경쟁 모델을 웃도는 업무 자동화 성적과 낮은 작업 비용을 기록했다. 다만 전문 업무 평가에서는 성적이 엇갈렸으며, 모르는 질문에도 틀린 답을 내놓는 성향이 약점으로 드러났다.미니맥스는 19일(현지시간) M3.1 플래시를 공식 출시했다고 밝혔다.회사에 따르면 이전 버전과 비교해 온라인 추론 속도가 약 3배 빨라졌고, AI 에이전트 작업에 드는 사용 비용은 70% 줄었다. 일상적인 사용 환경에서 초당",
+    "source": "AI타임스",
+    "region": "국내",
+    "published": "2026-10-20 13:01",
+    "published_sort": "2026-10-20T13:01:02+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+    "link": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+    "summary": "Eka Robotics may be the first robotic arm that is actually good at picking up a wide range of objects, and it is so smooth and human-like, it is wowing the industry.",
+    "source": "TechCrunch",
+    "region": "해외",
+    "published": "2026-10-20 13:00",
+    "published_sort": "2026-10-20T13:00:00+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "MS “AI 에이전트는 믿을 수 없는 내부자...24시간 감시하는 AI 필요”",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216425",
+    "summary": "마이크로소프트(MS)가 기업 내부에서 활동하는 AI 에이전트를 새로운 보안 위협으로 규정하고, 이들의 행동을 24시간 감시하는 AI 보안 체계를 제시했다. 기업이 직접 도입한 AI 에이전트도 예측하기 어려운 행동으로 보안 사고를 일으킬 수 있는 만큼, 외부 해커뿐 아니라 내부 에이전트까지 실시간으로 감시하고 통제해야 한다는 주장이다.MS는 19일(현지시간) 보안 기술 블로그를 통해 AI 에이전트를 신뢰할 수 없는 '에이전틱 내부자(Agentic Insider)’로 정의하고, 이들의 행동을 감시하는 ‘가디언 에이전트(Guardian",
+    "source": "AI타임스",
+    "region": "국내",
+    "published": "2026-10-20 12:39",
+    "published_sort": "2026-10-20T12:39:42+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "법규/정책",
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
+    "link": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+    "summary": "Meta is suspending the sharing feature while it investigates its privacy.",
+    "source": "Ars Technica",
+    "region": "해외",
+    "published": "2026-10-20 12:33",
+    "published_sort": "2026-10-20T12:33:13+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "\"책 검색부터 추천까지 AI가 한번에\" 밀리의서재, 'AI 브리핑' 도입",
+    "link": "https://www.techm.kr/news/articleView.html?idxno=156290",
+    "summary": "국내 독서 플랫폼 KT 밀리의서재가 인공지능(AI) 기반 서비스인 'AI브리핑'을 도입해 이용자의 도서 탐색 편의성을 고도화한다. 이를 통해 검색어의 의미를 분석해 맞춤형 정보를 제공하고, 도서 검색부터 독서와 연관 도서 추천까지 하나의 과정으로 연결했다. 밀리의서재는 이번 'AI브리핑' 도입으로 이용자와 다양한 독서 콘텐츠 간 접점을 넓히고, 새로운 책을 발견하는 등 폭넓은 독서 경험을 제공한다는 계획이다.20일 KT 밀리의서재는 책 검색부터 바로 읽기, 연관 도서 추천까지 연결하는 'AI 브리핑' 서비스를 도입한다고 밝혔다. A",
+    "source": "테크M",
+    "region": "국내",
+    "published": "2026-10-20 12:25",
+    "published_sort": "2026-10-20T12:25:14+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "빅웨이브로보틱스, 로봇 AI 통합 개발 플랫폼 '하이퍼 파운드리' 공개",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216427",
+    "summary": "빅웨이브로보틱스(대표 김민교)는 로봇 데이터 수집과 AI 학습, 배포를 한 번에 처리할 수 있는 로봇 AI 개발 플랫폼 '하이퍼 파운드리'를 출시했다고 20일 밝혔다.이 제품은 로봇에서 생성된 데이터를 AI 학습에 활용하고, 학습된 모델을 다시 로봇 행동으로 구현하는 엔드투엔드 플랫폼이다. 로봇과 GPU 서버, 학습 환경을 별도 구축해야 했던 기존 개발 방식의 리소스를 줄인 것이 특징이다.하이퍼 파운드리는 ▲데이터 수집·동기화를 위한 '데이터 스튜디오' ▲모델 학습용 '모델 스튜디오' ▲로봇 적용을 위한 '미션 스튜디오' ▲이력 관",
+    "source": "AI타임스",
+    "region": "국내",
+    "published": "2026-10-20 12:23",
+    "published_sort": "2026-10-20T12:23:36+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "\"보고 싶은 소식 한눈에\" 카카오, '채널홈·소식' 개편...카카오톡 서비스 개선 '속도'",
+    "link": "https://www.techm.kr/news/articleView.html?idxno=156288",
+    "summary": "카카오가 카카오톡 채널의 '채널홈'과 '소식'을 개편하면서 이용자 편의성 강화에 나섰다. 지난해 카카오톡 개편 이후 이용자 의견을 반영한 서비스 개선 작업의 일환으로, 이번 개편을 통해 콘텐츠 탐색과 채널 운영의 편의성을 높인다는 전략이다. 이 외에도 카카오는 연내 알림 및 친구 찾기 기능을 추가하고, 인공지능(AI) 서비스인 '카나나 스페이스'를 도입하는 등 전반적인 카카오톡 서비스 고도화에 속도를 낼 계획이다.20일 카카오는 카카오톡 채널 '채널홈'과 '소식'을 개편했다고 밝혔다. 카카오톡 채널을 운영 중인 파트너는 업종과 운영",
+    "source": "테크M",
+    "region": "국내",
+    "published": "2026-10-20 12:22",
+    "published_sort": "2026-10-20T12:22:54+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "디즈니, 아태지역 새 수장에 '캐롤 초이' 선임...'디즈니플러스' 등 사업 총괄",
+    "link": "https://www.techm.kr/news/articleView.html?idxno=156285",
+    "summary": "월트디즈니 컴퍼니가 아시아태평양(APAC) 지역 총괄 사장에 캐롤 초이 미디어 마케팅 및 로컬 콘텐츠 총괄을 선임했다. 오는 12월 취임하는 캐롤 초이는 디즈니+와 스튜디오, 로컬 오리지널 콘텐츠 등 아태지역 엔터테인먼트 사업 전반을 이끌며 지역 내 사업 경쟁력 강화와 성장 확대에 나설 예정이다.20일 월트디즈니 컴퍼니는 루크 강 아태지역(APAC) 총괄 사장이 은퇴한 뒤 캐롤 초이 아태지역 미디어 마케팅 및 로컬 콘텐츠 총괄(EVP)이 오는 12월 총괄 사장으로 취임한다고 밝혔다. 앞으로 캐롤 초이는 신임 총괄 사장으로서 스튜디오",
+    "source": "테크M",
+    "region": "국내",
+    "published": "2026-10-20 12:22",
+    "published_sort": "2026-10-20T12:22:18+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "오픈AI 회의실 도청 전 직원, 사우디 왕실과 취업 논의...보석 신청은 기각",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216430",
+    "summary": "오픈AI 임원 회의실에 녹음 장치를 설치한 혐의로 기소된 전 직원 압둘라흐만 알포잔이 체포 전 사우디아라비아 왕실 구성원으로부터 현지 AI 프로젝트 참여를 제안받은 것으로 드러났다. 미국 검찰은 그가 사우디 왕실과 긴밀하게 연락하며 현지 취업을 논의한 점 등을 들어 도주 우려를 제기했다. 법원은 이를 받아들여 보석 없는 구금을 결정했다.월스트리트저널(WSJ)과 로이터 등에 따르면 미국 연방 치안판사 알렉스 G. 체는 19일(현지시간) 캘리포니아주 샌프란시스코 연방법원에서 열린 심리에서 보석 신청을 기각했다. 사우디 국적자인 알포잔은",
+    "source": "AI타임스",
+    "region": "국내",
+    "published": "2026-10-20 11:56",
+    "published_sort": "2026-10-20T11:56:23+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "법규/정책",
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "호주, 대규모 태양광 투자결정...3.5GW로 연간 역대 최대 기록",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216428",
+    "summary": "호주에서 올해 3분기까지 최종투자결정(FID)을 마친 대규모 태양광발전 사업의 설비용량이 3.5기가와트(GW)에 달하며 연간 역대 최대 기록을 경신했다. 지난해까지의 연간 최고 기록을 약 30% 웃도는 규모로, 올해가 끝나기 전부터 태양광 투자 확대가 뚜렷하게 나타났다.호주 청정에너지규제청(CER)이 지난 15일(현지시간) 공개한 2026년 3분기 탄소시장 자료에 따르면, 올해 1월부터 9월까지 최종투자결정에 도달한 대규모 태양광발전 사업은 총 3.5GW로 집계됐다.분기별로는 2분기에 2GW, 3분기에 1GW 규모의 태양광발전 사업",
+    "source": "AI타임스",
+    "region": "국내",
+    "published": "2026-10-20 11:50",
+    "published_sort": "2026-10-20T11:50:00+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "법규/정책"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "[플랫폼 자율주행 해부]② 티맵, 60억건 데이터와 정밀지도로 '승부'",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=676105",
+    "summary": "모빌리티 기업의 자율주행 경쟁력을 분석합니다.티맵모빌리티가 연간 60억건의 이동 데이터와 정밀지도 기술을 앞세워 자율주행 시장 공략에 나섰다. 로보택시를 직접 운영하는 대신 20년 넘게 축적한 주행 데이터와 지도 기술을 완성차 업체에 공급하는 전략이다. 향후 차량의 카메라·센서 정보와 자체 데이터를 결합해 자율주행 시스템의 판단을 돕는 영역까지 사업을 확대할 계획이다. 실주행 경로 분석부터 정밀지도 구축까지20일 티맵모빌리티에 따르면 내비게이션 앱 '티맵'의 누적 가입자는 2700만명 이상으로 연간 약 60억건의 이동 데이터를 축적",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-10-20 11:47",
+    "published_sort": "2026-10-20T11:47:52+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "미국, 42개 주서 태양광 정책 조치 221건…전력 보상·계통연계 개편 집중",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216426",
+    "summary": "미국 42개 주와 푸에르토리코에서 올해 3분기 분산형 태양광 관련 정책 조치가 총 221건 집계됐다. 태양광 발전 전력에 대한 보상규정과 주택용 전기요금, 전력망 연결 기준을 중심으로 제도 개편 논의가 진행됐으며, 일부 주에서는 배터리와 플러그인 태양광을 지원하는 새로운 제도도 도입됐다.미국 노스캐롤라이나주립대학교 청정에너지기술센터(NCCETC)는 지난 15일(현지시간) 발표한 ‘2026년 3분기 미국 50개 주 태양광 정책 보고서(The 50 States of Solar)’에서 이 같은 조사 결과를 공개했다. 보고서는 주정부와 규",
+    "source": "AI타임스",
+    "region": "국내",
+    "published": "2026-10-20 11:40",
+    "published_sort": "2026-10-20T11:40:00+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "법규/정책"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "앤트로픽, ‘숨은 의도 읽는’ 새 모델 준비...구글·오픈AI도 후속작 예고",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216424",
+    "summary": "앤트로픽이 사용자의 설명이 충분하지 않아도 숨은 의도와 목표를 파악하는 능력을 강화한 새 AI 모델을 준비하고 있다. 구글과 오픈AI도 기존 모델의 성능을 개선한 후속 제품 출시를 추진하면서 주요 AI 기업 간 모델 경쟁이 치열해질 전망이다.디 인포메이션은 19일(현지시간) 앤트로픽과 구글, 오픈AI가 일제히 신모델 출시를 준비하고 있다고 보도했다. 지난 한 달 동안 이들 기업이 12개가 넘는 새 모델을 출시한 데 이어 추가 경쟁에 나서는 것이다.앤트로픽의 미공개 모델을 사용해 본 관계자는 이 모델이 현재 상용화된 앤트로픽 모델보다",
+    "source": "AI타임스",
+    "region": "국내",
+    "published": "2026-10-20 11:39",
+    "published_sort": "2026-10-20T11:39:33+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "\"다음 질문 먼저 제시\" 네이버, '관련 질문' 서비스 확대...검색 편의성 '쑥'",
+    "link": "https://www.techm.kr/news/articleView.html?idxno=156287",
+    "summary": "네이버가 이용자가 추가로 궁금해할 만한 질문을 먼저 제시하는 '관련 질문' 서비스를 확대해 검색 편의성 강화에 나선다. 기존 인공지능(AI) 브리핑에 포함됐던 관련 질문을 별도 영역으로 분리해 이용자의 검색 의도와 맥락에 맞춰 제공하는 것.이를 통해 이용자가 검색어를 반복적으로 입력해야 하는 번거로움을 줄이는 동시에 연속적인 정보 탐색을 유도해 검색 서비스 내 체류시간을 늘릴 것으로 기대된다.20일 업계에 따르면 네이버는 오는 22일 연관 탐색 수요가 높은 검색어를 대상으로 관련 질문 서비스를 확대 적용한다. 관련 질문은 이용자가",
+    "source": "테크M",
+    "region": "국내",
+    "published": "2026-10-20 11:38",
+    "published_sort": "2026-10-20T11:38:03+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "태양광발전소 유지보수 줄었더니…코로나19 기간 발전 성능 저하",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216421",
+    "summary": "코로나19 확산으로 유지보수 활동이 제한됐던 알제리 태양광발전소에서 발전 성능비가 1년 만에 6.63%포인트 하락한 것으로 나타났다. 일사량이 비슷한 조건에서도 발전 출력이 낮아졌으며, 연구진은 정기적인 패널 청소와 유지보수 감소를 주요 원인으로 분석했다.알제리 질랄리 리아베스대학교 연구진은 최근 국제학술지 ‘저널 오브 엔지니어링 리서치(Journal of Engineering Research)’을 통해 2018년부터 2023년까지 6년간 알제리 서부 시디벨아베스에 있는 12메가와트피크(MWp) 규모 태양광발전소의 운영 데이터 분석",
+    "source": "AI타임스",
+    "region": "국내",
+    "published": "2026-10-20 11:35",
+    "published_sort": "2026-10-20T11:35:00+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "HD현대중공업·HD현대삼호, HMM 컨테이너선 8척 수주…2조원 규모",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=676103",
+    "summary": "HD현대 조선 계열사들이 HMM으로부터 총 1조9196억원 규모의 컨테이너선 8척을 수주했다. HD현대중공업과 HD현대삼호가 각각 2척과 6척을 건조한다.20일 금융감독원 전자공시시스템에 따르면 HD현대중공업은 HMM과 4799억원 규모의 컨테이너선 2척 건조계약을 체결했다. 계약금액은 지난해 연결 매출액 17조5806억원의 2.73%에 해당한다.HD현대삼호도 이날 HMM으로부터 컨테이너선 6척을 수주했다. 계약금액은 1조4397억원으로 지난해 개별 매출액 8조714억원의 17.84%에 달한다. 전체 수주금액 가운데 HD현대삼호가",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-10-20 11:34",
+    "published_sort": "2026-10-20T11:34:41+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "삼성전자 \"클립형 이어폰도 갤럭시가 최고...'버즈 온' 27일 출시\"",
+    "link": "https://www.techm.kr/news/articleView.html?idxno=156283",
+    "summary": "\"무선이어폰 고객 요구가 세분화하고 있다. '갤럭시 버즈 온'은 이런 사용자환경을 고려해 사용자가 귀를 막지 않고도 편안하게 오디오를 즐길 수 있도록 기획한 제품이다.\"20일 남현정 삼성전자 디바이스경험(DX)부문 모바일경험(MX)사업부 웨어러블(착용형) 상품기획그룹 프로는 서울 중구 태평로빌딩에서 열린 '갤럭시 버즈 온 언론 브리핑'에서 이같이 말하고 오는 27일 갤럭시 버즈 온을 출시한다고 밝혔다.버즈 온은 삼성전자의 첫 클립형 무선이어폰이다. 귓바퀴에 거는 형태다. 형상기억합금으로 고리를 만들어 착용할수록 이용자 귀에 맞게 자",
+    "source": "테크M",
+    "region": "국내",
+    "published": "2026-10-20 11:30",
+    "published_sort": "2026-10-20T11:30:00+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "크래프톤, 지스타에 5종 출품…‘타래’ 신규 클래스 첫 공개",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=676101",
+    "summary": "크래프톤이 국제게임전시회 '지스타 2026'에서 신작 4종을 선보인다. 대표 지식재산권(IP)인 'PUBG'를 비롯해 액션 역할수행게임(RPG)부터 협동 어드벤처까지 포함하면 총 5종을 출품한다. 특히 '타래: 언바운드'의 신규 클래스 '투귀'를 세계 최초로 공개한다.크래프톤은 11월 부산 벡스코에서 열리는 지스타 2026의 출품작 5종을 20일 공개했다. 올해로 10년 연속 지스타에 참가하는 크래프톤은 벡스코 제1전시장 BTC관 1층 A03에 부스를 마련하고 주요 신작의 시연 기회를 제공한다.출품작은 △PUBG △타래: 언바운드(",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-10-20 11:28",
+    "published_sort": "2026-10-20T11:28:01+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "가상자산 과세 앞두고 정부·거래소 회동...2029년 시행론 힘 받을까",
+    "link": "https://www.techm.kr/news/articleView.html?idxno=156286",
+    "summary": "내년 1월 시행을 앞둔 가상자산 소득 과세 시행을 앞두고 국내 5대 가상자산 거래소 대표들이 정부 및 금융당국과 만나 우려의 목소리를 전했다. 과세 기준의 불명확성과 신고·납부를 위한 인프라 미비 등 현장에서 제기된 문제를 공유하고 제도 시행에 앞서 보완이 필요하다는 목소리를 전달했다. 세 차례 유예된 가상자산 과세가 다시 도마 위에 오르면서 정부의 후속 대응에도 관심이 쏠린다.20일 가상자산업계에 따르면 재정경제부는 이날 오전 서울 모처에서 가상자산 과세 관련 비공개 현장간담회를 개최했다. 이날 간담회에는 권대영 재정경제부 1차관",
+    "source": "테크M",
+    "region": "국내",
+    "published": "2026-10-20 11:25",
+    "published_sort": "2026-10-20T11:25:18+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "대우건설, 공작아파트 사업시행인가…여의도 정비사업 확대 발판",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=676100",
+    "summary": "대우건설이 시공하는 서울 여의도 공작아파트 재건축이 사업시행계획인가를 받았다. 대우건설은 2023년 12월 여의도 재건축 단지 가운데 처음으로 공작아파트 시공권을 확보했다. 수주 당시 570가구였던 사업계획은 585가구로 확대됐다. 공작아파트 재건축 운영위원회는 2028년 착공을 목표로 후속 절차를 추진할 계획이다.20일 대우건설에 따르면 서울 영등포구청은 여의도 공작아파트 재건축사업의 사업시행계획을 인가했다. 관련 고시는 이달 22일 이뤄질 예정이다. 사업시행자는 KB부동산신탁이다.공작아파트 재건축사업은 서울 영등포구 여의도동 2",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-10-20 11:23",
+    "published_sort": "2026-10-20T11:23:26+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "[신종자본증권 점검]④ 우리금융 돋보인 운용력…순상환에 4000억 조달",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=676098",
+    "summary": "우리금융그룹의 신종자본증권 잔액이 1년 전과 사실상 같은 수준을 유지한 가운데 반기 배당액은 소폭 늘었다. 상반기에는 신규 발행 없이 기존 물량 2000억원을 상환했지만 지난해 하반기 증가분이 이를 상쇄했다. 8월에는 4000억원을 새로 발행하며 자본성 조달을 재개했다.20일 금융권에 따르면 우리금융의 6월 말 별도 기준 신종자본증권 잔액은 3조5108억500만원이다. 1년 전 3조5107억3700만원보다 6800만원 늘어 사실상 같은 수준이다. 지난해 말 3조7102억2800만원과 비교하면 1994억2300만원 감소했다.신종자본증",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-10-20 11:21",
+    "published_sort": "2026-10-20T11:21:36+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "노르웨이, 콘센트형 태양광·배터리 허용 추진…2027년까지 제도 정비 제안",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216420",
+    "summary": "노르웨이 녹색당(MDG) 소속 의원 6명이 가정용 콘센트에 직접 연결하는 소형 태양광발전 설비와 배터리를 허용하는 방안을 의회에 제안했다. 안전기준을 충족한 제품은 별도의 전기공사 없이 일반 접지 콘센트에 연결해 사용할 수 있도록 규정을 정비하자는 내용이다.노르웨이 의회 공식 자료에 따르면 프뢰야 스쿌드 시우르셰테르 등 녹색당 의원 6명은 지난 13일(현지시간) 관련 제안서를 제출했다.의회는 15일 해당 안건을 에너지·환경위원회에 배정했으며, 공식 의안 처리 현황상 현재 위원회 심사가 진행 중이다. 아직 의결이나 정책 시행이 확정된",
+    "source": "AI타임스",
+    "region": "국내",
+    "published": "2026-10-20 11:20",
+    "published_sort": "2026-10-20T11:20:00+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "법규/정책"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "크래프톤 지스타 출품작 공개, 글로벌 기대 신작 라인업 국내 첫선",
+    "link": "https://www.techm.kr/news/articleView.html?idxno=156284",
+    "summary": "크래프톤은 20일 '지스타 2026' 출품작 5종을 공개했다. 올해 게임스컴 등 글로벌 게임 시장에서 폭발적인 관심을 얻었던 신작 다수가 국내 게이머들에게 선보여진다.크래프톤은 오는 11월 부산 벡스코에서 열리는 지스타 2026 현장을 찾아 총 5종의 타이틀을 소개할 예정이다. 먼저, 현장에는 크래프톤을 대표하는 'PUBG(배틀그라운드)' 지식재산권(IP)을 현실에서 만나는 체험 공간이 마련된다. 이어서 '타래: 언바운드(타래)', '에이지 트위스터', '왈츠앤잼', '템빨용사' 등 PC·콘솔·모바일 각종 플랫폼을 아우르는 신작 라",
+    "source": "테크M",
+    "region": "국내",
+    "published": "2026-10-20 11:18",
+    "published_sort": "2026-10-20T11:18:40+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "한화시스템, 한화오션 '지분 3조' 유동화의 명암",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=676090",
+    "summary": "한화시스템이 한화오션 지분을 전량 처분하며 올해에만 3조원이 넘는 자금을 확보했다. 확보한 자금은 위성·국방 인공지능(AI) 등 성장사업의 투자 재원으로 활용될 전망이다. 향후 한국항공우주산업(KAI) 지분 인수로 이어질지도 관심사다.다만 두 차례 거래 모두 주가수익스와프(PRS) 계약을 수반해 한화오션 주가 하락에 따른 손실 위험은 한화시스템에 남아 있다.20일 금융감독원 전자공시시스템에 따르면 한화시스템은 이달 16일 이사회를 열고 한화오션 보통주 2216만9660주를 1조3834억원에 양도하기로 결정했다. 한화오션 발행주식 총",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-10-20 11:09",
+    "published_sort": "2026-10-20T11:09:12+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "[메자닌 투자파일] 대주전자재료, 700억 무이자 CB…콜옵션 주목",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=676068",
+    "summary": "이차전지 소재 기업 대주전자재료가 700억원 규모의 무이자 전환사채(CB)를 발행해 운영자금을 확보한다. 발행 물량의 절반에는 콜옵션(주식매도청구권)을 설정했다. 앞서 발행한 CB의 전환가액을 웃도는 수준까지 주가가 오르면서 기존 투자자의 주식 전환 유인도 커졌다. 과거 메리츠증권과 맺었던 수익 공유형 콜옵션 계약을 이번에도 활용할지 주목된다. 350억원 매도청구권…수익 공유 재현할까20일 금융감독원 전자공시시스템에 따르면 대주전자재료는 9회차 CB 발행을 결정했다. 발행 규모는 700억원으로 전액 운영자금에 투입한다. 표면·만기이",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-10-20 11:03",
+    "published_sort": "2026-10-20T11:03:21+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "Visiting Slate’s first showroom as its $25,000 electric truck nears production",
+    "link": "https://arstechnica.com/cars/2026/10/visiting-slates-first-showroom-as-its-25000-electric-truck-nears-production/",
+    "summary": "Slate's first showroom sells the promise. Mass production will determine the rest.",
+    "source": "Ars Technica",
+    "region": "해외",
+    "published": "2026-10-20 11:00",
+    "published_sort": "2026-10-20T11:00:16+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "탑엔지니어링, 흑자전환 했지만…주주환원 구체화는 과제",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=675951",
+    "summary": "반도체·디스플레이 공정장비 기업 탑엔지니어링이 기업가치 제고에 나섰다. 지난해 대규모 적자로 주가순자산비율(PBR)이 0.32배까지 떨어진 가운데 2030년까지 0.75배로 끌어올린다는 구상이다. 올해 상반기 흑자전환에 성공했지만 구체적인 주주환원 계획은 부족하다는 평가다.20일 금융감독원 전자공시시스템에 따르면 탑엔지니어링은 최근 PBR 개선 계획을 발표했다. 자기자본이익률(ROE) 개선과 주주환원 확대, 신성장 분야 투자 등을 통해 저평가를 해소한다는 내용이다. PBR 0.32배까지 하락…2030년 ROE 11.5% 목표탑엔지니",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-10-20 10:56",
+    "published_sort": "2026-10-20T10:56:40+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "캡콤 합류로 마지막 퍼즐 맞춘 '지스타 26'...韓·中·日 글로벌 IP 격전장 예고",
+    "link": "https://www.techm.kr/news/articleView.html?idxno=156281",
+    "summary": "국내 최대 게임 전시회 '지스타 26' 개막을 약 한달 가량 앞두고 마지막 퍼즐이 맞춰졌다. 지난달 전시장 도면 공개 당시 물음표로 남겨져 있던 마지막 부스의 주인공이 일본 게임사 '캡콤'으로 확정되면서다. 글로벌 시장에서 다양한 흥행 IP를 보유하고 있는 캡콤이 지스타에 합류하면서 국내외 주요 게임사를 아우르는 지스타 26 라인업도 탄탄해졌다. 20일 지스타조직위원회는 캡콤이 지스타 26에 참가한다고 공식 발표했다. 캡콤은 제2전시장에 35부스 규모로 전시공간을 꾸린다고 밝혔다. 이에 따라 제2전시장에는 코에이 테크모와 세가, 넷",
+    "source": "테크M",
+    "region": "국내",
+    "published": "2026-10-20 10:56",
+    "published_sort": "2026-10-20T10:56:13+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
     "title": "SNT홀딩스, 재매집한 스맥 지분 모티브에 이전…29% 결집",
     "link": "https://www.bloter.net/news/articleView.html?idxno=676088",
     "summary": "SNT홀딩스가 보유한 스맥 지분 8.7%를 자회사 SNT모티브에 전량 넘긴다. 4월 지분 이전 이후 추가 매입한 물량까지 넘기면서 SNT모티브의 지분율은 29.16%로 높아질 전망이다. 스맥 경영진과 경영권 갈등이 이어지는 가운데 지분 보유 구조를 일원화하는 움직임이다.20일 금융감독원 전자공시시스템에 따르면 SNT홀딩스는 전날 이사회를 열고 보유 중인 스맥 주식 593만8500주를 SNT모티브에 처분하기로 결정했다. 거래금액은 약 248억원으로 블록딜(시간외대량매매) 방식으로 진행된다. 결제 예정일은 11월19일로 거래가 마무리되",
@@ -145,6 +2727,21 @@
     "collected_at": "2026-10-20 01:26",
     "tags": [
       "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "Embracing Playful Imperfection With The CSS `random()` Function",
+    "link": "https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/",
+    "summary": "Design systems thrive on consistency, so where does randomness fit in? Through playful demos of organic typography, bouncing letters, and splayed cards, Brecht De Ruyte shows how the new CSS `random()` function brings a little imperfection to the web without JavaScript libraries or preprocessor loop",
+    "source": "Smashing Magazine",
+    "region": "해외",
+    "published": "2026-10-20 10:00",
+    "published_sort": "2026-10-20T10:00:00+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "UI/UX"
     ],
     "flag": false,
     "flag_hits": []
@@ -553,6 +3150,21 @@
     "collected_at": "2026-10-20 01:26",
     "tags": [
       "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": []
+  },
+  {
+    "title": "Japan launches mission to bring home a piece of the Martian moon Phobos",
+    "link": "https://arstechnica.com/space/2026/10/japan-launches-mission-to-bring-home-a-piece-of-the-martian-moon-phobos/",
+    "summary": "The climax for MMX will come in 2029, when the spacecraft will attempt up to two landings on Phobos.",
+    "source": "Ars Technica",
+    "region": "해외",
+    "published": "2026-10-20 05:59",
+    "published_sort": "2026-10-20T05:59:56+00:00",
+    "collected_at": "2026-10-21 01:10",
+    "tags": [
+      "기타"
     ],
     "flag": false,
     "flag_hits": []
