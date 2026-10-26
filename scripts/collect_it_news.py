@@ -56,6 +56,13 @@ FEEDS = [
     {"name": "Smashing Magazine", "region": "해외", "url": "https://www.smashingmagazine.com/feed/"},
     {"name": "UX Collective", "region": "해외", "url": "https://uxdesign.cc/feed"},
     {"name": "MIT Technology Review", "region": "해외", "url": "https://www.technologyreview.com/feed/"},
+    # 보안 전문 매체 (IT 운영자 필수확인 용). 일반 IT 매체엔 취약점 소식이 거의 안 올라와서 따로 추가.
+    {"name": "데일리시큐", "region": "국내", "url": "https://www.dailysecu.com/rss/allArticle.xml"},
+    {"name": "BleepingComputer", "region": "해외", "url": "https://www.bleepingcomputer.com/feed/"},
+    {"name": "The Hacker News", "region": "해외", "url": "https://feeds.feedburner.com/TheHackersNews"},
+    {"name": "SecurityWeek", "region": "해외", "url": "https://feeds.feedburner.com/securityweek"},
+    {"name": "Krebs on Security", "region": "해외", "url": "https://krebsonsecurity.com/feed/"},
+    {"name": "CISA 보안권고", "region": "해외", "url": "https://www.cisa.gov/cybersecurity-advisories/all.xml"},
 ]
 
 CATEGORY_KEYWORDS = {
@@ -91,6 +98,33 @@ PLANNER_KEYWORDS = [
     "policy change", "terms of service", "redesign", "relaunch", "sunset", "deprecat",
     "pricing change", "accessibility mandate", "compliance deadline", "rolling out", "rollout",
 ]
+
+
+# IT 운영자가 "꼭 봐야 하는" 보안 취약점·사고 기사를 자동으로 표시하기 위한 키워드 (🚨 보안·필수확인).
+# 한글은 부분 문자열 일치, 영문은 정규식(대소문자 무시)이다. 영문 짧은 단어(rce, xss 등)는
+# 다른 단어 속에 우연히 들어가지 않도록 \b 경계를 쓴다. 하나라도 걸리면 표시되며, 필요하면 이 목록만 조정하면 된다.
+SECURITY_KEYWORDS = [
+    "취약점", "보안 취약", "제로데이", "원격 코드 실행", "원격코드실행", "권한 상승", "권한상승",
+    "랜섬웨어", "해킹", "침해사고", "침해 사고", "정보 유출", "개인정보 유출", "데이터 유출", "고객정보 유출",
+    "보안 패치", "긴급 패치", "보안 업데이트", "악성코드", "악성 코드", "백도어", "공급망 공격",
+    "디도스", "피싱", "웹셸", "보안 권고", "보안 공지", "인증 우회", "SQL 인젝션",
+    r"vulnerabilit", r"\bcve-\d{4}-\d+", r"zero[- ]?day", r"\b0-day\b", r"remote code execution",
+    r"\brce\b", r"privilege escalation", r"ransomware", r"data breach", r"\bbreach(ed)?\b",
+    r"actively exploited", r"\bexploit(ed|s|ation)?\b", r"backdoor", r"malware", r"supply[- ]chain attack",
+    r"\bddos\b", r"security (patch|update|advisory|flaw|bug)", r"critical (flaw|bug)", r"sql injection",
+    r"\bxss\b", r"auth(entication)? bypass", r"web ?shell", r"\bbotnet\b", r"known exploited",
+]
+SECURITY_PATTERNS = [(kw, re.compile(kw if kw.isascii() else re.escape(kw), re.I)) for kw in SECURITY_KEYWORDS]
+
+
+def security_flag(title, summary):
+    text = f"{title} {summary}"
+    hits = []
+    for kw, pat in SECURITY_PATTERNS:
+        m = pat.search(text)
+        if m:
+            hits.append(m.group(0).lower())
+    return bool(hits), list(dict.fromkeys(hits))[:3]
 
 
 def categorize(title, summary):
@@ -204,6 +238,7 @@ def collect():
             summary = clean_html(raw["summary"])
             dt = parse_date(raw["pub"])
             flag, flag_hits = planner_flag(raw["title"], summary)
+            sec, sec_hits = security_flag(raw["title"], summary)
             record = {
                 "title": raw["title"].strip(),
                 "link": link,
@@ -216,6 +251,8 @@ def collect():
                 "tags": categorize(raw["title"], summary),
                 "flag": flag,
                 "flag_hits": flag_hits,
+                "sec": sec,
+                "sec_hits": sec_hits,
             }
             db.append(record)
             new_count += 1
@@ -225,10 +262,14 @@ def collect():
     for r in db:
         r["tags"] = categorize(r["title"], r.get("summary", ""))
         r["flag"], r["flag_hits"] = planner_flag(r["title"], r.get("summary", ""))
+        r["sec"], r["sec_hits"] = security_flag(r["title"], r.get("summary", ""))
 
     db.sort(key=lambda r: r.get("published_sort") or "", reverse=True)
     save_db(db)
-    print(f"\n신규 기사 {new_count}건 추가 (전체 누적 {len(db)}건, 기획자 주목 {sum(1 for r in db if r['flag'])}건)")
+    print(
+        f"\n신규 기사 {new_count}건 추가 (전체 누적 {len(db)}건, 기획자 주목 {sum(1 for r in db if r['flag'])}건, "
+        f"보안 필수확인 {sum(1 for r in db if r['sec'])}건)"
+    )
     return db, new_count
 
 
@@ -241,7 +282,7 @@ DASHBOARD_TEMPLATE = """<!DOCTYPE html>
   :root {{
     --bg: #0f1115; --panel: #171a21; --border: #2a2f3a; --text: #e6e9ef;
     --muted: #9aa4b2; --accent: #5b8cff; --tag-ai: #5b8cff; --tag-uiux: #33c48d;
-    --tag-law: #ff9f43; --tag-etc: #7a8290; --flag: #ffd166;
+    --tag-law: #ff9f43; --tag-etc: #7a8290; --flag: #ffd166; --sec: #ff5c5c;
   }}
   * {{ box-sizing: border-box; }}
   body {{
@@ -285,7 +326,11 @@ DASHBOARD_TEMPLATE = """<!DOCTYPE html>
   .tag.etc {{ background: rgba(122,130,144,.2); color: var(--tag-etc); }}
   .tag.flag {{ background: rgba(255,209,102,.18); color: var(--flag); }}
   .card.flagged {{ border-left: 3px solid var(--flag); }}
+  .card.secflag {{ border-left: 3px solid var(--sec); background: rgba(255,92,92,.06); }}
+  .tag.sec {{ background: rgba(255,92,92,.18); color: var(--sec); }}
+  .chip.sec-chip.active {{ background: var(--sec); border-color: var(--sec); }}
   .star {{ color: var(--flag); margin-right: 4px; }}
+  .siren {{ margin-right: 4px; }}
   .empty {{ color: var(--muted); padding: 40px; text-align: center; }}
   .more-btn {{
     display: block; margin: 8px auto 0; padding: 9px 20px; border-radius: 8px;
@@ -337,12 +382,13 @@ DASHBOARD_TEMPLATE = """<!DOCTYPE html>
 <header>
   <h1>IT 뉴스 리서치 대시보드</h1>
   <div class="meta-row">
-    <div class="meta">마지막 업데이트: {generated_at} · 전체 누적 {total_count}건(대시보드엔 최근 {embedded_count}건 표시) · 기획자 주목 {flag_count}건 · 매체 {feed_count}곳 · 매일 자동 갱신</div>
+    <div class="meta">마지막 업데이트: {generated_at} · 전체 누적 {total_count}건(대시보드엔 최근 {embedded_count}건 표시) · 기획자 주목 {flag_count}건 · 보안 필수확인 {sec_count}건 · 매체 {feed_count}곳 · 매일 자동 갱신</div>
     <button class="info-btn" id="infoBtn" title="리서치 조건 보기">ⓘ</button>
   </div>
   <div class="controls">
     <input type="text" id="search" placeholder="제목·요약 검색 (예: AI, GDPR, 다크모드)">
     <div class="chip active" data-cat="전체">전체</div>
+    <div class="chip sec-chip" data-cat="__sec">🚨 보안·필수확인</div>
     <div class="chip" data-cat="__flag">★ 기획자 주목</div>
     <div class="chip" data-cat="AI/신기술">AI/신기술</div>
     <div class="chip" data-cat="UI/UX">UI/UX</div>
@@ -379,6 +425,10 @@ DASHBOARD_TEMPLATE = """<!DOCTYPE html>
     <h3>★ 기획자 주목 키워드</h3>
     <p>아래 표현이 제목·요약에 하나라도 들어가면 ★로 강조 표시됩니다 (출시/공개처럼 흔한 단어는 노이즈가 많아 일부러 제외했습니다).</p>
     <div class="kw-list" id="kwFlag"></div>
+
+    <h3>🚨 보안·필수확인 키워드 (IT 운영자용)</h3>
+    <p>취약점(CVE)·제로데이·랜섬웨어·정보유출·긴급 보안패치 등 운영 중인 시스템에 영향을 줄 수 있는 표현이 제목·요약에 하나라도 있으면 🚨로 강조됩니다. 보안 전문 매체(데일리시큐, BleepingComputer, The Hacker News, SecurityWeek, Krebs, CISA)도 함께 수집합니다.</p>
+    <div class="kw-list" id="kwSec"></div>
   </div>
 </div>
 
@@ -387,6 +437,7 @@ const DATA = {data_json};
 const FEEDS_INFO = {feeds_json};
 const CATEGORY_KEYWORDS_INFO = {category_keywords_json};
 const PLANNER_KEYWORDS_INFO = {planner_keywords_json};
+const SECURITY_KEYWORDS_INFO = {security_keywords_json};
 const PAGE_SIZE = 150;
 
 const TAG_CLASS = {{"AI/신기술": "ai", "UI/UX": "uiux", "법규/정책": "law", "기타": "etc"}};
@@ -394,6 +445,7 @@ const TAG_CLASS = {{"AI/신기술": "ai", "UI/UX": "uiux", "법규/정책": "law
 let activeCat = "전체";
 let activeRegion = null;
 let onlyFlag = false;
+let onlySec = false;
 let shown = PAGE_SIZE;
 const searchInput = document.getElementById("search");
 const listEl = document.getElementById("list");
@@ -406,12 +458,15 @@ document.querySelectorAll(".chip").forEach(chip => {{
     if (cat === "__flag") {{
       onlyFlag = !onlyFlag;
       chip.classList.toggle("active", onlyFlag);
+    }} else if (cat === "__sec") {{
+      onlySec = !onlySec;
+      chip.classList.toggle("active", onlySec);
     }} else if (cat.startsWith("__")) {{
       const region = cat.slice(2);
       if (activeRegion === region) {{
         activeRegion = null; chip.classList.remove("active");
       }} else {{
-        document.querySelectorAll(".chip[data-cat^='__']").forEach(c => {{ if (c.dataset.cat !== "__flag") c.classList.remove("active"); }});
+        document.querySelectorAll(".chip[data-cat^='__']").forEach(c => {{ if (c.dataset.cat !== "__flag" && c.dataset.cat !== "__sec") c.classList.remove("active"); }});
         activeRegion = region; chip.classList.add("active");
       }}
     }} else {{
@@ -435,6 +490,7 @@ function render() {{
   let rows = DATA.filter(r => activeCat === "전체" || r.tags.includes(activeCat));
   if (activeRegion) rows = rows.filter(r => r.region === activeRegion);
   if (onlyFlag) rows = rows.filter(r => r.flag);
+  if (onlySec) rows = rows.filter(r => r.sec);
   if (q) rows = rows.filter(r => (r.title + " " + r.summary).toLowerCase().includes(q));
 
   countEl.textContent = rows.length + "건";
@@ -445,14 +501,15 @@ function render() {{
   }}
   const visible = rows.slice(0, shown);
   listEl.innerHTML = visible.map(r => `
-    <div class="card ${{r.flag ? 'flagged' : ''}}">
+    <div class="card ${{r.flag ? 'flagged' : ''}} ${{r.sec ? 'secflag' : ''}}">
       <div class="card-top">
-        <div class="card-title">${{r.flag ? '<span class="star" title="기획자 주목: ' + escapeHtml((r.flag_hits||[]).join(', ')) + '">★</span>' : ''}}<a href="${{r.link}}" target="_blank" rel="noopener">${{escapeHtml(r.title)}}</a></div>
+        <div class="card-title">${{r.sec ? '<span class="siren" title="보안·필수확인: ' + escapeHtml((r.sec_hits||[]).join(', ')) + '">🚨</span>' : ''}}${{r.flag ? '<span class="star" title="기획자 주목: ' + escapeHtml((r.flag_hits||[]).join(', ')) + '">★</span>' : ''}}<a href="${{r.link}}" target="_blank" rel="noopener">${{escapeHtml(r.title)}}</a></div>
         <div class="card-date">${{r.published || r.collected_at}}</div>
       </div>
       ${{r.summary ? `<div class="card-summary">${{escapeHtml(r.summary)}}</div>` : ""}}
       <div class="card-bottom">
         <span class="src">${{r.source}} · ${{r.region}}</span>
+        ${{r.sec ? '<span class="tag sec">보안·필수확인</span>' : ''}}
         ${{r.tags.map(t => `<span class="tag ${{TAG_CLASS[t] || 'etc'}}">${{t}}</span>`).join("")}}
       </div>
     </div>
@@ -484,6 +541,7 @@ fillKeywords("kwAi", CATEGORY_KEYWORDS_INFO["AI/신기술"] || []);
 fillKeywords("kwUiux", CATEGORY_KEYWORDS_INFO["UI/UX"] || []);
 fillKeywords("kwLaw", CATEGORY_KEYWORDS_INFO["법규/정책"] || []);
 fillKeywords("kwFlag", PLANNER_KEYWORDS_INFO);
+fillKeywords("kwSec", SECURITY_KEYWORDS_INFO);
 
 infoBtn.addEventListener("click", () => {{ infoModal.hidden = false; }});
 infoClose.addEventListener("click", () => {{ infoModal.hidden = true; }});
@@ -503,9 +561,10 @@ EMBED_MAX = 1500
 def build_dashboard(db):
     feed_names = sorted({r["source"] for r in db})
     flagged = [r for r in db if r["flag"]]
+    sec_flagged = [r for r in db if r["sec"]]
     recent = db[:EMBED_MAX]
     embed_ids = {r["link"] for r in recent}
-    for r in flagged:
+    for r in flagged + sec_flagged:
         if r["link"] not in embed_ids:
             recent.append(r)
             embed_ids.add(r["link"])
@@ -516,11 +575,13 @@ def build_dashboard(db):
         total_count=len(db),
         embedded_count=len(recent),
         flag_count=len(flagged),
+        sec_count=len(sec_flagged),
         feed_count=len(feed_names),
         data_json=json.dumps(recent, ensure_ascii=False),
         feeds_json=json.dumps([{"name": f["name"], "region": f["region"]} for f in FEEDS], ensure_ascii=False),
         category_keywords_json=json.dumps(CATEGORY_KEYWORDS, ensure_ascii=False),
         planner_keywords_json=json.dumps(PLANNER_KEYWORDS, ensure_ascii=False),
+        security_keywords_json=json.dumps(SECURITY_KEYWORDS, ensure_ascii=False),
     )
     with open(DASHBOARD_PATH, "w", encoding="utf-8") as f:
         f.write(html)
