@@ -1,5 +1,176 @@
 [
   {
+    "title": "미 재무부, 북한 IT 인력 위장 취업·가상자산 세탁 조직 제재",
+    "link": "https://www.dailysecu.com/news/articleView.html?idxno=209180",
+    "summary": "북한 정보기술(IT) 인력들이 신분을 속이고 미국 등 해외 기업에 취업해 벌어들인 수익을 가상자산으로 이동시키고, 러시아 조력자들을 통해 현금화한 사실이 미국 정부의 제재 조치와 블록체인 거래 분석을 통해 드러났다. 북한은 이러한 위장 취업 조직을 통해 매년 수억 달러의 외화를 확보하고 있으며, 일부 인력은 기업 내부망에 접근해 악성코드를 설치하거나 민감한 정보를 탈취하는 활동에도 관여한 것으로 파악됐다.미국 재무부 해외자산통제국(OFAC)은 10월 28일 북한 정부가 운영하는 IT 인력 위장 취업 조직과 관련해 개인 10명과 기관",
+    "source": "데일리시큐",
+    "region": "국내",
+    "published": "2026-10-30 11:07",
+    "published_sort": "2026-10-30T11:07:11+00:00",
+    "collected_at": "2026-10-30 02:19",
+    "tags": [
+      "기타"
+    ],
+    "flag": true,
+    "flag_hits": [
+      "제재"
+    ],
+    "sec": true,
+    "sec_hits": [
+      "악성코드"
+    ]
+  },
+  {
+    "title": "AI 신소재 나노포지에이아이, 146억 시드 투자 유치",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216829",
+    "summary": "AI 기반 신소재 개발 스타트업 나노포지에이아이(대표 김동현)가 146억원 규모의 시드 투자를 유치했다고 30일 밝혔다.이번 투자 라운드에는 기존 투자사인 퓨처플레이와 매쉬업벤처스를 비롯해 미래에셋벤처투자·DSC인베스트먼트·KDB산업은행·에코프로파트너스 등이 신규 투자자로 참여했다. 나노포지에이아이의 누적 투자 유치액은 150억원을 넘었다.2025년 설립된 나노포지에이아이는 원자 수준의 AI 기반 소재 예측·설계 기술과 로봇 자율실험실을 기반으로 반도체·배터리 등 산업용 신소재를 설계·검증하며 소재 지식재산(IP) 창출을 꾀하고 있",
+    "source": "AI타임스",
+    "region": "국내",
+    "published": "2026-10-30 11:05",
+    "published_sort": "2026-10-30T11:05:34+00:00",
+    "collected_at": "2026-10-30 02:19",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "AI 활용 신종 해킹도구 ‘NIK C2’ 발견…탈취정보 실시간 분석에 랜섬웨어 기능까지",
+    "link": "https://www.dailysecu.com/news/articleView.html?idxno=209179",
+    "summary": "인공지능(AI)을 활용해 탈취한 정보를 실시간으로 분석하고, 감염된 컴퓨터를 원격으로 제어하거나 금전을 요구할 수 있는 신종 해킹도구가 발견됐다. 기존 정보탈취 악성코드에 AI 분석 기능과 랜섬웨어 기능까지 결합돼 기업들의 주의가 요구된다.글로벌 보안기업 시스코의 위협분석 조직 탈로스(Cisco Talos)는 10월 29일 새로운 명령제어(C2) 도구인 ‘NIK C2’를 실제 공격 환경에서 발견하고 분석 결과를 공개했다.NIK C2는 윈도 운영체제를 대상으로 제작된 원격접속 악성코드와 공격자 관리서버로 구성된다. 공격자는 감염된 컴",
+    "source": "데일리시큐",
+    "region": "국내",
+    "published": "2026-10-30 10:41",
+    "published_sort": "2026-10-30T10:41:44+00:00",
+    "collected_at": "2026-10-30 02:19",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": true,
+    "sec_hits": [
+      "랜섬웨어",
+      "해킹",
+      "악성코드"
+    ]
+  },
+  {
+    "title": "[긴급] 팔로알토 방화벽 관리화면 노린 ‘PHP2Shell’ 실제 공격 확인…기업·공공기관 긴급 점검 필요",
+    "link": "https://www.dailysecu.com/news/articleView.html?idxno=209178",
+    "summary": "글로벌 사이버보안 기업 팔로알토 네트웍스(Palo Alto Networks)가 자사 방화벽 운영체제인 PAN-OS에서 발견된 치명적인 보안 취약점을 악용하는 실제 공격이 확인됐다며 긴급 대응을 권고했다. 특히 인터넷에 노출된 방화벽 관리화면이 공격 대상이 되고 있어 국내 기업과 공공기관의 주의가 요구된다.팔로알토 네트웍스는 10월 28~29일 보안 권고를 업데이트하고 PHP 소프트웨어의 취약점인 CVE-2026-109618과 CVE-2026-109619를 악용한 공격이 인터넷에 공개된 방화벽 관리 인터페이스를 대상으로 실제 발생하고",
+    "source": "데일리시큐",
+    "region": "국내",
+    "published": "2026-10-30 10:33",
+    "published_sort": "2026-10-30T10:33:43+00:00",
+    "collected_at": "2026-10-30 02:19",
+    "tags": [
+      "UI/UX"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": true,
+    "sec_hits": [
+      "취약점",
+      "보안 취약",
+      "보안 권고"
+    ]
+  },
+  {
+    "title": "일본 이메일 발송 서비스 아라라 해킹당해 고객 이메일 주소 301만 건 유출",
+    "link": "https://www.dailysecu.com/news/articleView.html?idxno=209177",
+    "summary": "일본 이메일 발송 서비스 기업 아라라(Arara)가 외부 해킹 공격을 받아 약 301만 건의 고객 이메일 주소가 유출되는 사고가 발생했다. 여러 기업의 고객정보를 위탁 관리하는 이메일 발송 서비스가 공격받았다는 점에서 피해 확산 우려가 제기된다.아라라는 10월 29일 공식 공지를 통해 자사 이메일 발송 서비스 ’아라라 메시지(Arara Message)’의 서버 시스템 한 곳에서 비인가 접근이 발생해 약 301만 건의 이메일 주소가 외부로 반출됐다고 밝혔다.회사는 10월 28일 비인가 접근을 확인하고 해당 서버를 즉시 네트워크에서 분",
+    "source": "데일리시큐",
+    "region": "국내",
+    "published": "2026-10-30 10:29",
+    "published_sort": "2026-10-30T10:29:31+00:00",
+    "collected_at": "2026-10-30 02:19",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": true,
+    "sec_hits": [
+      "해킹"
+    ]
+  },
+  {
+    "title": "SK하이닉스 사장단 인사...안현-차선용-윤풍영 사장 전진 배치",
+    "link": "https://www.techm.kr/news/articleView.html?idxno=156688",
+    "summary": "SK하이닉스가 30일 사장급 인사를 단행했다. 안현 사장과 차선용 사장, 윤풍영 사장을 전진 배치하며 글로벌 공략에 속도를 낸다. 이번 인사는 11월1일부로 시행된다.안현 개발총괄 사장은 미국 현지에 사장급 조직으로 신설되는 미주총괄을 맡는다. 현지 빅테크 고객 중심의 체계를 구축하고, 기술 리더십과 연구개발(R&D) 역량 강화를 이끌 예정이다. 안 사장은 HBM, SOCAMM 등 AI 메모리 개발을 이끌어 온 기술력과 리더십은 물론, 사업·전략 경험과 글로벌 역량까지 두루 갖춘 적임자다.차선용 미래기술연구원장 사장은 개발총괄에 보",
+    "source": "테크M",
+    "region": "국내",
+    "published": "2026-10-30 10:26",
+    "published_sort": "2026-10-30T10:26:43+00:00",
+    "collected_at": "2026-10-30 02:19",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "라이온하트 스튜디오 '오딘: 발할라 라이징', 中 외자판호 취득",
+    "link": "https://www.techm.kr/news/articleView.html?idxno=156685",
+    "summary": "라이온하트 스튜디오를 대표하는 MMORPG '오딘: 발할라 라이징(오딘)'이 중국 외자판호를 취득한 것으로 나타났다.29일 중국 국가신문출판서(国家新闻出版署)에 따르면, 오딘(중문명 奥丁: 神叛)은 28일 기준 모바일 및 PC 플랫폼 버전의 중국 수입 온라인게임 승인 명단에 새롭게 이름을 올렸다. 오딘은 지난해 글로벌 정식 출시 당시 奥丁: 神叛 명칭을 통해 앞서 대만 및 홍콩 지역 서비스를 제공한 바 있다.오딘의 중국 지역 서비스 회사로는 상하이 쯔순 정보기술(上海紫舜信息技术)이 이름을 올렸다. 지난 2016년 중국내 설립된 기업",
+    "source": "테크M",
+    "region": "국내",
+    "published": "2026-10-30 10:14",
+    "published_sort": "2026-10-30T10:14:01+00:00",
+    "collected_at": "2026-10-30 02:19",
+    "tags": [
+      "기타"
+    ],
+    "flag": true,
+    "flag_hits": [
+      "정식 출시"
+    ],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "LG CNS, 3분기 영업이익 1382억원...전년比 15% 성장",
+    "link": "https://www.techm.kr/news/articleView.html?idxno=156686",
+    "summary": "LG CNS가 AI·클라우드 사업 성장을 지속하며 15% 영업이익 증가율을 기록했다. 금융 분야 사업 매출 확대도 성장에 기여했다. 에이전틱 AI와 AI 인프라를 양대 축으로 성장 동력을 더욱 강화할 방침이다.LG CNS는 3분기 매출 1조6643억원, 영업이익 1382억원을 기록했다고 30일 밝혔다. 전년 동기 대비 매출은 9.3%, 영업이익은 15.0% 증가했다. AI·클라우드의 견조한 성장과 금융 분야 차세대 사업 매출 확대가 실적을 견인했다.AI·클라우드 3분기 매출은 전년 동기 대비 9.3% 증가한 9615억원이다. AI",
+    "source": "테크M",
+    "region": "국내",
+    "published": "2026-10-30 10:13",
+    "published_sort": "2026-10-30T10:13:52+00:00",
+    "collected_at": "2026-10-30 02:19",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "바이낸스서 최대 7조원대 해킹 의혹…가상자산 시장 '발칵'",
+    "link": "https://www.techm.kr/news/articleView.html?idxno=156687",
+    "summary": "세계 최대 가상자산 거래소 바이낸스에서 최대 58억달러(약 7.7조원) 규모의 자산이 외부로 유출됐을 가능성이 제기되면서 가상자산 시장이 충격에 빠졌다. 주요 스테이블코인 발행사들이 25억달러 이상의 관련 자산을 긴급 동결한 가운데 바이낸스는 입출금을 일시 중단하고 보안 점검에 착수했다. 실제 해킹 피해 규모가 시장의 추정치에 근접할 경우 가상자산 역사상 최대 규모의 탈취 사건으로 기록될 전망이다.30일 블룸버그통신과 등 외신에 따르면 바이낸스는 전날 자사 가상자산 지갑에서 대규모 의심 거래가 발생했다는 보고를 접수하고 긴급 조사에",
+    "source": "테크M",
+    "region": "국내",
+    "published": "2026-10-30 10:05",
+    "published_sort": "2026-10-30T10:05:25+00:00",
+    "collected_at": "2026-10-30 02:19",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": true,
+    "sec_hits": [
+      "해킹"
+    ]
+  },
+  {
     "title": "SK그룹, '안정 속 쇄신' 추진...주요 CEO 유임하는 2027년 사장단 인사 단행",
     "link": "https://www.techm.kr/news/articleView.html?idxno=156684",
     "summary": "SK그룹이 글로벌 경영 환경의 불확실성에 선제적으로 대응하고 지속가능한 성장 기반을 확고히 다지기 위한 2027년 사장단 인사를 단행했다. SK그룹은 30일 오전 임시 수펙스추구협의회를 열고, 각 멤버사 이사회에서 결정된 사장단 인사 사항을 공유했다고 밝혔다.SK그룹은 기존 주요 멤버사 대표이사(CEO)들을 유임했다. 경영 안정성을 확보하는 한편 검증된 실무형 리더를 새롭게 발탁했다는 설명이다. 기존 주력 사업의 본원적 경쟁력을 강화하면서 안정적 수익 구조를 확보하고 글로벌 기술 및 사업 혁신을 가속화하기 위해서다.SK그룹의 지주회",
@@ -10,6 +181,23 @@
     "collected_at": "2026-10-30 09:44",
     "tags": [
       "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "[AI리더의 서가] 아파치 아이스버그 완벽 가이드",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216586",
+    "summary": "아파치 아이스버그 완벽 가이드토메르 시란·제이슨 휴즈·알렉스 메르세드 | 제이펍2026년 10월 15일추천이유데이터 엔지니어가 데이터 레이크의 유연성과 웨어하우스의 안정성을 결합한 레이크하우스를 구축하기 위해 아이스버그의 내부 구조부터 성능 최적화, 프로덕션 운영까지 실무에 필요한 모든 지식을 습득할 수 있습니다.상세보기 \"사내 데이터로 AI 에이전트를 돌려 보자는 이야기가 나올 때마다 결론은 데이터부터 정리하자는 데서 멈춥니다. 레이크하우스, 테이블 포맷 같은 말은 들리는데 어디서부터 손대야 할지 모르겠습니다.\" 데이터 플랫폼을",
+    "source": "AI타임스",
+    "region": "국내",
+    "published": "2026-10-30 09:00",
+    "published_sort": "2026-10-30T09:00:00+00:00",
+    "collected_at": "2026-10-30 02:19",
+    "tags": [
+      "AI/신기술"
     ],
     "flag": false,
     "flag_hits": [],
@@ -351,6 +539,109 @@
     "sec_hits": []
   },
   {
+    "title": "'프로페서X' '피카드 함장' 패트릭 스튜어트 별세… 향년 86세",
+    "link": "https://www.etnews.com/20261030000130",
+    "summary": "영화 '엑스맨'과 인기 SF 시리즈 '스타트렉'으로 전 세계적인 사랑을 받은 영국 배우 패트릭 스튜어트가 별세했다. 향년 86세. 30일(현지시간) AP통신에 따르면 스튜어트는 지난 28일 미국 로스앤젤레스에서 세상을 떠났다. 고인의 대변인 켈리 부시 노박은 스튜어트가 알츠하이머병과 루이소체 치매를 앓아왔다고 밝혔다. 그의 투병 사실이 외부에 알려진 것은 이번이 처음이다. 스튜어트는 '엑스맨' 시리즈의 찰스 자비에 교수(프로페서 X)와 '스타트",
+    "source": "전자신문",
+    "region": "국내",
+    "published": "2026-10-30 10:39",
+    "published_sort": "2026-10-30T01:39:09+00:00",
+    "collected_at": "2026-10-30 02:19",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "현대차그룹, 아파트 주차로봇 국내 첫 시연…50면 규모 실증",
+    "link": "https://www.etnews.com/20261030000116",
+    "summary": "현대자동차그룹이 대규모 아파트 단지에서 주차로봇 운용 기술을 선보였다. 현대차그룹은 지난 29일 경기도 시흥시 '힐스테이트 더웨이브시티'에서 국토교통부와 한국토지주택공사(LH) 등 유관 기관 관계자들이 참석한 가운데 공동주택 주차로봇 시연회를 열었다고 30일 밝혔다. 이번 행사는 스마트도시 규제샌드박스를 통해 현대차·현대위아·현대건설 컨소시엄이 추진 중인 실증사업 성과를 공유하기 위해 마련됐다. 실제 아파트 단지 내 50면 이상 규모의 주차공간",
+    "source": "전자신문",
+    "region": "국내",
+    "published": "2026-10-30 10:29",
+    "published_sort": "2026-10-30T01:29:29+00:00",
+    "collected_at": "2026-10-30 02:19",
+    "tags": [
+      "법규/정책",
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+    "link": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+    "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
+    "source": "TechCrunch",
+    "region": "해외",
+    "published": "2026-10-30 01:20",
+    "published_sort": "2026-10-30T01:20:48+00:00",
+    "collected_at": "2026-10-30 02:19",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "'최악의 하루' 구글 알파벳, 하루 새 시총 670조원 증발… 주가 13% 폭락",
+    "link": "https://www.etnews.com/20261030000077",
+    "summary": "구글 모회사 알파벳의 주가가 하루 만에 약 13% 폭락하며 2004년 상장 이후 최악의 하락률을 기록했다. 인공지능(AI) 인프라 구축에 막대한 자금을 투입했지만, 핵심 수익원인 검색 광고 사업의 성장세가 시장 기대에 미치지 못하면서 투자자들의 우려가 커진 것으로 풀이된다. 29일(현지시간) CNBC 등에 따르면 이날 미국 뉴욕증시에서 알파벳 주가는 전 거래일 대비 12.64% 급락한 283.82달러에 거래를 마쳤다. 이는 코로나19 팬데믹 당",
+    "source": "전자신문",
+    "region": "국내",
+    "published": "2026-10-30 10:01",
+    "published_sort": "2026-10-30T01:01:07+00:00",
+    "collected_at": "2026-10-30 02:19",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "정점식, 820조 예산안 정조준…“李대통령, 시정연설서 포퓰리즘 결별 선언해야”",
+    "link": "https://www.etnews.com/20261030000065",
+    "summary": "정점식 국민의힘 원내대표는 30일 내년도 예산안 심사를 앞두고 이재명 대통령을 향해 “미래 세대를 약탈하는 포퓰리즘 정책과의 결별을 선언해야 한다”고 요구했다. 정부가 추진하는 미래대응기금에 대해서는 “200조원 규모의 포퓰리즘 자유이용권”이라고 비판했다. 정 원내대표는 이날 국회에서 열린 국정감사대책회의에서 “다음 주 초 이재명 대통령의 국회 시정연설을 시작으로 11월 예산안 심사가 예정돼 있다”며 “현재 이재명 정부는 경제, 민생, 치안,",
+    "source": "전자신문",
+    "region": "국내",
+    "published": "2026-10-30 09:51",
+    "published_sort": "2026-10-30T00:51:21+00:00",
+    "collected_at": "2026-10-30 02:19",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "'국민 아버지' 최불암, 입원치료 중 별세… 향년 87세, '파하~' 웃음 남기고 떠났다",
+    "link": "https://www.etnews.com/20261030000057",
+    "summary": "'수사반장'과 '전원일기' 등을 통해 국민적 사랑을 받은 배우 최불암(본명 최영한)이 별세했다. 향년 87세. 30일 연합뉴스 등에 따르면 최불암은 전날 오후 10시께 서울 강서구의 한 병원에서 입원 치료를 받던 중 세상을 떠났다. 고인은 지난해 3월, 허리디스크 수술을 받은 뒤 거동이 불편해지면서 14년간 진행해 온 KBS 1TV '한국인의 밥상'에서 하차했다. 이후 재활 치료에 전념했으나 건강이 급격히 악화한 것으로 전해졌다. 1939년 인",
+    "source": "전자신문",
+    "region": "국내",
+    "published": "2026-10-30 09:48",
+    "published_sort": "2026-10-30T00:48:58+00:00",
+    "collected_at": "2026-10-30 02:19",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
     "title": "美 9월 PCE 물가 가속…AI 투자·소비에 3분기 GDP 예상치 상회",
     "link": "https://www.bloter.net/news/articleView.html?idxno=677198",
     "summary": "지난달 미국 내 물가 상승세가 가팔라지며 인플레이션이 연방준비제도(Fed·연준)의 목표치를 크게 웃돈 가운데 3분기에 경제는 예상보다 빠르게 성장한 것으로 나타났다.29일(현지시간) 미 상무부는 계절 조정 기준 9월 개인소비지출(PCE) 물가지수가 전월 대비 0.5% 오르고 연간 상승률은 3.6%를 기록했다고 밝혔다. 월간 상승률은 3월 이후 가장 높았지만 다우존스가 집계한 시장 전망치에 부합했다. 연간 상승률은 시장 예상치를 0.1%p 밑돌았다.변동성이 큰 식품과 에너지를 제외한 근원 PCE 물가지수는 전월 대비 0.3%, 전년",
@@ -366,6 +657,42 @@
     "flag_hits": [],
     "sec": false,
     "sec_hits": []
+  },
+  {
+    "title": "SK하이닉스, 11월 1일부로 사장단 인사 단행…안현 개발총괄 사장 '미주총괄'로",
+    "link": "https://www.etnews.com/20261030000043",
+    "summary": "SK하이닉스가 30일 사장급 인사를 전격 단행했다. 이번 인사는 11월 1일부로 시행되며, 급변하는 글로벌 인공지능(AI) 반도체 시장 대응과 미래 기술 경쟁력 확보에 초점을 맞췄다. 이번 인사에서 안현 개발총괄(CDO) 사장은 미국 현지에 사장급 조직으로 신설되는 '미주총괄'을 맡는다. 안 사장은 1967년생으로 서울대학교 원자핵공학 학사, 서울대학교대학원 원자핵공학 석·박사를 졸업했다. SK하이닉스에서 차세대 모바일 낸드 솔루션과, 데이터센",
+    "source": "전자신문",
+    "region": "국내",
+    "published": "2026-10-30 09:35",
+    "published_sort": "2026-10-30T00:35:33+00:00",
+    "collected_at": "2026-10-30 02:19",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "바이낸스 수십억달러 해킹 의혹…테더·서클 23억달러 동결",
+    "link": "https://www.etnews.com/20261030000025",
+    "summary": "세계 최대 가상자산 거래소 바이낸스에서 대규모 해킹 의혹이 제기되면서 글로벌 가상자산 시장이 출렁이고 있다. 스테이블코인 발행사 테더와 서클이 총 23억달러 규모의 자산을 동결한 데 이어 비트코인 가격도 7만8000달러대까지 떨어졌다. 바이낸스는 보안 문제에 대한 조사에 착수했지만 이용자 자금 피해는 확인되지 않았다고 밝혔다. 30일 외신 등에 따르면 바이낸스에서 수십억달러 규모의 가상자산이 탈취됐다는 의혹이 제기되면서 시장의 불안감이 확산하고",
+    "source": "전자신문",
+    "region": "국내",
+    "published": "2026-10-30 09:12",
+    "published_sort": "2026-10-30T00:12:17+00:00",
+    "collected_at": "2026-10-30 02:19",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": true,
+    "sec_hits": [
+      "해킹"
+    ]
   },
   {
     "title": "경기도 버스 노사 임금 3.2% 인상 최종 합의…모든 노선 정상 운행",
@@ -572,8 +899,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "breach",
-      "hack"
+      "breach"
     ]
   },
   {
@@ -607,11 +933,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "hackers",
-      "cyberattack"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "Reddit’s CEO says Google’s AI Mode ‘does not drive traffic’",
@@ -664,8 +987,7 @@
     "sec": true,
     "sec_hits": [
       "backdoor",
-      "malware",
-      "aign returns to hijack"
+      "malware"
     ]
   },
   {
@@ -759,8 +1081,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "breach",
-      "hackers"
+      "breach"
     ]
   },
   {
@@ -1186,8 +1507,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "exploited",
-      "hackers"
+      "exploited"
     ]
   },
   {
@@ -2772,8 +3092,7 @@
     "sec": true,
     "sec_hits": [
       "cve-2026-98432",
-      "exploit",
-      "ai model wrote an exploit"
+      "exploit"
     ]
   },
   {
@@ -3283,8 +3602,7 @@
     "sec": true,
     "sec_hits": [
       "해킹",
-      "침해사고",
-      "해킹 시도"
+      "침해사고"
     ]
   },
   {
@@ -3410,8 +3728,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "privilege escalation",
-      "aining with the php2shell flaw"
+      "privilege escalation"
     ]
   },
   {
@@ -3537,10 +3854,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "사이버 공격"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "미 법무부, 엔비디아의 허깅페이스 인수 조사...AI 모델 유통망 장악 가능성 검토",
@@ -3921,8 +4236,7 @@
     "sec": true,
     "sec_hits": [
       "vulnerabilit",
-      "authentication bypass",
-      "ains an authentication bypass vulnerab"
+      "authentication bypass"
     ]
   },
   {
@@ -3943,7 +4257,7 @@
     "sec_hits": [
       "취약점",
       "보안 취약",
-      "사이버공격"
+      "cve-2026-111497"
     ]
   },
   {
@@ -4182,8 +4496,7 @@
     "sec": true,
     "sec_hits": [
       "vulnerabilit",
-      "exploit",
-      "ai models can now help attackers discover vulnerab"
+      "exploit"
     ]
   },
   {
@@ -4495,10 +4808,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "hackers"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "현대백화점그룹, 장호진·박홍진 부회장 승진…'안정 속 쇄신'에 방점",
@@ -4693,11 +5004,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "npm firewall to block malicious packages before installation github has announced that it's introducing a new package firewall as a preview to block installation of suspicious npm packages during installation time. \"the firewall inspects both metadata requests and package downloads for signs of malicious",
-      "malicious package"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "\"11월 대목 잡아라\"...쿠팡-11번가-알리, 연중 최대 쇼핑 대전 '맞불'",
@@ -4730,10 +5038,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "hacked"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "가온전선, 美 캠퍼스형 AIDC 사로잡았다…빅테크에 1200억 또 수주",
@@ -5038,8 +5344,7 @@
     "sec": true,
     "sec_hits": [
       "exploited",
-      "malware",
-      "hackers"
+      "malware"
     ]
   },
   {
@@ -5784,11 +6089,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "해커",
-      "apt"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "트럼프, 수입 로봇·산업기계 안보위협 규정…교역국과 협상",
@@ -5842,8 +6144,7 @@
     "sec": true,
     "sec_hits": [
       "악성코드",
-      "공급망 공격",
-      "해커"
+      "공급망 공격"
     ]
   },
   {
@@ -5964,8 +6265,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "breach",
-      "hacker"
+      "breach"
     ]
   },
   {
@@ -6052,10 +6352,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "hackers"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
@@ -6249,8 +6547,7 @@
     "sec": true,
     "sec_hits": [
       "랜섬웨어",
-      "해킹",
-      "해커"
+      "해킹"
     ]
   },
   {
@@ -6284,10 +6581,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "사이버공격"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents",
@@ -6303,10 +6598,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "hacker"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "美 연준, 기준금리 3.75∼4.00% 동결…금리 인상 한 달 만에 '숨 고르기'",
@@ -6448,8 +6741,7 @@
     "sec": true,
     "sec_hits": [
       "vulnerabilit",
-      "critical bug",
-      "php scare may have faded from your feed, but the cleanup is far from over. last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerab"
+      "critical bug"
     ]
   },
   {
@@ -6630,8 +6922,7 @@
     "sec": true,
     "sec_hits": [
       "zero-day",
-      "exploitation",
-      "ain network in four zero-day exploit"
+      "exploitation"
     ]
   },
   {
@@ -6790,8 +7081,7 @@
     "sec": true,
     "sec_hits": [
       "해킹",
-      "침해사고",
-      "사이버공격"
+      "침해사고"
     ]
   },
   {
@@ -7019,8 +7309,7 @@
     "sec": true,
     "sec_hits": [
       "취약점",
-      "vulnerabilit",
-      "agent vulnerab"
+      "vulnerabilit"
     ]
   },
   {
@@ -7558,10 +7847,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "ain of logic flaw"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "[단독] 슈피겐코리아, 해외 고객관리 시스템 해킹…고객 최대 182명·임직원 264명 정보 조회",
@@ -7756,8 +8043,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "zero-day",
-      "hacking"
+      "zero-day"
     ]
   },
   {
@@ -7928,11 +8214,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "hacking",
-      "cyberattack"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "[우아콘 26] \"비 오는데 뭐 먹지?\" 물으면 AI가 추천...배민, 대화형 검색 고도화",
@@ -8462,10 +8745,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "사이버 공격"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "'도깨비의세계' 2주 연속 구글 매출 1위, 밀접 소통 효과 '확실'",
@@ -8538,9 +8819,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "랜섬웨어",
-      "사이버 공격",
-      "apt"
+      "랜섬웨어"
     ]
   },
   {
@@ -8620,8 +8899,7 @@
     "sec": true,
     "sec_hits": [
       "vulnerabilit",
-      "exploited",
-      "php flaw"
+      "exploited"
     ]
   },
   {
@@ -8772,8 +9050,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "랜섬웨어",
-      "해커"
+      "랜섬웨어"
     ]
   },
   {
@@ -8865,7 +9142,7 @@
     "sec_hits": [
       "취약점",
       "원격코드실행",
-      "사이버공격"
+      "cve-2026-109618"
     ]
   },
   {
@@ -9186,8 +9463,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "vulnerabilit",
-      "hackers"
+      "vulnerabilit"
     ]
   },
   {
@@ -9274,9 +9550,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "exploit",
-      "hackers",
-      "ained php2shell and fragnesia exploit"
+      "exploit"
     ]
   },
   {
@@ -9652,8 +9926,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "vulnerabilit",
-      "hackers"
+      "vulnerabilit"
     ]
   },
   {
@@ -10483,8 +10756,7 @@
     "sec": true,
     "sec_hits": [
       "exploits",
-      "security flaw",
-      "ai model chains flaw"
+      "security flaw"
     ]
   },
   {
@@ -10746,8 +11018,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "breach",
-      "hackers"
+      "breach"
     ]
   },
   {
@@ -10920,8 +11191,7 @@
     "sec": true,
     "sec_hits": [
       "해킹",
-      "침해사고",
-      "사이버 침해"
+      "침해사고"
     ]
   },
   {
@@ -11008,11 +11278,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "hacked",
-      "ailscale patches ssh flaw"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "ShinyHunters-Exploited Oracle PeopleSoft Zero-Day Turns Out to Be Three Chained Flaws",
@@ -11456,8 +11723,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "ransomware",
-      "cyberattack"
+      "ransomware"
     ]
   },
   {
@@ -11647,10 +11913,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "hackers"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
@@ -11844,11 +12108,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "hacking",
-      "cyber attack"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "Trump is making it easier for fossil fuel companies to leak methane",
@@ -12122,8 +12383,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "취약점",
-      "사이버 공격"
+      "취약점"
     ]
   },
   {
@@ -12390,9 +12650,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "침해사고",
-      "사이버 공격",
-      "사이버 침해"
+      "침해사고"
     ]
   },
   {
@@ -12566,9 +12824,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "침해사고",
-      "사이버 공격",
-      "사이버 침해"
+      "침해사고"
     ]
   },
   {
@@ -13278,10 +13534,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "ailworm’ flaw"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "바이낸스, 유명 코인 사칭한 '가짜 결제 사기' 경고…토큰 주소 확인해야",
@@ -13457,8 +13711,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "exploit",
-      "hackers"
+      "exploit"
     ]
   },
   {
@@ -13868,8 +14121,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "breach",
-      "hackers"
+      "breach"
     ]
   },
   {
@@ -14295,10 +14547,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "hackers"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "AI-Generated Fake Login Pages Are Making Account Takeovers Easier",
@@ -14315,10 +14565,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "account takeover"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption",
@@ -14867,10 +15115,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "ai compaction flaw"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "CISA confirms PHP2Shell vulnerabilities now exploited in attacks",
@@ -14981,8 +15227,7 @@
     "sec": true,
     "sec_hits": [
       "취약점",
-      "해킹",
-      "해킹 공격"
+      "해킹"
     ]
   },
   {
@@ -15056,8 +15301,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "해킹",
-      "사이버 공격"
+      "해킹"
     ]
   },
   {
@@ -15074,10 +15318,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "사이버 공격"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "고리 3·4호기 수명연장…AI시대 '2.05GW 무탄소 전력' 돌아온다",
@@ -15147,8 +15389,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "취약점",
-      "php 취약"
+      "취약점"
     ]
   },
   {
@@ -15483,8 +15724,7 @@
     "sec": true,
     "sec_hits": [
       "정보 유출",
-      "개인정보 유출",
-      "사이버공격"
+      "개인정보 유출"
     ]
   },
   {
@@ -15659,8 +15899,7 @@
     "sec": true,
     "sec_hits": [
       "data breach",
-      "breach",
-      "hackers"
+      "breach"
     ]
   },
   {
@@ -15888,10 +16127,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "hacking"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "Meet the real-life Scottish surgeon who inspired Sherlock Holmes",
@@ -16202,10 +16439,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "hackers"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "Musk accuses Ukraine of violating Starlink terms with deadly drone strikes",
@@ -16310,8 +16545,7 @@
     "sec": true,
     "sec_hits": [
       "cve-2026-111497",
-      "security update",
-      "php issues second windows security update in five days to fix brotli code execution flaw php has rebuilt its official windows packages for php 8.2 through 8.5 to fix cve-2026-111497, a flaw in the brotli compression library that the packages include. the flaw can let an attacker corrupt memory and potentially run code. php says the flaw"
+      "security update"
     ]
   },
   {
@@ -17776,10 +18010,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "hack"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "Anthropic officially files for its public debut",
@@ -17905,8 +18137,7 @@
     "sec": true,
     "sec_hits": [
       "rce",
-      "critical bug",
-      "hackers"
+      "critical bug"
     ]
   },
   {
@@ -18365,8 +18596,7 @@
     "sec": true,
     "sec_hits": [
       "취약점",
-      "cve-2026-111497",
-      "node.js 핵심 취약점 'node2shell' 발견...티오리, 긴급 대응 가이드 공개 티오리가 웹 서버와 백엔드 개발에 널리 쓰이는 node.js 런타임의 치명적인 취약점인 'node2shell(cve"
+      "cve-2026-111497"
     ]
   },
   {
@@ -18472,10 +18702,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "사이버 공격"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "“유튜브, 韓은 2.5배 더 비싼데”…美·英만 되는 '요금제' 이유 물었더니",
@@ -18954,8 +19182,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "취약점",
-      "사이버공격"
+      "취약점"
     ]
   },
   {
@@ -18989,10 +19216,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "hacking"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "'AI 투자도 한발 먼저'…김기홍 JB금융 회장, 300억 펀드 띄우고 보안기업 투자",
@@ -19042,10 +19267,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "node.js, python packages an out-of-bounds write in google’s brotli decoder affects node.js, .net, powershell, and python packages, and can lead to code execution. the post node2shell: brotli flaw triggers patching across microsoft, node.js, python packages appeared first on security"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "SKT, AI 고도화·신뢰성 '두 마리 토끼' 잡는다",
@@ -19806,8 +20029,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "malware",
-      "malicious npm"
+      "malware"
     ]
   },
   {
@@ -20237,11 +20459,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "hacked",
-      "ailscale ssh flaw"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "고려아연 \"영풍·MBK, 감사위 회신 자의적 해석해 여론전\"",
@@ -20522,10 +20741,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "ai coding agents hijack"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "더존비즈온, APO 백업서버 해킹 공지…암호화 데이터 외부 반출 정황",
@@ -21856,8 +22073,7 @@
     "sec": true,
     "sec_hits": [
       "취약점",
-      "보안 취약",
-      "php 취약"
+      "보안 취약"
     ]
   },
   {
@@ -21930,8 +22146,7 @@
     "sec": true,
     "sec_hits": [
       "vulnerabilit",
-      "exploits",
-      "aign in early 2026, exploit"
+      "exploits"
     ]
   },
   {
@@ -22122,8 +22337,7 @@
     "sec": true,
     "sec_hits": [
       "해킹",
-      "악성 코드",
-      "사이버 공격"
+      "악성 코드"
     ]
   },
   {
@@ -22194,8 +22408,7 @@
     "sec": true,
     "sec_hits": [
       "cve-2026-111497",
-      "rce",
-      "node.js rce also affects bun, python and other widely used software a memory-corruption flaw in google's brotli decoder sits in many programs that unpack brotli-compressed data, among them bun, microsoft's .net, the python&nbsp;brotli&nbsp;and&nbsp;brotlicffi&nbsp;packages, and envoy proxies set up to decompress brotli. tracked as&nbsp;cve"
+      "rce"
     ]
   },
   {
@@ -23116,10 +23329,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "hacking"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "Laika has spent 20 years building up to Wildwood",
@@ -23751,7 +23962,7 @@
     "sec_hits": [
       "취약점",
       "보안 업데이트",
-      "서버 장악"
+      "cve-2026-109618"
     ]
   },
   {
@@ -23963,8 +24174,7 @@
     "sec": true,
     "sec_hits": [
       "해킹",
-      "침해사고",
-      "사이버공격"
+      "침해사고"
     ]
   },
   {
@@ -24935,8 +25145,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "breach",
-      "hacked"
+      "breach"
     ]
   },
   {
@@ -25091,8 +25300,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "breach",
-      "hackers"
+      "breach"
     ]
   },
   {
@@ -25639,8 +25847,7 @@
     "sec": true,
     "sec_hits": [
       "cve-2026-115560",
-      "rce",
-      "php warns of another unpatched rce risk two days after emergency php2shell patches php has warned of another way an attacker could run code on a web server, two days after it shipped emergency fixes for the critical php2shell flaws. the new issue, assigned cve"
+      "rce"
     ]
   },
   {
@@ -25795,8 +26002,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "backdoor",
-      "hackers"
+      "backdoor"
     ]
   },
   {
@@ -26196,8 +26402,7 @@
     "sec": true,
     "sec_hits": [
       "rce",
-      "exploit",
-      "node.js build using crafted brotli data malicious brotli data can make an application on an official build of node.js run attacker-supplied code, security"
+      "exploit"
     ]
   },
   {
@@ -26894,8 +27099,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "exploit",
-      "hackers"
+      "exploit"
     ]
   },
   {
@@ -28144,9 +28348,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "해킹",
-      "해커",
-      "사이버 공격"
+      "해킹"
     ]
   },
   {
@@ -28216,8 +28418,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "breach",
-      "hackers"
+      "breach"
     ]
   },
   {
@@ -28843,8 +29044,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "vulnerabilit",
-      "hackers"
+      "vulnerabilit"
     ]
   },
   {
@@ -29121,8 +29321,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "해킹",
-      "사이버 공격"
+      "해킹"
     ]
   },
   {
@@ -29636,8 +29835,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "vulnerabilit",
-      "ains multiple vulnerab"
+      "vulnerabilit"
     ]
   },
   {
@@ -29657,8 +29855,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "vulnerabilit",
-      "ain multiple vulnerab"
+      "vulnerabilit"
     ]
   },
   {
@@ -29677,8 +29874,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "vulnerabilit",
-      "ains multiple vulnerab"
+      "vulnerabilit"
     ]
   },
   {
@@ -29716,8 +29912,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "vulnerabilit",
-      "ains a vulnerab"
+      "vulnerabilit"
     ]
   },
   {
@@ -29775,8 +29970,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "vulnerabilit",
-      "ains multiple path traversal vulnerab"
+      "vulnerabilit"
     ]
   },
   {
@@ -29795,8 +29989,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "vulnerabilit",
-      "ain an out-of-bounds read vulnerab"
+      "vulnerabilit"
     ]
   },
   {
@@ -29836,8 +30029,7 @@
     "sec": true,
     "sec_hits": [
       "vulnerabilit",
-      "exploit",
-      "ains an out-of-bounds write vulnerab"
+      "exploit"
     ]
   },
   {
@@ -29873,8 +30065,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "vulnerabilit",
-      "ain a vulnerab"
+      "vulnerabilit"
     ]
   },
   {
@@ -29893,8 +30084,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "vulnerabilit",
-      "ain multiple path traversal vulnerab"
+      "vulnerabilit"
     ]
   },
   {
@@ -29974,8 +30164,7 @@
     "sec": true,
     "sec_hits": [
       "vulnerabilit",
-      "exploitation",
-      "ains a denial-of-service vulnerab"
+      "exploitation"
     ]
   },
   {
@@ -29994,8 +30183,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "vulnerabilit",
-      "ain multiple vulnerab"
+      "vulnerabilit"
     ]
   },
   {
@@ -30014,8 +30202,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "vulnerabilit",
-      "ains multiple vulnerab"
+      "vulnerabilit"
     ]
   },
   {
@@ -30085,10 +30272,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "hacked"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "페루·칠레, 전력망 연결 협의 재개 추진…태양광 전력 교환 구상",
@@ -30207,10 +30392,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "ai coding agent allowed a malicious or hijack"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "고객 자산 보호부터 투자사기 예방까지...가상자산 사고 예방 교육 넓힌다",
@@ -30736,8 +30919,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "backdoor",
-      "malicious package"
+      "backdoor"
     ]
   },
   {
@@ -30842,8 +31024,7 @@
     "sec": true,
     "sec_hits": [
       "remote code execution",
-      "security update",
-      "node.js brotli decoder bug could allow remote code execution in all supported versions node.js released&nbsp;security"
+      "security update"
     ]
   },
   {
@@ -31017,8 +31198,7 @@
     "sec": true,
     "sec_hits": [
       "vulnerabilit",
-      "exploit",
-      "aid it detected an attempt to exploit"
+      "exploit"
     ]
   },
   {
@@ -31337,8 +31517,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "supply chain attack",
-      "hackers"
+      "supply chain attack"
     ]
   },
   {
@@ -31705,10 +31884,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "security releases"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "A founder with a tool is not a founder with a clue",
@@ -31972,8 +32149,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "vulnerabilit",
-      "php: the three letters that shut down sites all over the internet today two bugs found with ai are behind major issues today for 4chan, deviantart, wikipedia, and the blog where the bar around the corner posts pictures of people's dogs. the \"critical vulnerab"
+      "vulnerabilit"
     ]
   },
   {
@@ -32165,9 +32341,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "vulnerabilit",
-      "node.js and popular ai tool litellm, cybersecurity",
-      "php vulnerabilities to flaws in node.js and popular ai tool litellm, cybersecurity"
+      "vulnerabilit"
     ]
   },
   {
@@ -32398,10 +32572,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "php armageddon: openai, google’s wiz find ancient holes, panicking the internet this is the kind of security"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "오픈AI, 챗GPT에 사적 대화 숨기는 '채팅 잠금' 기능 도입",
@@ -33280,8 +33452,7 @@
     "sec": true,
     "sec_hits": [
       "vulnerabilit",
-      "exploits",
-      "php flaw may cause many site outages today expect to see quite a few websites serving \"404\" or \"page not found\" errors today: nearly 70 percent of websites need to update their core software to fix a pair of vulnerabilities that allow an attacker to seize full control over affected servers. experts say there are working exploits for the flaw"
+      "exploits"
     ]
   },
   {
@@ -34377,8 +34548,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "rce",
-      "php rce patch, and what doesn't you cannot fully block the two critical php flaws called php2shell before today's fix, and the one setting being passed around as a workaround is not enough on its own, the security firm that suggested it now says. php will release the fix at&nbsp;14:00 utc on october 21&nbsp;for two flaw"
+      "rce"
     ]
   },
   {
@@ -35081,8 +35251,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "exploit",
-      "aims php2shell exploit"
+      "exploit"
     ]
   },
   {
@@ -35224,10 +35393,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "hack"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "Trump is giving Nick Shirley $10,000 and launching a $25 million fraud bounty program",
@@ -36427,8 +36594,7 @@
     "sec": true,
     "sec_hits": [
       "취약점",
-      "해킹",
-      "해커"
+      "해킹"
     ]
   },
   {
@@ -37394,10 +37560,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "해커"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
@@ -38732,11 +38896,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "해커",
-      "사이버 공격"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "KB국민은행, SK하이닉스·무보와 2500억원 규모 반도체 협력사 금융지원",
@@ -39123,9 +39284,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "vulnerabilit",
-      "hacking",
-      "aining 4 vulnerab"
+      "vulnerabilit"
     ]
   },
   {
@@ -39142,10 +39301,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "hackers"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "Startup taps underwater volcano as energy source in \"proof point\" test",
@@ -39956,8 +40113,7 @@
     "sec": true,
     "sec_hits": [
       "data breach",
-      "breach",
-      "hacked"
+      "breach"
     ]
   },
   {
@@ -40799,8 +40955,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "ransomware",
-      "hacking"
+      "ransomware"
     ]
   },
   {
@@ -44435,10 +44590,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "사이버 공격"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "Science says your boss should talk less in meetings",
@@ -45123,8 +45276,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "breached",
-      "hacked"
+      "breached"
     ]
   },
   {
@@ -45678,8 +45830,7 @@
     "sec": true,
     "sec_hits": [
       "취약점",
-      "해킹",
-      "사이버 공격"
+      "해킹"
     ]
   },
   {
@@ -49275,8 +49426,7 @@
     "sec": true,
     "sec_hits": [
       "취약점",
-      "해킹",
-      "해커"
+      "해킹"
     ]
   },
   {
@@ -49918,9 +50068,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "해킹",
-      "해킹 시도",
-      "사이버 공격"
+      "해킹"
     ]
   },
   {
@@ -50830,10 +50978,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "hacking"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "How much more can nuclear power plants give?",
@@ -51714,8 +51860,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "exploited",
-      "hack"
+      "exploited"
     ]
   },
   {
@@ -52924,8 +53069,7 @@
     "sec": true,
     "sec_hits": [
       "해킹",
-      "정보 유출",
-      "해킹 시도"
+      "정보 유출"
     ]
   },
   {
@@ -53457,10 +53601,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "사이버 공격"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "나주, 국내 첫 바나나 양액 분화재배 실증…11월 말 수확 예정",
@@ -54584,8 +54726,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "breached",
-      "hackers"
+      "breached"
     ]
   },
   {
@@ -55489,8 +55630,7 @@
     "sec": true,
     "sec_hits": [
       "정보 유출",
-      "개인정보 유출",
-      "해커"
+      "개인정보 유출"
     ]
   },
   {
@@ -55715,8 +55855,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "랜섬웨어",
-      "사이버 공격"
+      "랜섬웨어"
     ]
   },
   {
@@ -56796,8 +56935,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "해킹",
-      "해커"
+      "해킹"
     ]
   },
   {
@@ -57674,10 +57812,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "cyberattack"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "카카오게임즈 '도깨비의세계' 구글 매출 1위 꿰찼다...'제우스'와 MMO 양강 구도 본격화",
@@ -57909,9 +58045,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "해킹",
-      "해커",
-      "사이버공격"
+      "해킹"
     ]
   },
   {
@@ -58576,8 +58710,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "해킹",
-      "사이버 침해"
+      "해킹"
     ]
   },
   {
@@ -61199,8 +61332,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "해킹",
-      "해커"
+      "해킹"
     ]
   },
   {
@@ -62859,8 +62991,7 @@
     "sec": true,
     "sec_hits": [
       "취약점",
-      "해킹",
-      "해킹 공격"
+      "해킹"
     ]
   },
   {
@@ -63210,8 +63341,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "해킹",
-      "해킹 시도"
+      "해킹"
     ]
   },
   {
@@ -63836,8 +63966,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "ransomware",
-      "hacking"
+      "ransomware"
     ]
   },
   {
@@ -64623,8 +64752,7 @@
     "sec": true,
     "sec_hits": [
       "취약점",
-      "보안 취약",
-      "오픈소스 취약"
+      "보안 취약"
     ]
   },
   {
@@ -64863,10 +64991,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "사이버 공격"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise",
@@ -65263,9 +65389,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "해킹",
-      "해커",
-      "사이버 공격"
+      "해킹"
     ]
   },
   {
@@ -65851,8 +65975,7 @@
     "sec": true,
     "sec_hits": [
       "data breach",
-      "breach",
-      "hack"
+      "breach"
     ]
   },
   {
@@ -67126,8 +67249,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "breach",
-      "hackers"
+      "breach"
     ]
   },
   {
@@ -67565,10 +67687,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "해커"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "삼성전자, 3분기 영업익 107조...애플·엔비디아도 못 넘은 '100조' 첫 달성",
@@ -67855,8 +67975,7 @@
     "sec": true,
     "sec_hits": [
       "취약점",
-      "해킹",
-      "해킹 공격"
+      "해킹"
     ]
   },
   {
@@ -70422,10 +70541,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "hacking"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "네이버페이, '실손24' 품었다…전국 5만곳서 서류 없이 보험금 청구",
@@ -71980,10 +72097,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "hackers"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "배경훈 \"LGU+ 해킹 은폐 사실이면 위약금 면제\"",
@@ -73616,10 +73731,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "hack"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "4살 아들에게 고환 걷어차인 아빠…“병원 갔다가 '암' 발견”",
@@ -74241,8 +74354,7 @@
     "sec": true,
     "sec_hits": [
       "해킹",
-      "침해 사고",
-      "해킹 공격"
+      "침해 사고"
     ]
   },
   {
@@ -75676,10 +75788,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "aine’s data centers by exploit"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "자동차부품사 'K자 양극화'...美 현지화·전동화 대응 신용도 가른다",
@@ -75873,8 +75983,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "피싱",
-      "해커"
+      "피싱"
     ]
   },
   {
@@ -75979,8 +76088,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "breach",
-      "hackers"
+      "breach"
     ]
   },
   {
@@ -77946,8 +78054,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "해킹",
-      "사이버 공격"
+      "해킹"
     ]
   },
   {
@@ -79521,8 +79628,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "취약점",
-      "사이버공격"
+      "취약점"
     ]
   },
   {
@@ -79576,8 +79682,7 @@
     "sec": true,
     "sec_hits": [
       "정보 유출",
-      "피싱",
-      "계정 탈취"
+      "피싱"
     ]
   },
   {
@@ -80477,8 +80582,7 @@
     "sec": true,
     "sec_hits": [
       "취약점",
-      "해킹",
-      "사이버 공격"
+      "해킹"
     ]
   },
   {
@@ -86157,8 +86261,7 @@
     "sec": true,
     "sec_hits": [
       "data breach",
-      "breach",
-      "hackers"
+      "breach"
     ]
   },
   {
@@ -86312,10 +86415,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "hack"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "AI voice startup ElevenLabs doubles valuation to $22B",
@@ -87604,8 +87705,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "exploit",
-      "hacking"
+      "exploit"
     ]
   },
   {
@@ -88341,10 +88441,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "hacking"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "메타, 소상공인용 AI 에이전트 출시…‘뮤즈’로 B2B 시장 확대",
@@ -88633,10 +88731,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "hack"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "인도 양면형 태양광, 단면형보다 발전량 최대 27.1% 증가",
@@ -89683,10 +89779,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "hacking"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "[e스포츠人] 4강 시드권 확보한 김민철...\"박상현 넘고 결승 무대 서겠다\"",
@@ -90169,10 +90263,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "hack"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "일관성·제어력 강화한 '클링 4.0' 공개... '시댄스' 추격 나서",
@@ -90415,10 +90507,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "hacker"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "AI-powered app maker Wabi pivots to a messaging experience",
@@ -93726,10 +93816,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "hacking"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "은행 오전 9시30분 문 연다…내년 4월부터 영업시간 단축",
@@ -94709,10 +94797,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "hacker"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "iM금융, 차기 회장 레이스 시작…검증 20일 늘렸다",
@@ -94969,10 +95055,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "사이버 공격"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "'30조' 역대급 배당 막차에도…삼성전자 외국인 매도 폭탄 왜?",
@@ -95024,8 +95108,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "breach",
-      "hackers"
+      "breach"
     ]
   },
   {
@@ -95406,10 +95489,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "cyberattack"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "메타, 스마트폰으로 AI 게임 만드는 '호라이즌 크리에이트' 공개",
@@ -95546,8 +95627,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "피싱",
-      "사이버공격"
+      "피싱"
     ]
   },
   {
@@ -96063,10 +96143,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "cyberattack"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "[데스크시각] 괴짜 회장의 언더독 신화",
@@ -96757,10 +96835,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "hack"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "[AI 대전환 리딩 전략] 교원웰스, IoT 데이터로 맞춤 웰니스 강화",
@@ -97536,10 +97612,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "사이버 공격"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "[AI 세이프가드] ② AI도 출시 전 '안전검사'…AIDX가 키우는 싱가포르 제3자 검증 생태계",
@@ -98128,8 +98202,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "exploited",
-      "hacking"
+      "exploited"
     ]
   },
   {
@@ -99178,10 +99251,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "hacking"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "FDE 도입 1년, 교육 수요도 급증…데이원컴퍼니, 현장 경험 제공 나서",
@@ -99799,10 +99870,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "cyberattack"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
@@ -101606,10 +101675,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "사이버 공격"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "New Jersey fines data center $1.1M after drone pics expose 62 gas generators",
@@ -102240,8 +102307,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "breach",
-      "hack"
+      "breach"
     ]
   },
   {
@@ -102879,8 +102945,7 @@
     "sec": true,
     "sec_hits": [
       "해킹",
-      "정보 유출",
-      "해커"
+      "정보 유출"
     ]
   },
   {
@@ -103461,10 +103526,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "hack"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "If Amazon doesn’t know how to eliminate carbon emissions, then who does?",
@@ -104189,9 +104252,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "피싱",
-      "해커",
-      "사이버공격"
+      "피싱"
     ]
   },
   {
@@ -105754,10 +105815,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "hacked"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "Smart glasses are already causing havoc in India",
@@ -106861,8 +106920,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "breached",
-      "hacking"
+      "breached"
     ]
   },
   {
@@ -107897,10 +107955,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "hackers"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "씨이랩, 'AIDC 인프라 데이' 개최…기업 AI 데이터센터 시장 공략",
@@ -109009,8 +109065,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "취약점",
-      "사이버 공격"
+      "취약점"
     ]
   },
   {
@@ -109148,8 +109203,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "vulnerabilit",
-      "hacking"
+      "vulnerabilit"
     ]
   },
   {
@@ -110962,10 +111016,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "해커"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "[글로벌] 오픈AI·앤트로픽 몰려간다...싱가포르, '아시아 AI 허브'로 부상",
@@ -111015,10 +111067,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "hacked"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "포티넷, AV-컴패러티브스 보안 평가서 '인증 리더' 획득",
@@ -111805,10 +111855,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "해커"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "[코스닥 루키즈 점검] 덕양에너젠, 수소 밸류체인 확장…성장 입증 관건",
@@ -113438,10 +113486,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "해커"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "과기부, 연구자가 지켜야 할 ‘AI 활용’ 7대 권고사항 제시",
@@ -114111,10 +114157,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "hacking"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "LG, AI '원LG' 행보 강화...구광모 대표 \"미래 경쟁력 핵심\"",
@@ -115053,10 +115097,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "cyberattack"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
@@ -115208,10 +115250,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "hack"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "Trump treads further on free speech with new journalist bans",
@@ -115330,10 +115370,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "hacked"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "네오클라우드 엔스케일, 엔비디아 지원으로 뉴욕증시 상장 추진",
@@ -115608,10 +115646,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "프롬프트 인젝션"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "Learning another language may be one of the best ways to keep your brain healthy",
@@ -115987,10 +116023,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "프롬프트 인젝션"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "오픈AI, 앤트로픽 '클로드'에 뚫렸다...핵심 코드 저장소까지 노출",
@@ -116196,10 +116230,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "hacked"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "중고 서적 구매했는데… 1700년 전 '오디세이아' 조각 발견됐다",
@@ -116822,8 +116854,7 @@
     "sec": true,
     "sec_hits": [
       "취약점",
-      "원격 코드 실행",
-      "해커"
+      "원격 코드 실행"
     ]
   },
   {
@@ -117136,10 +117167,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "hack"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "흑자 뒤 가려진 한샘의 고민… B2B '준공 절벽' 그림자",
@@ -117534,10 +117563,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "hacked"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "[금융★들의 궤적]KB손보 구본욱, 보험영업 체력 강화…지속성장 빅픽처",
@@ -118157,8 +118184,7 @@
     "sec": true,
     "sec_hits": [
       "vulnerabilit",
-      "exploit",
-      "hack"
+      "exploit"
     ]
   },
   {
@@ -118328,10 +118354,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "hack"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "벌금 80만원 내라고? ‘치마 입은’ F1 레전드 딸에…팬들은 “10점 만점에 10점”",
@@ -121335,8 +121359,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "취약점",
-      "사이버 공격"
+      "취약점"
     ]
   },
   {
@@ -121804,10 +121827,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "해커"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "상하이-항저우 찍고 남부 선전까지...무신사, 거점 뚫고 'K-패션 수출 고속도로' 깐다",
@@ -122292,8 +122313,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "악성코드",
-      "사이버 공격"
+      "악성코드"
     ]
   },
   {
@@ -122960,10 +122980,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "hackers"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "Bose’s next open earbuds have more bass, more volume, and more battery life",
@@ -123239,10 +123257,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "cyberattack"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
@@ -123774,10 +123790,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "hackers"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "영림원소프트랩, 양돈사료 기업 '나람' 통합 ERP 구축 완료",
@@ -124854,8 +124868,7 @@
     "sec": true,
     "sec_hits": [
       "zero-day",
-      "exploitation",
-      "hacked"
+      "exploitation"
     ]
   },
   {
@@ -126330,10 +126343,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "사이버 공격"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "[IT메가비전 2026] 에이전틱 AI 시대, 검증보다 '행동 통제'가 보안 핵심",
@@ -127942,8 +127953,7 @@
     "sec": true,
     "sec_hits": [
       "data breach",
-      "breach",
-      "hack"
+      "breach"
     ]
   },
   {
@@ -130269,10 +130279,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "hacking"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "현대코퍼레이션, '로봇 부품업체' 로보터스에 81억 투자",
@@ -130493,10 +130501,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "해커"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "macOS 27 is available now",
@@ -130998,10 +131004,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "hack"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "“2분기 연속 흑자” 앤트로픽, 2조달러 IPO 앞두고 수익성 입증",
@@ -134414,9 +134418,7 @@
     "flag_hits": [],
     "sec": true,
     "sec_hits": [
-      "해킹",
-      "해킹 시도",
-      "악성 패키지"
+      "해킹"
     ]
   },
   {
@@ -135101,10 +135103,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "hack"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "The real reason everyone hates the viral AI food slop images",
@@ -135139,10 +135139,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "hacking"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "크렘린궁, 러군 사기 증진 위해 '전사한 대공의 손뼈' 보냈다… 왜?",
@@ -135311,10 +135309,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "해커"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "앤트로픽, 클로드 코드 '플러그인 평가' 공개…플러그인 성능·기여도 검증",
@@ -135885,10 +135881,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "사이버 공격"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "목포, 추석 앞두고 공직기강 점검…직원 400여명 청렴 캠페인",
@@ -136964,10 +136958,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "hacked"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "오픈AI, 'GPT-라이브-1' API 출시...\"실시간 대화 에이전트 구현\"",
@@ -137948,8 +137940,7 @@
     "sec": true,
     "sec_hits": [
       "취약점",
-      "악성코드",
-      "계정 탈취"
+      "악성코드"
     ]
   },
   {
@@ -138991,10 +138982,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "사이버 공격"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "KB금융 차기 회장에 이재근…양종희 연임 불발 '이변'",
@@ -144445,8 +144434,7 @@
     "sec": true,
     "sec_hits": [
       "vulnerabilit",
-      "exploit",
-      "ai-based vulnerab"
+      "exploit"
     ]
   },
   {
@@ -147458,10 +147446,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "security releases"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "Thinking Outside The Box: Digital Design In The AI Era",
@@ -147676,10 +147662,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "security releases"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "Designing With Uncertainty: How AI Supercharges Probabilistic Thinking",
@@ -148044,10 +148028,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "security releases"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "OpenSSL Security Advisory Assessment, January 2026",
@@ -148101,10 +148083,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "security releases"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "Tuesday, July 15, 2025 Security Releases",
@@ -148120,10 +148100,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "security releases"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "Wednesday, May 14, 2025 Security Releases",
@@ -148139,10 +148117,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "security releases"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "Node.js Test CI Security Incident",
@@ -148158,10 +148134,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "node.js test ci security"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "Updates on CVE for End-of-Life Versions",
@@ -148194,10 +148168,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "security releases"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "Upcoming CVE for End-of-Life Node.js Versions",
@@ -148230,10 +148202,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "security releases"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "Wednesday, April 10, 2024 Security Releases",
@@ -148249,10 +148219,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "security releases"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "Wednesday, April 3, 2024 Security Releases",
@@ -148268,10 +148236,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "security releases"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "Wednesday February 14 2024 Security Releases",
@@ -148287,10 +148253,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "security releases"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "OpenSSL Recent Security Patches",
@@ -148325,10 +148289,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "security releases"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "Wednesday August 9th 2023 Security Releases",
@@ -148344,10 +148306,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "security releases"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "Tuesday June 20 2023 Security Releases",
@@ -148363,10 +148323,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "security releases"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "Thursday February 16 2023 Security Releases",
@@ -148382,10 +148340,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "security releases"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "OpenSSL 3.0.7 update assessment",
@@ -148418,10 +148374,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "security releases"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "OpenSSL November Security Release",
@@ -148437,10 +148391,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "security release"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "OpenSSL and zlib update assessment, and Node.js Assessment workflow",
@@ -148473,10 +148425,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "security releases"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "July 7th 2022 Security Releases",
@@ -148492,10 +148442,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "security releases"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "OpenSSL update assessment, and Node.js project plans",
@@ -148545,11 +148493,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "node.js security",
-      "security releases"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "January 10th 2022 Security Releases",
@@ -148565,10 +148510,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "security releases"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "October 12th 2021 Security Releases",
@@ -148584,10 +148527,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "security releases"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "August 31 2021 Security Releases",
@@ -148603,10 +148544,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "security releases"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "August 2021 Security Releases",
@@ -148622,10 +148561,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "security releases"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "July 2021 Security Releases",
@@ -148641,10 +148578,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "security releases"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "July 2021 Security Releases",
@@ -148660,10 +148595,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "security releases"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "April 2021 Security Releases",
@@ -148679,10 +148612,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "security releases"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "February 2021 Security Releases",
@@ -148698,10 +148629,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "security releases"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "January 2021 Security Releases",
@@ -148717,10 +148646,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "security releases"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "November 2020 Security Releases",
@@ -148736,10 +148663,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "security releases"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "September 2020 Security Releases",
@@ -148755,10 +148680,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "security releases"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "June 2020 Security Releases",
@@ -148774,10 +148697,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "security releases"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "OpenSSL security releases do not require Node.js security releases",
@@ -148793,11 +148714,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "node.js security",
-      "security releases"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "February 2020 Security Releases",
@@ -148813,10 +148731,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "security releases"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "December 2019 Security Releases",
@@ -148832,10 +148748,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "security releases"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "OpenSSL security releases do not require Node.js security releases",
@@ -148851,11 +148765,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "node.js security",
-      "security releases"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "OpenSSL security releases may require Node.js security releases",
@@ -148871,11 +148782,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "node.js security",
-      "security releases"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "August 2019 Security Releases",
@@ -148891,10 +148799,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "security releases"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "February 2019 Security Releases",
@@ -148910,10 +148816,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "security releases"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "November 2018 Security Releases",
@@ -148929,10 +148833,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "security releases"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "August 2018 Security Releases",
@@ -148948,10 +148850,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "security releases"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "June 2018 Security Releases",
@@ -148967,10 +148867,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "security releases"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "March 2018 Security Releases",
@@ -148986,10 +148884,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "security releases"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "Meltdown and Spectre - Impact On Node.js",
@@ -149132,10 +149028,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "security releases"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "Security updates for all active release lines, September 2016",
@@ -149242,10 +149136,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "security release"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "OpenSSL upgrade low-severity Node.js security fixes",
@@ -149261,10 +149153,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "node.js security"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "December Security Release Summary",
@@ -149280,10 +149170,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "security release"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "December Security Release Schedule Update",
@@ -149299,10 +149187,8 @@
     ],
     "flag": false,
     "flag_hits": [],
-    "sec": true,
-    "sec_hits": [
-      "security release"
-    ]
+    "sec": false,
+    "sec_hits": []
   },
   {
     "title": "CVE-2015-8027 Denial of Service Vulnerability / CVE-2015-6764 V8 Out-of-bounds Access Vulnerability",
