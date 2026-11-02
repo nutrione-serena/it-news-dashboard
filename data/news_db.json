@@ -1,5 +1,1954 @@
 [
   {
+    "title": "메모리값 폭등, 로봇청소기도 덮쳤다…中 업체들 '비상'",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=677422",
+    "summary": "AI(인공지능) 수요 급증으로 촉발된 메모리 반도체 가격 폭등이 로봇청소기 시장까지 덮쳤다. 중국 에코백스가 메모리 구매단가 급등 여파로 3분기 순이익이 70% 넘게 급감하는 등 '칩플레이션'의 직격탄을 맞았고, 로보락과 드리미 등 경쟁사들도 부품 효율화로 원가 방어에 나섰지만 누적된 원가 부담이 결국 출고가 인상 압력으로 이어질 것이라는 관측이 나온다.삼성전자와 LG전자가 국내 시장에서 점유율을 빠르게 회복하는 가운데 중국 업체들의 원가 부담이 향후 가격·프로모션 경쟁의 핵심 변수로 부상하고 있다. 에코백스 수익성 직격탄…로보락·",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-11-02 10:52",
+    "published_sort": "2026-11-02T10:52:46+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "오픈소스 코드 저장소 관리 플랫폼 기티아, 관리자 계정 탈취 가능한 취약점 주의",
+    "link": "https://www.dailysecu.com/news/articleView.html?idxno=209247",
+    "summary": "오픈소스 코드 저장소 관리 플랫폼 기티아(Gitea)에서 비밀번호 없이 다른 사용자의 계정에 접근할 수 있는 취약점이 공개됐다. 관리자 계정도 탈취 대상이 될 수 있어 외부 로그인 연동 기능을 사용하는 기업의 점검이 필요하다.기티아는 11월 1일 계정 탈취 취약점 CVE-2026-120263을 비롯한 여러 보안 문제를 수정한 28.3.0 버전을 공개하고 신속한 업데이트를 권고했다. Gitea Blog외부 계정 연결 과정에서 사용자 신원 검증 오류CVE-2026-120263은 외부 로그인 방식인 OAuth2의 계정 연결 과정에서 발생",
+    "source": "데일리시큐",
+    "region": "국내",
+    "published": "2026-11-02 10:48",
+    "published_sort": "2026-11-02T10:48:15+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": true,
+    "sec_hits": [
+      "취약점",
+      "cve-2026-120263"
+    ]
+  },
+  {
+    "title": "두나무, 정책 컨퍼런스 '디콘 2026' 연다...韓 디지털자산 전문가 한자리에",
+    "link": "https://www.techm.kr/news/articleView.html?idxno=156764",
+    "summary": "두나무가 디지털자산 산업의 글로벌 경쟁력 확보와 제도화 방향을 모색하기 위한 정책 컨퍼런스를 개최한다. 미국 등 주요국을 중심으로 디지털자산 관련 제도 정비가 속도를 내는 가운데 정치권과 학계, 법조계 전문가들이 모여 국내 산업의 발전 방향과 정책 과제를 논의한다.두나무는 오는 10일 서울 여의도 페어몬트 앰배서더 호텔에서 디지털자산 정책 컨퍼런스 'D-CON 2026(디콘)'을 개최한다고 2일 밝혔다.올해로 4회째를 맞는 디콘은 디지털자산 산업의 지속적인 발전과 건전한 생태계 조성을 위해 두나무가 2023년부터 개최해 온 정책 컨",
+    "source": "테크M",
+    "region": "국내",
+    "published": "2026-11-02 10:43",
+    "published_sort": "2026-11-02T10:43:21+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "법규/정책"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "[주의] 워드프레스 북잇, 인증 없는 SQL 삽입 취약점…2.6.0.7 업데이트 필수",
+    "link": "https://www.dailysecu.com/news/articleView.html?idxno=209246",
+    "summary": "워드프레스 예약관리 플러그인 북잇(BookIt)에서 인증되지 않은 공격자가 데이터베이스 질의를 조작할 수 있는 SQL 삽입 취약점이 공개됐다. 영향받는 버전은 2.6.0.6 이하이며, 운영자는 보안 수정이 적용된 2.6.0.7 이상으로 업데이트해야 한다. OpenCVE북잇은 웹사이트에 예약 양식과 일정 관리 기능을 추가하는 플러그인이다. 운영자가 서비스와 담당자, 영업시간, 가격을 설정하면 방문자가 날짜와 시간을 선택해 예약할 수 있다. 예약 알림 이메일과 결제 연동 기능도 제공한다. WordPress.org인증·사용자 조작 없이",
+    "source": "데일리시큐",
+    "region": "국내",
+    "published": "2026-11-02 10:39",
+    "published_sort": "2026-11-02T10:39:21+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": true,
+    "sec_hits": [
+      "취약점"
+    ]
+  },
+  {
+    "title": "네이버클라우드, 軍 보급체계에 AI 붙인다...육군 군수사령부와 업무협약",
+    "link": "https://www.techm.kr/news/articleView.html?idxno=156759",
+    "summary": "네이버클라우드가 육군 군수사령부와 손잡고 군수 전 영역에 AI를 접목하는 '실전형 AI 군수' 체계를 구축한다.네이버클라우드는 지난달 30일 대전 육군 군수사령부에서 '미래 전장 환경 최적화 및 실전형 AI 군수 역량 강화를 위한 업무협약'을 체결했다고 2일 밝혔다. 육군 군수사령부는 보급·정비·수송 등 육군 군수 전반을 총괄하는 기관이다. 양 기관은 군수 현장에 적용할 수 있는 AI 서비스를 공동 개발하고 이를 실증한다. 필요한 물자를 성능 기반 AI 매칭을 통해 조달하는 군 특화 조달 플랫폼, 무기체계 상태 데이터를 분석해 고장",
+    "source": "테크M",
+    "region": "국내",
+    "published": "2026-11-02 10:36",
+    "published_sort": "2026-11-02T10:36:32+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "시프트업 '승리의 여신: 니케' 흥행 질주...日 구글 매출 1위 달성",
+    "link": "https://www.techm.kr/news/articleView.html?idxno=156758",
+    "summary": "서비스 4주년을 맞아 다양한 이벤트를 펼치고 있는 시프트업의 '승리의 여신: 니케(니케)'가 대규모 업데이트 이후 나날이 높아지는 인기를 과시하며 일본 매출 1위를 달성했다. 2일 게임업계에 따르면 니케는 구글 플레이스토어 게임 최고 매출 순위 국내 3위, 일본 1위, 대만 5위를 각각 기록했다. 게임은 지난달 29일 서비스 4주년 기념 대규모 업데이트 당일 한국·일본 애플 앱스토어 매출 1위를 차지한 데 이어, 구글에서도 절정에 달한 기세를 뽐내고 있다.일본 지역에서 니케가 가진 위상을 보여주는 기록도 다수다. 먼저, 지난달 24",
+    "source": "테크M",
+    "region": "국내",
+    "published": "2026-11-02 10:35",
+    "published_sort": "2026-11-02T10:35:56+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "기타"
+    ],
+    "flag": true,
+    "flag_hits": [
+      "대규모 업데이트"
+    ],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "SK하이닉스, 다운사이클에 배당 삭감 '원천 차단'…투트랙 설계",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=677268",
+    "summary": "SK하이닉스가 올해 3분기 주당 2만원 배당을 결정하면서 반도체 다운사이클(침체기)에 배당을 깎아야 하는 위험을 처음부터 차단하는 구조를 짰다. 본업 실적에 연동한 정기배당과 키옥시아 투자 차익에서 나온 특별배당을 분리해 재원과 환원 수단을 하나씩 짝지은 '투트랙' 설계다.이사회가 결의한 약 20조원(보통주 1492만주) 규모의 자사주 취득에도 소각용과 임직원 보상용을 미리 구분한 '꼬리표'를 붙였다. '투자 차익도 주주 몫'이라는 원칙이 한 번의 선언에 그치지 않고 다음 투자 차익에도 반복 적용될 수 있도록 뒷받침하는 장치가 이",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-11-02 10:33",
+    "published_sort": "2026-11-02T10:33:51+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "신한금융, 베트남 주춤해도 '4대 거점'서 상쇄…현지 IB 통했다",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=677409",
+    "summary": "신한금융그룹의 해외 영업 지도가 확장하는 가운데 글로벌 이익 증가분은 홍콩·런던·뉴욕·싱가포르 등 4개 해외 거점이 견인한 것으로 나타났다. 베트남 사업 이익이 주춤했으나 그룹 최대 계열사인 신한은행의 주요 해외 지점들이 기업금융과 투자은행(IB) 영업을 확대하며 성장을 이끌었다.2일 금융권에 따르면 신한금융의 3분기 누적 해외사업 손익은 6983억원으로 전년 동기(6503억원)보다 479억원(7.4%) 증가했다. 신한은행 머니마켓센터(MMC)로 묶이는 홍콩·런던·뉴욕·싱가포르 4개 지점의 합산 손익은 같은 기간 1187억원에서 1",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-11-02 10:30",
+    "published_sort": "2026-11-02T10:30:56+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "AI 플랫폼 베타9에 CVSS 9.9 취약점 3건…다른 고객 데이터 접근 위험",
+    "link": "https://www.dailysecu.com/news/articleView.html?idxno=209245",
+    "summary": "AI 모델과 서버리스 작업을 실행하는 베타9(Beta9)에서 사용자 격리를 우회해 작업 실행 서버에 접근할 수 있는 치명적인 취약점 3건이 공개됐다. 작업공간 접근 토큰을 가진 공격자가 같은 서버에 저장된 다른 고객의 데이터를 읽거나 변조할 수 있는 문제로, 세 취약점 모두 CVSS 3.1 기준 9.9점으로 평가됐다. 관련 취약점 정보는 11월 1일 공개됐다. 파일 경로 검증 허점…관리자 권한 탈취로 확대 가능CVE-2026-120307은 파일 관리 기능이 접근 가능한 경로를 충분히 제한하지 않아 발생한다. 공격자는 실행 중인 샌드",
+    "source": "데일리시큐",
+    "region": "국내",
+    "published": "2026-11-02 10:29",
+    "published_sort": "2026-11-02T10:29:21+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": true,
+    "sec_hits": [
+      "취약점"
+    ]
+  },
+  {
+    "title": "하나은행, 을지로에 1783㎡ 초대형 미디어파사드…손흥민 영상으로 첫선",
+    "link": "https://www.techm.kr/news/articleView.html?idxno=156762",
+    "summary": "서울 을지로 한복판에 건물 11개 층을 가로지르는 초대형 미디어파사드가 들어선다. 하나은행이 본점 외벽을 활용해 실시간 금융정보와 디지털 예술 콘텐츠를 선보이는 새로운 도심 명소 조성에 나섰다. 금융회사의 본사를 시민들이 일상에서 즐길 수 있는 문화·정보 공간으로 확장하려는 시도다.하나은행은 2일 서울 중구 을지로 본점에 대형 미디어파사드 '하나 캔버스'를 정식 개장한다고 밝혔다. 기존 전광판을 대폭 확대해 명동과 을지로를 잇는 도심 중심부에서 금융정보와 미디어아트를 함께 제공한다는 구상이다.하나 캔버스는 본점 건물 5층부터 15층",
+    "source": "테크M",
+    "region": "국내",
+    "published": "2026-11-02 10:26",
+    "published_sort": "2026-11-02T10:26:07+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "[보안칼럼] 금융권 연쇄 침해사고가 드러낸 API 보안의 사각지대",
+    "link": "https://www.dailysecu.com/news/articleView.html?idxno=209244",
+    "summary": "최근 국내 금융권에서 연이어 발생한 침해사고는 금융회사들이 그동안 구축해 온 보안체계에 대해 다시 한번 생각해 볼 필요가 있음을 보여준다.금융위원회가 지난 10월 14일 발표한 자료에 따르면 은행, 저축은행, 캐피탈사 등 총 16개 금융회사에서 침해사고가 확인되었으며, 정보유출 규모는 약 10만 건에 이르는 것으로 파악되었다. 또한 전체 금융권 555개 회사를 대상으로 실시한 긴급 보안점검에서는 130개 회사가 일부 보안관리 미흡 사항을 보고한 것으로 나타났다. 주요 미흡 사항으로는 보안패치 미적용, 기술지원이 종료된 시스템의 관리",
+    "source": "데일리시큐",
+    "region": "국내",
+    "published": "2026-11-02 10:19",
+    "published_sort": "2026-11-02T10:19:43+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": true,
+    "sec_hits": [
+      "침해사고"
+    ]
+  },
+  {
+    "title": "[SK 인사 줌인]⑥ SK가스 키운 윤병석, SK디스커버리 미래 설계",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=677364",
+    "summary": "윤병석 SK가스 사장이 SK디스커버리 대표이사로 자리를 옮긴다. SK디스커버리 배당수익의 90%를 책임지는 핵심 자회사를 이끌던 경영자가 이제 지주사 전체 성장 방향을 결정하는 자리에 서게 됐다.SK디앤디와 SK이터닉스 지분 매각으로 사업 포트폴리오를 정리한 SK디스커버리는 남은 사업에 자원을 어떻게 배분할지 선택해야 하는 시점이다. SK가스에서 사업과 재무를 두루 경험한 윤 사장이 그 판단을 맡는다. SK가스 7년 이끈 윤병석…사업회사 넘어 지주사로SK그룹은 30일 사장단 인사에서 윤병석 사장을 SK디스커버리 대표이사로 내정했다.",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-11-02 10:18",
+    "published_sort": "2026-11-02T10:18:02+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "LG CNS, 인니 30MW급 AI 데이터센터 완공",
+    "link": "https://www.techm.kr/news/articleView.html?idxno=156755",
+    "summary": "LG CNS가 인도네시아에 AI데이터센터를 구축했다. 그룹사의 전력·냉각·에너지 인프라 역량을 현지 고객 사업에 투입했다. 추후 아시아태평양 지역으로 사업 범위를 확대할 방침이다.LG CNS는 인도네시아 자카르타에 30메가와트(MW)급 하이퍼스케일 AI데이터센터 구축을 완료하고 전체 수용 용량에 해당하는 고객을 확보했다고 2일 밝혔다. 이번 구축 사업은 지난해 인도네시아 시나르마스 그룹, 한국투자리얼에셋운용 양사의 합작법인 KMG가 발주한 것이다. LG CNS는 이번 1단계 구축에서 공기를 순환시켜 내부 온도를 낮추는 공랭식 냉각",
+    "source": "테크M",
+    "region": "국내",
+    "published": "2026-11-02 10:15",
+    "published_sort": "2026-11-02T10:15:00+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "법규/정책",
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "美 FBI, 바이낸스 8조원대 해킹 배후로 北 공식 지목...글로벌 가상자산 보안 비상",
+    "link": "https://www.techm.kr/news/articleView.html?idxno=156760",
+    "summary": "미국 연방수사국(FBI)이 바이낸스에서 발생한 8조원대 규모의 해킹 사건 배후로 북한을 공식 지목했다. 글로벌 블록체인 분석업체들이 북한 연계 해킹 조직의 소행으로 추정한 데 이어 미국 수사당국까지 북한의 책임을 공식화하면서 가상자산 시장을 겨냥한 북한의 사이버 공격 위협이 다시 부각되고 있다.2일 가상자산 업계에 따르면 FBI는 지난달 31일(현지시간) 사이버 보안 경보를 통해 바이낸스에서 발생한 60억달러(약 8조원) 이상의 가상자산 탈취 사건이 북한의 소행이라고 밝혔다.FBI는 이번 공격을 수행한 북한 연계 해킹 조직을 '트레",
+    "source": "테크M",
+    "region": "국내",
+    "published": "2026-11-02 10:14",
+    "published_sort": "2026-11-02T10:14:37+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": true,
+    "sec_hits": [
+      "해킹"
+    ]
+  },
+  {
+    "title": "금호타이어, 광주공장 사망 사고로 생산 일시 중단",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=677410",
+    "summary": "금호타이어가 광주공장에서 발생한 사망사고와 관련해 안전교육과 사업장 안전 점검을 위해 타이어 생산을 일시 중단했다.금호타이어는 광주공장 압연공정 설비 앞에서 쓰러진 채 발견된 1명이 병원으로 응급 이송됐으나 치료 중 사망했다고 2일 공시했다.사고는 지난달 31일 발생했다. 회사는 사고 직후 응급조치와 병원 후송을 진행했다고 밝혔다. 공시에 기재된 중대재해 발생일과 고용노동부 보고일은 모두 이달 1일이다. 부상자는 없다.경찰과 고용노동부는 현장을 확인했다. 금호타이어는 중대재해 재발 방지 대책을 수립할 예정이다. 구체적인 사고 원인과",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-11-02 10:13",
+    "published_sort": "2026-11-02T10:13:30+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "KISCO홀딩스, 1117억원 들여 한국철강 상장폐지 추진",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=677413",
+    "summary": "KISCO홀딩스가 최대 1117억원을 투입해 한국철강의 상장폐지를 추진한다. 공개매수와 포괄적 주식교환을 통해 한국철강을 완전자회사로 편입하고, 지주사와 자회사가 함께 상장된 구조를 해소한다는 계획이다. 철근 수요 변동과 에너지 비용 부담에 대응하기 위한 사업 효율화와 주주환원 확대도 추진한다.2일 금융감독원 전자공시시스템에 올라온 공개매수신고서에 따르면 KISCO홀딩스는 이날부터 23일까지 한국철강 보통주 859만2668주를 주당 1만3000원에 공개매수한다. 발행주식 총수의 23.57%로, 기존 보유 지분과 한국철강의 자기주식을",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-11-02 10:13",
+    "published_sort": "2026-11-02T10:13:17+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "LG CNS, 인니 AI데이터센터 완공…임차 수요도 다 채웠다",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=677408",
+    "summary": "LG CNS가 인도네시아 자카르타에 30MW급 인공지능(AI)데이터센터를 완공했다. 국내 기업이 해외 고객사의 AI데이터센터를 현지에 직접 구축한 첫 사례라는 게 회사 측 설명이다. 지난해 수주한 1000억원대 사업이 실제 완공으로 이어지면서 해외 AI 인프라 시장에서 첫 대형 구축 실적을 확보했다.준공 전 전체 수용 용량의 임차 고객 확보도 마쳤다. LG CNS는 이번 사업을 통해 현지 민간 AI 인프라 시장에서 구축 실적과 고객 기반을 동시에 확보했다. 이를 발판으로 인도네시아 후속 사업과 아시아태평양 시장 진출을 확대할 계획이",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-11-02 10:02",
+    "published_sort": "2026-11-02T10:02:15+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "[인사] 블로터",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=677417",
+    "summary": "◇ 신규 보임*이상균 자본시장부 부장*심두보 IB부 부장",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-11-02 10:00",
+    "published_sort": "2026-11-02T10:00:11+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "[인사] 블로터",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=677416",
+    "summary": "◇ 신규 보임*이상균 자본시장부 부장*심두보 IB부 부장",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-11-02 09:59",
+    "published_sort": "2026-11-02T09:59:35+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "SKT 이어 KT도 3G 종료 수순...KT \"신규·번호이동·기기변경 중단\"",
+    "link": "https://www.techm.kr/news/articleView.html?idxno=156756",
+    "summary": "SK텔레콤에 이어 KT도 3세대(3G) 이동통신 종료 수순에 들어갔다.2일 KT는 3G ▲신규가입 ▲번호이동 ▲기기변경을 중단한다고 밝혔다.3G ▲신규가입 ▲번호이동 ▲기기변경 중단은 2003년 3G 상용화 이후 23년 만이다. 과학기술정보통신부에 따르면 지난 8월 기준 KT의 3G 휴대폰 가입자는 5만6801명이다. 전체 휴대폰 가입자의 0.004%에 불과하다.SK텔레콤은 KT보다 앞선 지난 8월 3G ▲신규가입 ▲번호이동 ▲기기변경을 차단했다. SK텔레콤 3G 휴대폰 가입자는 지난 8월 기준 6만7147명이다. LG유플러스는 3",
+    "source": "테크M",
+    "region": "국내",
+    "published": "2026-11-02 09:58",
+    "published_sort": "2026-11-02T09:58:48+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "[크립토 브리핑] 비트코인 7만7000달러대 갇혔다…바이낸스 8조원대 해킹 충격에 '공포' 확산",
+    "link": "https://www.techm.kr/news/articleView.html?idxno=156757",
+    "summary": "비트코인이 세계 최대 가상자산 거래소 바이낸스의 초대형 해킹 사고 여파에서 벗어나지 못하고 있다. 바이낸스가 약 8조4000억원에 달하는 피해액 가운데 95%를 자체 자금 등으로 보전하고 출금 서비스를 재개했지만 투자심리는 좀처럼 회복되지 않는 모습이다. 미국 중간선거와 고용지표 발표를 앞둔 불확실성까지 겹치면서 비트코인은 나흘째 8만달러 아래에서 거래되고 있다.2일 오전 8시10분 기준 국내 가상자산 거래소 빗썸에서 비트코인은 24시간 전보다 0.11% 하락한 1억441만원에 거래됐다. 같은 시간 글로벌 가상자산 시황 사이트 코인",
+    "source": "테크M",
+    "region": "국내",
+    "published": "2026-11-02 09:54",
+    "published_sort": "2026-11-02T09:54:04+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": true,
+    "sec_hits": [
+      "해킹"
+    ]
+  },
+  {
+    "title": "스마트폰 시장, 칩플레이션 '직격탄'...3분기, 전년비 20%↓",
+    "link": "https://www.techm.kr/news/articleView.html?idxno=156754",
+    "summary": "세계 스마트폰 시장이 칩플레이션 파고에 휩쓸렸다. 지난 3분기 스마트폰 출하량은 지난해 같은 기간에 비해 20% 급감했다. 그래도 삼성전자는 세계 스마트폰 선두를 유지했다.2일 시장조사기관 옴디아에 따르면 지난 3분기 세계 스마트폰 시장 규모는 2억5470만대다. 전년동기대비 20% 하락했다. 2013년 이후 3분기 기준 최저치다.시장 축소는 스마트폰 가격 상승이 원인이다. 메모리반도체 가격 인상 등이 요인이다. 제조사는 원가 부담을 판가에 전가했다.앰버 리우 옴디아 총괄책임자는 \"올해 글로벌 스마트폰 출하량은 전년대비 12% 못",
+    "source": "테크M",
+    "region": "국내",
+    "published": "2026-11-02 09:43",
+    "published_sort": "2026-11-02T09:43:31+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "구자균 LS일렉트릭 회장 \"AI 전력난 해법은 지능형 DC 배전\"",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=677414",
+    "summary": "구자균 LS일렉트릭 회장이 AI(인공지능) 시대 전력난을 해결할 열쇠로 DC(직류)를 지목했다. 기존 AC(교류) 중심의 전력 공급 체계에 직류 기술을 결합하고 AI를 활용해 전력망 운영 효율을 높이겠다는 구상이다. LS일렉트릭은 관련 기술을 앞세워 북미 데이터센터 등 글로벌 배전 시장 공략을 확대할 계획이다. \"AI 위한 전력망, AI가 관리하는 전력망으로 진화\"구 회장은 2일 서울 JW 메리어트 동대문 스퀘어에서 열리는 '2026 CIRED(국제배전협의회) 워크숍' 기조연설에서 차세대 지능형 DC 전력망 비전을 발표할 예정이다.",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-11-02 09:26",
+    "published_sort": "2026-11-02T09:26:02+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "법규/정책",
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "G마켓, 고객 개인정보 유출 정황 공식 인정…“피해 금액 전액 선제 보상”",
+    "link": "https://www.dailysecu.com/news/articleView.html?idxno=209243",
+    "summary": "국내 대형 온라인 쇼핑몰 G마켓이 일부 고객의 개인정보 유출 정황을 공식 확인하고 피해 고객에 대한 금전적 보상을 완료했다고 밝혔다. 정확한 개인정보 유출 규모와 사고 원인은 아직 조사 중이다.G마켓은 11월 1일 공식 홈페이지에 ‘개인정보 유출 관련 고객분들께 사과 및 안내 말씀드립니다’라는 제목의 공지를 게시하고, 최근 자사 서비스에서 일부 고객의 개인정보가 유출된 정황을 확인했다고 밝혔다.개인정보 유출 정황 확인…피해 고객에 전액 보상G마켓에 따르면 회사는 사고를 인지한 즉시 관련 시스템에 대한 긴급 보안 점검을 실시하고, 취",
+    "source": "데일리시큐",
+    "region": "국내",
+    "published": "2026-11-02 09:01",
+    "published_sort": "2026-11-02T09:01:27+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": true,
+    "sec_hits": [
+      "정보 유출",
+      "개인정보 유출"
+    ]
+  },
+  {
+    "title": "[AI리더의 서가] 문제 해결을 위한 AI 에이전트 설계",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216785",
+    "summary": "문제 해결을 위한 AI 에이전트 설계이선협 | 한빛미디어2026년 10월 30일추천이유이 책은 AI 에이전트가 정말 필요한지부터 시작해 문제를 분석하고 LLM과 코드의 역할을 나누는 설계 능력을 갖추도록 합니다. 저자는 프레임워크 없이 직접 구현한 다섯 가지 실제 예제를 통해 어떤 상황에서도 적용할 수 있는 오래가는 설계 감각을 전달합니다.상세보기 \"회사에서 AI 에이전트를 도입하자는데, 개발팀은 어디서부터 공부해야 하나요?\" 영풍문고 IT 매대 앞에서 이런 질문을 받는다면, 영풍문고 북마스터는 이번 주 한빛미디어가 오는 30일 펴",
+    "source": "AI타임스",
+    "region": "국내",
+    "published": "2026-11-02 09:00",
+    "published_sort": "2026-11-02T09:00:00+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "[인사] 삼양그룹",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=677411",
+    "summary": "■ 삼양홀딩스▷ 김지섭 Staff그룹장(재경실장 겸)■ 삼양사▷ 정지석 식품그룹장(식품유통BU장 겸)▷ 양철호 식품BU(Business Unit)장 ■ 삼양사▷ 김준형 AM(Advanced Materials) BU 영업PU(Performance Unit)장▷ 안해정 Specialty사업PU장■ 삼양바이오팜▷ 김태헌 생산PU장▷ 윤혜성 의약바이오연구소 Fellow■ 삼양패키징▷ 김광남 아셉틱생산PU장■ 삼양데이타시스템▷ 이진석 대외사업총괄",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-11-02 08:51",
+    "published_sort": "2026-11-02T08:51:22+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "[데스크시각] 매력자본과 K뷰티",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=677374",
+    "summary": "외모는 자본이다. 인정하고 싶지 않은 사람도 있겠지만 현실이 그렇다. 자본주의가 고도화될수록 자본으로 환산되는 것들은 늘어난다. 돈과 부동산만이 아니라 외모와 유명세, SNS 팔로어 수까지 기회와 소득으로 바뀐다. 과거에는 어느 회사, 어떤 조직에 속했는지가 개인의 경쟁력을 보여주는 중요한 지표였다면 이제는 개인이 얼마나 매력적인 존재인가도 경제적 가치를 결정하는 시대다.영국의 사회학자 캐서린 하킴은 이를 '매력자본'이라는 개념으로 설명했다. 외모와 스타일, 말투와 태도, 사람을 끌어당기는 능력까지 개인이 가진 매력이 경제자본, 문",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-11-02 08:00",
+    "published_sort": "2026-11-02T08:00:00+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "[정보보안 연재소설-로그아웃되지 않는 밤] 제61화 '로그아웃되지 않는 밤'",
+    "link": "https://www.dailysecu.com/news/articleView.html?idxno=209229",
+    "summary": "데일리시큐는 7월부터 장삼봉 작가(필명)의 정보보안 소설《로그아웃되지 않는 밤》을 매주 4편씩 연재한다. 화려한 디지털 서비스 뒤에서 보이지 않는 위협과 맞서는 보안 담당자들의 현실과 고뇌, 성장을 생생하게 담았다. 수많은 오탐 속에 숨은 단 하나의 진짜 공격을 추적하는 이들의 잠들지 못하는 밤이 시작된다. -마지막 한 경로-“지금 막는 길들, 다 곁가지예요!” 세아가 외쳤다. 사람들이 일제히 그녀를 봤다. “저쪽이 진짜 쓰는 길은 따로 있어요. 자회사 결제 연동 경로요. 그게 권한 구조상 제일 깊은 데까지 이어져 있어요. 거기부터",
+    "source": "데일리시큐",
+    "region": "국내",
+    "published": "2026-11-02 08:00",
+    "published_sort": "2026-11-02T08:00:00+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "[이혁중 CISO 칼럼] AI 보안? 새로운 보안이 아닌 기존 보안의 확장",
+    "link": "https://www.dailysecu.com/news/articleView.html?idxno=209228",
+    "summary": "최근 보안 업계에서 ‘AI 보안’이라는 말이 빠르게 확산되고 있다. 그러나 방화벽, 계정 관리, 침해사고 대응, 제로 트러스트에 익숙한 기존 정보보호 조직과 CISO에게 AI Guardrail, AI Governance, Prompt Injection, AI DLP, AI Observability 같은 용어들은 여전히 낯설고 혼란스럽다. 언뜻 보기에는 보안 벤더들이 만들어낸 새로운 마케팅 용어처럼 보이기도 한다.하지만 AI 보안은 일시적 유행이 아니다. 생성형 AI는 이미 임직원의 업무 도구, 고객 상담 채널, 소프트웨어 개발 환경",
+    "source": "데일리시큐",
+    "region": "국내",
+    "published": "2026-11-02 08:00",
+    "published_sort": "2026-11-02T08:00:00+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": true,
+    "sec_hits": [
+      "침해사고"
+    ]
+  },
+  {
+    "title": "[단독] 오픈워터인베, AC 자회사 흡수합병 검토…VC·AC 라이선스 일원화",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=677205",
+    "summary": "오픈워터인베스트먼트가 100% 자회사인 액셀러레이터(AC) 오픈워터엔젤스와 흡수합병을 검토하고 있다. 동일한 인력이 양 법인을 겸직하는 운영 비효율을 해소하고, 벤처투자회사와 창업기획자 라이선스를 한 법인으로 일원화하려는 목적이다. 올해 블라인드펀드 3개를 확보해 초기부터 상장 전 단계까지 전주기에 이르는 투자 재원을 갖춘 만큼 단일 법인 체제로 본격적인 투자 확대에 나선다는 구상이다.30일 벤처캐피탈(VC) 업계에 따르면 오픈워터인베스트먼트는 자사를 존속법인, 오픈워터엔젤스를 소멸법인으로 하는 합병안을 검토하고 있다. 2019년",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-11-02 07:30",
+    "published_sort": "2026-11-02T07:30:00+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "법규/정책"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "[길 잃은 의무공개매수] 공청회 패싱에 기습 합의…‘100→50%’ 후퇴 막전막후",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=677221",
+    "summary": "외환위기 직후 폐지됐던 의무공개매수제도가 28년 만에 국회 문턱을 넘으려 하고 있다. 기업 결합 과정에서 지배주주가 독점하던 경영권 프리미엄을 일반 소액주주와 나누고 '코리아 디스카운트'를 해소하겠다는 취지다. 하지만 국회 정무위원회가 내놓은 대안은 당초 약속했던 '100% 전량 매수'에서 한참 멀어졌다. 공론화 없이 '50%+선행매수 허용'으로 후퇴하며 지배주주에게만 특혜를 준 탓이다. 본지는 여야 합의의 전말과 법리적 모순, 'M&A 위축론'의 허구를 짚어본다. 국회 정무위원회 국정감사가 22일 종료되면서 의무공개매수제도를 담은",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-11-02 07:00",
+    "published_sort": "2026-11-02T07:00:00+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "법규/정책"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "[박종면칼럼] SK하이닉스가 쓴 주주환원의 ‘신기원’",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=677406",
+    "summary": "지난달 28일 SK하이닉스의 3분기 실적 발표 콘퍼런스콜에서 첫 마이크를 잡은 것은 평소처럼 재무부문장(CFO)가 아니라 곽노정 사장이었습니다. 2022년 대표이사 취임 이후 처음이고, 하이닉스 대표가 컨콜에 나선 것은 2020년 3분기 이석희 전 대표 이후 6년 만입니다. 곽 사장은 솔리다임 상장 철회 배경을 직접 설명했고, 질의응답이 끝난 뒤 다시 나와 “사업의 성장과 투자 성과가 쌓일수록 주주 여러분과 나누는 결실도 함께 커져야 한다”고 했습니다. 지난 분기 컨콜에서 ‘검토 중’, ‘결정된 바 없음’이라는 답만 되풀이해 주주들",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-11-02 06:00",
+    "published_sort": "2026-11-02T06:00:00+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "림스연구소 해킹 확인, 회원 개인정보·검사 이용정보 유출 우려",
+    "link": "https://www.dailysecu.com/news/articleView.html?idxno=209242",
+    "summary": "성격검사와 직업심리검사, 조직·팀 진단 및 관련 교육프로그램을 제공하는 림스연구소(LCSI)가 홈페이지 해킹에 따른 개인정보 유출 가능성을 안내했다. 실제 정보 반출 흔적은 확인되지 않았으며, 피해 범위는 조사 중이다.연구소는 지난 10월 25일 공지를 통해 지난 23일 홈페이지의 불법 침입을 확인하고 즉시 차단했다고 밝혔다. 조사 결과 10월 21일부터 23일 사이 홈페이지 보안 취약점을 통해 회원정보 데이터베이스에 외부에서 접근할 수 있었던 것으로 파악됐다.유출 가능 항목은 개인 회원의 아이디, 암호화된 비밀번호, 이름, 연락처",
+    "source": "데일리시큐",
+    "region": "국내",
+    "published": "2026-11-02 02:05",
+    "published_sort": "2026-11-02T02:05:06+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "법규/정책"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": true,
+    "sec_hits": [
+      "취약점",
+      "보안 취약",
+      "해킹"
+    ]
+  },
+  {
+    "title": "하이타이 해킹으로 16만3,743명 개인정보 유출, 피해 고객에 2만원 할인쿠폰 보상",
+    "link": "https://www.dailysecu.com/news/articleView.html?idxno=209241",
+    "summary": "마사지 예약·할인 서비스 하이타이에서 지난 9월 해킹으로 이용자 16만3,743명의 개인정보가 유출됐다. 이에 운영사 앱튜브는 10월 23일 후속 공지를 통해 피해 고객에게 총 2만원 상당의 서비스 할인쿠폰을 제공하겠다고 밝혔다.앱튜브의 9월 10일 안내문에 따르면 사고는 9월 3일 오후 2시경 발생했으며, 회사는 9월 7일 오후 5시경 유출 사실을 인지했다. 공격자는 하위 버전 앱 사용자를 지원하기 위해 유지하던 응용프로그램 인터페이스(API)의 보안 취약점을 악용해 개인정보를 비인가 조회한 것으로 확인됐다.유출 정보는 닉네임,",
+    "source": "데일리시큐",
+    "region": "국내",
+    "published": "2026-11-02 01:57",
+    "published_sort": "2026-11-02T01:57:58+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "UI/UX"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": true,
+    "sec_hits": [
+      "취약점",
+      "보안 취약",
+      "해킹"
+    ]
+  },
+  {
+    "title": "티앤에스엔지니어링, 더존비즈온 해킹으로 개인정보 유출 가능성 공지",
+    "link": "https://www.dailysecu.com/news/articleView.html?idxno=209240",
+    "summary": "반도체 장비 유지보수 기업 티앤에스엔지니어링이 더존비즈온의 APO 백업서버 침해사고와 관련해 거래처 관계자의 개인정보가 유출됐을 가능성이 있다고 안내했다.회사는 전사적자원관리(ERP) 시스템 데이터 백업을 위해 더존비즈온 APO 백업서비스를 이용해 왔으며, 지난 10월 28일 백업서버의 외부 불법 접근과 개인정보 유출 가능성을 통보받았다고 밝혔다.유출 가능성이 있는 항목은 거래처 관계자의 성명, 전화번호, 이메일 주소, 사업자등록번호, 주민등록번호, 계좌번호다. 현재까지 실제 개인정보 유출은 확인되지 않았다. 회사는 백업데이터 전체",
+    "source": "데일리시큐",
+    "region": "국내",
+    "published": "2026-11-02 01:32",
+    "published_sort": "2026-11-02T01:32:52+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "법규/정책",
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": true,
+    "sec_hits": [
+      "해킹",
+      "침해사고",
+      "정보 유출"
+    ]
+  },
+  {
+    "title": "한국킨볼협회, 더존비즈온 해킹 관련 전·현직 직원 개인정보 유출 가능성 공지",
+    "link": "https://www.dailysecu.com/news/articleView.html?idxno=209239",
+    "summary": "한국킨볼협회가 이용 중인 더존비즈온 서비스의 해킹 사고와 관련해 전·현직 직원의 개인정보가 유출됐을 가능성이 있다고 안내했다.협회는 더존비즈온 발표를 인용해 신원불상자의 시스템 무단 침입으로 스마트A10(Smart A 10)과 백업서버에 보관된 데이터 일부가 조회되거나 외부로 반출된 정황이 확인됐다고 밝혔다.유출 가능성이 있는 항목은 성명, 연락처, 이메일, 주소와 암호화된 주민등록번호·계좌정보다. 실제 유출 여부와 정확한 대상자는 조사 중이다.협회는 이번 안내가 전·현직 직원에게만 해당한다고 명시했다. 협회를 사칭해 금전이나 비밀",
+    "source": "데일리시큐",
+    "region": "국내",
+    "published": "2026-11-02 01:26",
+    "published_sort": "2026-11-02T01:26:13+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": true,
+    "sec_hits": [
+      "해킹",
+      "정보 유출",
+      "개인정보 유출"
+    ]
+  },
+  {
+    "title": "중부발전서비스도 더존비즈온 해킹 영향…임직원 개인정보 유출 가능성",
+    "link": "https://www.dailysecu.com/news/articleView.html?idxno=209238",
+    "summary": "중부발전서비스가 더존비즈온의 APO 백업서버 침해사고와 관련해 임직원들에게 개인정보 유출 가능성을 안내했다. 회사는 자사도 영향 가능 대상에 포함돼 관련 조사가 진행되고 있으며, 현재까지 실제 개인정보 유출은 확인되지 않았다고 밝혔다.중부발전서비스는 10월 30일 오전 홈페이지에 ‘더존 측 보안사고 관련 임직원 안내사항’을 게시했다.회사에 따르면 사용 중인 전사적자원관리(ERP) 시스템 관리업체인 더존의 APO 백업서버에서 개인정보 유출 가능성이 확인됐다. 중부발전서비스는 해당 백업데이터에 대한 접근 여부와 개인정보 포함 여부, 구",
+    "source": "데일리시큐",
+    "region": "국내",
+    "published": "2026-11-02 01:19",
+    "published_sort": "2026-11-02T01:19:58+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": true,
+    "sec_hits": [
+      "해킹",
+      "침해사고",
+      "정보 유출"
+    ]
+  },
+  {
+    "title": "더존비즈온 해킹 여파, 에스티유니타스도 개인정보 유출 우려…주민번호·계좌정보 포함",
+    "link": "https://www.dailysecu.com/news/articleView.html?idxno=209237",
+    "summary": "온라인 강의와 오프라인 학원을 통해 공무원·자격시험, 어학교육 등의 서비스를 제공하는 에스티유니타스가 더존비즈온의 백업서버 해킹 사고와 관련해 거래 상대방의 개인정보가 유출됐을 가능성이 있다고 밝혔다.회사는 10월 31일 공식 공지를 통해 회계시스템의 외부 백업을 맡긴 더존비즈온으로부터 백업서버에 외부 침입 흔적이 발견됐다는 통보를 받았다고 안내했다. 유출 가능성이 있는 정보는 회계자료에 포함된 거래 상대방의 성명, 계좌번호, 주민등록번호다.해당 자료는 암호화된 상태였으며, 암호화 키가 유출된 정황은 발견되지 않았다고 설명했다. 에",
+    "source": "데일리시큐",
+    "region": "국내",
+    "published": "2026-11-02 01:14",
+    "published_sort": "2026-11-02T01:14:59+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": true,
+    "sec_hits": [
+      "해킹",
+      "정보 유출",
+      "개인정보 유출"
+    ]
+  },
+  {
+    "title": "한국재무설계협회도 더존비즈온 해킹 영향…개인정보 유출 가능성 공지",
+    "link": "https://www.dailysecu.com/news/articleView.html?idxno=209236",
+    "summary": "한국재무설계협회가 더존비즈온 백업서비스 해킹과 관련해 개인정보 유출 가능성을 공식 안내했다. 협회는 백업서버에 저장된 데이터가 암호화돼 있었으며, 현재까지 실제 개인정보 유출은 확정되지 않았다고 밝혔다.협회는 10월 30일 홈페이지에 ‘개인정보 유출등의 가능성 안내’를 게시했다. 공지에 따르면 협회는 전자결재 등에 이용하는 서비스 제공업체인 더존비즈온으로부터 백업서비스 관련 서버에 외부의 불법적인 접근이 발생했고, 저장된 개인정보가 유출됐을 가능성을 시사하는 정황이 확인됐다는 통보를 받았다.협회가 관련 사실을 통보받은 시점은 10월",
+    "source": "데일리시큐",
+    "region": "국내",
+    "published": "2026-11-02 01:02",
+    "published_sort": "2026-11-02T01:02:58+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "법규/정책"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": true,
+    "sec_hits": [
+      "해킹",
+      "정보 유출",
+      "개인정보 유출"
+    ]
+  },
+  {
+    "title": "발렉스서비스, 더존비즈온 해킹 여파…거래처 개인정보 유출 가능성 공지",
+    "link": "https://www.dailysecu.com/news/articleView.html?idxno=209235",
+    "summary": "발렉스서비스가 더존비즈온의 ‘APO 백업서비스’ 침해사고와 관련해 거래처 관계자 등의 개인정보가 유출됐을 가능성이 있다고 공지했다. 회사는 실제 개인정보 유출은 확인되지 않았으며, 더존비즈온에 자사 백업 데이터의 반출 여부와 피해 범위 확인을 요구했다고 밝혔다.발렉스서비스는 생산업무 도급과 인재 채용·파견, 시설관리, 보안·방재, 전문미화 등의 서비스를 제공하는 아웃소싱 전문기업이다. 기업의 생산현장 운영과 인력 관리, 건물·시설 유지관리 등을 지원한다. 발렉스 서비스거래처 관계자 정보 유출 가능성…백업데이터는 암호화발렉스서비스 공",
+    "source": "데일리시큐",
+    "region": "국내",
+    "published": "2026-11-02 00:56",
+    "published_sort": "2026-11-02T00:56:09+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": true,
+    "sec_hits": [
+      "해킹",
+      "침해사고",
+      "정보 유출"
+    ]
+  },
+  {
+    "title": "LG유플러스, 교육부·티오리와 손잡고 AI 시대 사이버보안 인재 육성",
+    "link": "https://www.dailysecu.com/news/articleView.html?idxno=209234",
+    "summary": "LG유플러스가 교육부, 사이버보안 전문기업 티오리한국과 협력해 인공지능(AI) 시대를 이끌 청소년 정보보안 인재 육성에 나선다. 통신·AI·보안 분야의 전문성과 교육 인프라를 결합해 이론 중심 교육을 넘어 실습과 현장 경험을 강화한다는 계획이다.LG유플러스는 지난 10월 31일 서울 강서구 LG사이언스파크에서 교육부, 티오리한국과 'AI·정보보호 영재교육원 운영 지원을 위한 업무협약'을 체결했다고 밝혔다.협약식에는 홍관희 LG유플러스 정보보안센터장(CISO/CPO·전무), 김도완 교육부 인공지능인재지원국장, 천호진 티오리한국 GTM",
+    "source": "데일리시큐",
+    "region": "국내",
+    "published": "2026-11-02 00:29",
+    "published_sort": "2026-11-02T00:29:04+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "[책소개] 매일 밤 10시 30분, 가족에게 찾아온 기적…1,000일의 특별한 여정",
+    "link": "https://www.dailysecu.com/news/articleView.html?idxno=209231",
+    "summary": "미국 이민생활 중 가족이 함께 성경을 읽으며 경험한 변화와 신앙의 여정을 담은 구은주 작가의 신간이 태인문화사에서 출간됐다.이 책은 낯선 미국 땅에서 13년간 생활한 저자가 사춘기 자녀들과 함께 1,000일 넘게 성경을 읽으며 경험한 가족의 회복과 하나님의 은혜를 진솔하게 기록한 신앙 에세이다.저자 가족은 매일 밤 10시 30분 식탁에 모여 성경을 읽기 시작했다. 처음에는 대화를 거부하고 방문을 닫아걸던 자녀들이 점차 마음을 열고 자신의 이야기를 나누기 시작했다. 신앙이 없던 남편도 성경 통독에 적극적으로 참여하면서 가족의 신앙생활",
+    "source": "데일리시큐",
+    "region": "국내",
+    "published": "2026-11-01 23:19",
+    "published_sort": "2026-11-01T23:19:22+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "[신간] 반도체 기술 리더 김성진 박사, 성공과 믿음의 여정 담은 《구름 뒤에도 태양은 빛나고 있다》 출간",
+    "link": "https://www.dailysecu.com/news/articleView.html?idxno=209230",
+    "summary": "글로벌 반도체 산업 현장에서 기술 혁신과 경영을 이끌어 온 김성진 박사가 자신의 삶과 신앙, 가족과 리더십에 대한 성찰을 담은 신간 《구름 뒤에도 태양은 빛나고 있다》를 출간했다.지난 10월 26일 테라코타에서 출간된 이 책은 젊은 엔지니어에서 글로벌 기업의 최고기술책임자(CTO)와 경영자로 성장한 저자가 성공의 이면에서 마주한 삶의 균열과 신앙을 통한 변화를 진솔하게 기록한 에세이다.책의 부제는 ‘붙잡는 삶에서 맡기는 삶으로, 믿음이 이끈 변화의 여정’이다. 자신의 능력으로 모든 것을 통제하려 했던 한 사람이 하나님을 향한 믿음",
+    "source": "데일리시큐",
+    "region": "국내",
+    "published": "2026-11-01 23:04",
+    "published_sort": "2026-11-01T23:04:26+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "[e스포츠人] T1 8강 이끈 '도란' \"동료들과 나눈 픽 이야기, 경기서 완벽히 통했다\"",
+    "link": "https://www.techm.kr/news/articleView.html?idxno=156753",
+    "summary": "T1의 탑라이너 '도란' 최현준이 무결점 활약을 펼치며 팀의 6년 연속 월드 챔피언십(롤드컵) 8강 진출을 견인했습니다.단판 승부를 넘어 3전 2선승제로 치러진 스위스 스테이지 4라운드에서 '도란'은 두세트 내내 단 한 번의 데스도 기록하지 않는 완벽한 경기력을 선보였습니다. 1세트에서는 위기의 순간마다 암베사로 상대 진영을 붕괴시키는 클러치 능력을 뽐냈고, 2세트에서도 탄탄한 라인전과 한타 집중력으로 팀의 2대0 완승에 앞장섰습니다.경기를 마친 뒤 만난 '도란'은 팀원들과의 정교한 챔피언 조합 소통, 그리고 승부처였던 마지막 대규",
+    "source": "테크M",
+    "region": "국내",
+    "published": "2026-11-01 22:21",
+    "published_sort": "2026-11-01T22:21:25+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+    "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+    "summary": "Data centers are deeply unpopular. But what if we called them something else?",
+    "source": "TechCrunch",
+    "region": "해외",
+    "published": "2026-11-01 21:55",
+    "published_sort": "2026-11-01T21:55:23+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "[롤드컵 브리핑] 젠지는 라이언, T1은 KC...'복수혈전' DK는 BLG와 정면 승부",
+    "link": "https://www.techm.kr/news/articleView.html?idxno=156751",
+    "summary": "2026 리그 오브 레전드 월드 챔피언십(롤드컵)이 스위스 스테이지의 치열한 생존 경쟁을 끝내고 마침내 미국 텍사스주 앨런에서 펼쳐질 8강 토너먼트 대진표를 완성했습니다. 한화생명e스포츠가 아쉽게 5라운드에서 탈락의 고배를 마셨지만, 젠지와 디플러스 기아(DK), T1으로 이어지는 LCK 3룡이 나란히 8강 무대에 안착해 우승 트로피 탈환을 향한 진검승부에 나섭니다.LCK 팀들의 8강 여정은 오는 5일 젠지와 북미의 라이언의 맞대결로 포문을 엽니다. 객관적인 전력과 체급 면에서 젠지의 압도적인 우세가 점쳐지는 대진입니다. 젠지는 이",
+    "source": "테크M",
+    "region": "국내",
+    "published": "2026-11-01 21:39",
+    "published_sort": "2026-11-01T21:39:40+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "Flock keeps ignoring requests to cancel its contracts",
+    "link": "https://www.theverge.com/tech/1024232/flock-ignoring-cancel-contracts",
+    "summary": "While more cities are canceling their contracts with Flock Safety, just as many are discovering how difficult that can be in some instances. Plymouth, Minnesota's city council voted to terminate its contract with Flock in September, but failed to respond to the city's request. For over a month, the ",
+    "source": "The Verge",
+    "region": "해외",
+    "published": "2026-11-01 16:27",
+    "published_sort": "2026-11-01T21:27:52+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "법규/정책",
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "[롤드컵 브리핑] T1 완승으로 8강 진출 성공...한화생명은 마지막 문턱 못 넘었다",
+    "link": "https://www.techm.kr/news/articleView.html?idxno=156749",
+    "summary": "2026 리그 오브 레전드 월드 챔피언십(롤드컵) 스위스 스테이지에서 한국 리그오브레전드 챔피언스 코리아(LCK) 팀들의 희비가 극명하게 갈렸습니다.디펜딩 챔피언 T1이 압도적인 교전 능력을 뽐내며 8강 토너먼트 진출을 확정한 반면, 벼랑 끝에서 기사회생을 노렸던 한화생명e스포츠(한화생명)는 유럽의 강호 G2를 잡고 불씨를 살렸으나 중국 LPL의 강호 빌리빌리 게이밍(BLG)에 덜미를 잡히며 대회를 마감했습니다.'도란' 무결점 맹활약...T1, MKOI 완파하고 6년 연속 8강행T1이 탑라이너 '도란' 최현준의 폭발적인 클러치 능력",
+    "source": "테크M",
+    "region": "국내",
+    "published": "2026-11-01 21:12",
+    "published_sort": "2026-11-01T21:12:09+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "NASA hopes the commercial space industry can help save Hubble",
+    "link": "https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble",
+    "summary": "Gravity is a cruel mistress, slowly dragging the famed telescope ever closer to its ultimate demise with every day. Hubble is in no immediate danger of burning up in the Earth's atmosphere, but its time will run out in the early to mid 2030s unless its orbit is boosted. So NASA is taking proposals f",
+    "source": "The Verge",
+    "region": "해외",
+    "published": "2026-11-01 16:09",
+    "published_sort": "2026-11-01T21:09:21+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+    "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+    "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+    "source": "TechCrunch",
+    "region": "해외",
+    "published": "2026-11-01 20:57",
+    "published_sort": "2026-11-01T20:57:58+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "AI/신기술",
+      "UI/UX"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "딥시크, 코딩 '슈퍼 에이전트' 공개…6개월 만에 추격 기반 구축",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216865",
+    "summary": "딥시크가 여러 코딩 작업을 자동으로 관리하는 '슈퍼 에이전트'를 공개하며 앤트로픽의 '클로드 코드'와 오픈AI의 '코덱스' 추격에 나섰다. 지난 5월 전담팀 구성 이후 약 6개월 만에 자체 개발 도구와 팀 단위 업무 자동화 기술까지 선보였지만, 아직 연구용 프로토타입으로 실제 제품 경쟁력은 검증되지 않았다.딥시크 하네스 개발팀은 31일(현지시간) 공식 위챗 계정을 통해 '슈퍼 에이전트 설계 탐구: 더 자율적인 에이전트 시스템을 향해'라는 기술 문서를 발표했다. 이와 함께 새로운 구조를 구현한 'DSH 슈퍼에이전트(dsh-supera",
+    "source": "AI타임스",
+    "region": "국내",
+    "published": "2026-11-01 20:11",
+    "published_sort": "2026-11-01T20:11:03+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
+    "link": "https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/",
+    "summary": "The FBI has confirmed that North Korean state-sponsored hackers known as TraderTraitor were behind the $6.3 billion crypto-theft attack on Binance, making it the largest cryptocurrency heist on record. [...]",
+    "source": "BleepingComputer",
+    "region": "해외",
+    "published": "2026-11-01 14:57",
+    "published_sort": "2026-11-01T19:57:53+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "법규/정책",
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "약국 플랫폼 바로팜, 기업가치 2000억 평가…내달 코스닥 입성",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=677351",
+    "summary": "약국 통합 플랫폼 기업 바로팜이 기관투자자 수요예측을 거쳐 최종 공모가를 1만6400원으로 확정했다고 1일 밝혔다. 바로팜은 약 2000억원 규모의 기업가치로 코스닥 시장에 진출한다.2019년 현직 약사인 김슬기 대표가 약국 현장의 비효율을 해소하기 위해 설립한 바로팜은 국내 최초 의약품 주문통합 솔루션을 시작으로 결제·반품·개국 지원·AI 의약품 식별까지 아우르는 약국 필수 인프라로 자리 잡았다.현재 전국 약국의 약 90%인 24787곳이 가입했으며, 누적 통합주문연결액(TGMV) 7.2조원, 재주문율 86%의 압도적인 네트워크를",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-11-01 18:00",
+    "published_sort": "2026-11-01T18:00:00+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "AI로 문제 풀고 성과 공유…AX J커브 넘는 SKT 비결은 [현장+]",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=677402",
+    "summary": "\"일찍 일어나는 새가 벌레를 잡는다\" 부지런한 사람이 기회를 먼저 잡고 좋은 결과를 얻는다는 의미의 격언이다. 일찍 일어나는 새처럼 SK텔레콤(SKT) 임직원들은 매주 수요일 아침 인공지능(AI) 관련 문제를 풀면서 서로의 노하우를 공유하는 등 전사 인공지능 전환(AX)에 속도를 내고 있다. 몇 시간 걸릴 심사·보고서도 '뚝딱'…AI 에이전트 미션 해보니지난달 30일 서울에서 약 1시간 30분을 달려 경기도 이천에 위치한 SKT 인재개발원에 도착했다. 이날 현장에선 국내 미디어를 대상으로 'SKT AX Camp'가 열려 사내 프로그",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-11-01 17:54",
+    "published_sort": "2026-11-01T17:54:55+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "Apple’s HomeView could add security camera features",
+    "link": "https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features",
+    "summary": "Reddit user pdfu found hints hidden in the HomeView 27.2 code that Apple could be adding security camera features to its smart home hub. The strings describe a security camera mode with motion detection, live streaming, and recording options, as well as privacy functions. According to pdfu, there is",
+    "source": "The Verge",
+    "region": "해외",
+    "published": "2026-11-01 12:16",
+    "published_sort": "2026-11-01T17:16:07+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "TechCrunch Mobility: A new, bigger AV boom is here",
+    "link": "https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/",
+    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+    "source": "TechCrunch",
+    "region": "해외",
+    "published": "2026-11-01 17:04",
+    "published_sort": "2026-11-01T17:04:00+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "핀란드, 구글  데이터센터 환경 훼손 의혹 수사…나무 40만그루 벌채 논란",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216864",
+    "summary": "핀란드 경찰이 구글의 AI 데이터센터 건설 과정에서 환경영향평가를 마치기 전에 대규모 산림을 벌채한 의혹에 대해 형사 수사에 착수했다. 구글이 핀란드에 150억달러(약 21조원)를 투자하겠다고 발표한 지 두 달도 지나지 않아 대규모 산림 훼손과 전력 소비를 둘러싼 논란이 커지고 있다.로이터와 가디언 등은 29일(현지시간) 핀란드 경찰이 북부 무호스(Muhos)에 건설 중인 구글 데이터센터 부지에서 환경법 위반 혐의를 조사하기 시작했다고 보도했다. 수사 대상은 구글의 현지 자회사 투이케 핀란드(Tuike Finland)로, 경찰은 환",
+    "source": "AI타임스",
+    "region": "국내",
+    "published": "2026-11-01 17:01",
+    "published_sort": "2026-11-01T17:01:03+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "법규/정책",
+      "AI/신기술",
+      "UI/UX"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "기아 '1조8000억 영업익' 뜯어보니…'관세' 걷어내자 달라진 숫자",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=677379",
+    "summary": "기아가 올해 3분기 1조8000억원이 넘는 영업이익을 거두며 전년 동기 대비 20% 넘게 성장했다. 다만 이면을 들여다보면 이익 증가의 상당 부분은 미국 자동차 관세 부담이 줄어든 데 따른 효과였다. 관세 효과를 걷어내면 영업이익은 오히려 지난해보다 줄었다.차량 판매량과 시장 점유율은 빠르게 늘고 있지만 원자재 가격 상승과 전기차(EV) 판매 확대를 위한 인센티브 부담도 함께 커지고 있다. 차를 더 많이 팔고도 수익성을 끌어올리기 어려운 구조가 이번 실적에서 선명하게 드러났다는 평가다. 영업익 3560억 늘었는데 관세 효과만 533",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-11-01 17:00",
+    "published_sort": "2026-11-01T17:00:00+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "FBI, 바이낸스 64억 달러 해킹 배후로 북한 공식 지목…체이널리시스 “올해 가상자산 해킹 피해 89% 북한 연계”",
+    "link": "https://www.dailysecu.com/news/articleView.html?idxno=209227",
+    "summary": "세계 최대 가상자산 거래소 바이낸스(Binance)에서 발생한 약 64억 달러 규모의 해킹 사건과 관련해 미국 연방수사국(FBI)이 북한을 공격 배후로 공식 지목했다. 블록체인 분석기업 체이널리시스(Chainalysis)는 올해 발생한 전체 가상자산 해킹 피해액의 약 89%가 북한 연계 공격으로 추정된다고 밝혔다. 이번 사건에서는 과거 북한 해킹 사건의 탈취 자금과 연결된 정황뿐 아니라 수천 개의 지갑을 이용한 대규모 자금세탁 활동도 확인됐다.FBI는 10월 31일(현지시간) 바이낸스에서 발생한 60억 달러 이상의 가상자산 탈취 사",
+    "source": "데일리시큐",
+    "region": "국내",
+    "published": "2026-11-01 16:54",
+    "published_sort": "2026-11-01T16:54:47+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": true,
+    "sec_hits": [
+      "해킹"
+    ]
+  },
+  {
+    "title": "HomePod Mini 2 first look: Three things I love and one disappointment",
+    "link": "https://www.theverge.com/tech/1024108/homepod-mini-2-hands-on-siri-smart-home-mac-speaker",
+    "summary": "When I first heard about the new $149 HomePod Mini 2 at Apple's Welcome Home event last month, I was disappointed. It's been six years since Apple launched its entry-level smart speaker, and all it got in the second gen was a chip bump, some color glowy stuff, and better AirPlay? For $50 more than [",
+    "source": "The Verge",
+    "region": "해외",
+    "published": "2026-11-01 11:52",
+    "published_sort": "2026-11-01T16:52:22+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "한화엔진, 외부 서버 비인가 접근으로 개인정보 1,903건 유출 가능성…임직원·협력업체 정보 영향 우려",
+    "link": "https://www.dailysecu.com/news/articleView.html?idxno=209226",
+    "summary": "선박용 엔진 제조기업 한화엔진의 임직원과 협력업체 관계자 개인정보 1,903건이 외부 비인가 접근으로 유출됐을 가능성이 제기됐다.최근 온라인에 공유된 개인정보 유출 안내 내용에 따르면, 한화시스템ICT가 관리하는 서버에서 외부 비인가 IP의 접근 정황이 확인됐으며, 이 과정에서 한화엔진 임직원과 협력업체 관계자의 개인정보가 영향을 받았을 가능성이 있는 것으로 나타났다.임직원·협력업체 정보 1,903건 영향 가능성해당 자료에 기재된 개인정보 항목은 이름, 휴대전화번호, 회사 이메일 주소, 부서, 직위, 사번 등 6개다.사고 인지 시점",
+    "source": "데일리시큐",
+    "region": "국내",
+    "published": "2026-11-01 16:47",
+    "published_sort": "2026-11-01T16:47:13+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": true,
+    "sec_hits": [
+      "정보 유출",
+      "개인정보 유출"
+    ]
+  },
+  {
+    "title": "이재용 삼성전자 회장, 日 반도체 패키징 R&D 거점 점검",
+    "link": "https://www.techm.kr/news/articleView.html?idxno=156748",
+    "summary": "이재용 삼성전자 회장이 반도체 패키징 연구개발(R&D) 상황을 점검했다. 삼성은 사내 인공지능(AI) 전환(AX)도 속도를 높이고 있다.1일 삼성전자는 이재용 삼성전자 회장이 일본 요코하마 '어드밴스드 패키징 랩(APL)'을 찾았다고 밝혔다.APL은 지난 9월 개소했다. 패키징 연구 거점이다. 삼성전자는 2024년부터 400억엔(약 3500억원)을 투입해 일본 R&D를 강화 중이다.APL은 반도체 패키지에 필요한 소재와 공정 등 요소 기술을 개발과 검증하는 조직이다. 삼성전자 반도체 설계/제조 역량과 일본 소재/부품/장비(소부장)",
+    "source": "테크M",
+    "region": "국내",
+    "published": "2026-11-01 16:40",
+    "published_sort": "2026-11-01T16:40:10+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "Prop 45 in California could be hiding a loophole for data centers",
+    "link": "https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy",
+    "summary": "A high-stakes California ballot measure pitched as a fast track for \"essential\" infrastructure could wind up giving data center developers a loophole to evade public scrutiny, environmental advocates warn. Proposition 45 would shorten timelines for state-mandated environmental assessments for eligib",
+    "source": "The Verge",
+    "region": "해외",
+    "published": "2026-11-01 11:31",
+    "published_sort": "2026-11-01T16:31:49+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "해외송금 핀테크 모인 해킹, 고객 신분증·주민등록번호·계좌정보 등 개인정보 유출",
+    "link": "https://www.dailysecu.com/news/articleView.html?idxno=209225",
+    "summary": "해외송금 서비스를 제공하는 핀테크 기업 모인(㈜모인)이 외부 해킹 공격으로 고객들의 신분증 사본과 주민등록번호, 금융계좌 정보 등이 포함된 개인정보 유출 사고를 당했다. 유출된 자료에는 고객 본인뿐 아니라 가족과 기업 주주, 거래상대방의 개인정보까지 포함될 수 있어 2차 피해 우려가 제기된다.모인은 10월 30일 공식 홈페이지에 ‘개인정보 유출 사고 안내 및 사과드립니다’라는 공지를 게시하고, 10월 29일 오후 3시경 외부의 불법적인 접근으로 고객들이 제출한 증빙서류 파일의 개인정보가 유출된 사실을 확인했다고 밝혔다.신분증 사본부",
+    "source": "데일리시큐",
+    "region": "국내",
+    "published": "2026-11-01 16:28",
+    "published_sort": "2026-11-01T16:28:43+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "법규/정책"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": true,
+    "sec_hits": [
+      "해킹",
+      "정보 유출",
+      "개인정보 유출"
+    ]
+  },
+  {
+    "title": "구글, '제미나이 노트북'에 무료 교재 수백 권 추가...AI 학습 기능 확대",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216863",
+    "summary": "구글이 AI 학습 도구 ‘제미나이 노트북(Gemini Notebook)’에 미국과 인도 지역 사용자를 대상으로 주요 출판사의 무료 교재 수백 권을 추가했다. 학생들은 별도로 교재를 찾아 업로드하지 않고도 주요 출판사의 학습 자료를 활용해 시험 준비를 할 수 있게 됐다.구글은 29일(현지시간) X를 통해 오픈스택스(OpenStax), 오픈 텍스트북 라이브러리(Open Textbook Library), S 챈드 퍼블리싱(S Chand Publishing) 등이 발행한 수백 권의 교재를 노트북 서비스에 무상으로 제공한다고 밝혔다.국내 등",
+    "source": "AI타임스",
+    "region": "국내",
+    "published": "2026-11-01 16:26",
+    "published_sort": "2026-11-01T16:26:45+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "큐로셀, 림카토 2차 치료제 적응증 확대…내년 상반기 3상 진입 목표",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=677401",
+    "summary": "최근 큐로셀이 CD19 CAR-T 치료제 '림카토(안발캅타진오토류셀)'의 재발성 또는 불응성 성인 거대 B세포 림프종 2차 치료 적응증 확대를 위한 임상 3상 시험계획(IND) 변경승인 신청서를 식품의약품안전처에 제출했다. 회사는 이번 신청이 림카토가 3차 이상 치료에 머무르지 않고 조기 치료 단계로 확대하기 위한 중요한 첫걸음이라고 강조했다. 큐로셀이 신속한 승인 절차를 거쳐 내년 상반기 임상 3상에 진입할 수 있을지 주목된다.1일 큐로셀에 따르면 림카토는 4월29일 식약처로부터 첨단재생바이오법에 따른 정식 제조판매 품목허가를 획",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-11-01 16:24",
+    "published_sort": "2026-11-01T16:24:37+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "법규/정책"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "케이옥션 개인정보 유출 가능성 공지…더존 서비스 해지 6개월 지나도 데이터 남아",
+    "link": "https://www.dailysecu.com/news/articleView.html?idxno=209224",
+    "summary": "국내 미술품 경매회사 케이옥션(K-Auction)이 더존비즈온의 백업서버 침해사고로 임직원과 거래 관계자의 개인정보가 유출됐을 가능성이 있다고 공식 공지했다. 특히 케이옥션은 지난 5월 더존비즈온의 클라우드 서비스 이용을 종료했지만, 관련 데이터가 백업서버에 계속 보관돼 있었던 것으로 확인됐다.케이옥션은 10월 31일 오후 5시 30분 홈페이지에 ‘개인정보 유출 가능성 안내’를 게시하고, 더존비즈온의 백업서버에 보관된 자사 데이터가 외부의 불법적인 접근에 노출됐을 가능성이 있다고 밝혔다.회사는 지난 5월 1일 더존비즈온의 클라우드",
+    "source": "데일리시큐",
+    "region": "국내",
+    "published": "2026-11-01 16:23",
+    "published_sort": "2026-11-01T16:23:37+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "법규/정책",
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": true,
+    "sec_hits": [
+      "침해사고",
+      "정보 유출",
+      "개인정보 유출"
+    ]
+  },
+  {
+    "title": "A fully playable version of Portal prequel F-Stop leaked",
+    "link": "https://www.theverge.com/games/1024206/playable-portal-prequel-f-stop-leak",
+    "summary": "Leakers have pieced together a playable version of the canceled Portal prequel F-Stop. Most of the assets came from the massive 12-terabyte leak that dropped this August. That didn't include the game's source code or map data, but those final pieces apparently hit the Valve Cut Content Discord this ",
+    "source": "The Verge",
+    "region": "해외",
+    "published": "2026-11-01 11:22",
+    "published_sort": "2026-11-01T16:22:40+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "Binance resumes withdrawals following $6.3 billion breach",
+    "link": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/",
+    "summary": "The cryptocurrency exchange said it's now covered 95% of the stolen assets.",
+    "source": "TechCrunch",
+    "region": "해외",
+    "published": "2026-11-01 16:20",
+    "published_sort": "2026-11-01T16:20:10+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "법규/정책",
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": true,
+    "sec_hits": [
+      "breach"
+    ]
+  },
+  {
+    "title": "오픈AI, 투자 유치 300억달러에서 200억달러로 축소...기업가치도 하향",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216856",
+    "summary": "오픈AI가 최근 기술주 하락과 AI 투자 열기 둔화 속에 신규 투자 유치 목표를 기존 300억달러(약 40조원)에서 200억달러(약 26조원)로 낮췄다. 목표 기업가치도 1조4000억달러(약 1866조원)에서 1조2500억달러(약 1666조원)로 하향 조정했다. 일부 투자자가 출자 규모를 줄이고 투자에 신중한 태도를 보이면서 당초 계획했던 자금 조달에 어려움을 겪는 모습이다.파이낸셜타임스(FT)는 31일(현지시간) 복수의 소식통을 인용, 오픈AI가 신규 투자 라운드의 목표액을 100억달러 줄인 200억달러로 조정했다고 보도했다. 이",
+    "source": "AI타임스",
+    "region": "국내",
+    "published": "2026-11-01 16:05",
+    "published_sort": "2026-11-01T16:05:32+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "[타봤다] 넉넉한 공간에 편안한 승차감...미국식 대형 SUV의 정석 'GMC 아카디아'",
+    "link": "https://www.techm.kr/news/articleView.html?idxno=156747",
+    "summary": "GMC 아카디아 드날리 얼티밋은 미국식 대형 SUV의 매력을 넉넉한 공간과 여유로운 주행 성능으로 보여주는 모델이다. 여러 명이 함께 이동하는 패밀리카의 역할에 충실하면서도 터보 엔진의 힘과 편안한 승차감을 갖췄다. 장거리 여행은 물론 일상 주행까지 한 대로 해결하려는 운전자에게 눈길이 가는 구성이다.직접 타본 아카디아는 넓은 실내와 부드러운 승차감이 인상적이었다. 큰 차체를 여유롭게 이끄는 가속력과 함께 국내 운전자에게 익숙한 티맵 오토로 편의성도 높였다. 다만 좁은 골목과 주차장에서는 차체 크기에 적응할 시간이 필요했다.성인도",
+    "source": "테크M",
+    "region": "국내",
+    "published": "2026-11-01 16:02",
+    "published_sort": "2026-11-01T16:02:52+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "롯데손보 인수 앞둔 신한EZ손보…신한금융, 손상검사 착수",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=677388",
+    "summary": "신한금융지주가 신한EZ손해보험에 대한 투자주식 손상검사에 나선다. 롯데손해보험 인수를 결정하고 신한EZ손보와의 통합을 추진하는 가운데 기존 손해보험 자회사의 재무 상태와 향후 사업 방향에도 관심이 쏠린다. 신한EZ손보가 적자를 이어온 만큼 롯데손보와의 결합을 계기로 손실 구조를 얼마나 개선할 수 있을지가 과제로 남는다.1일 보험 업계에 따르면 신한금융은 최근 '종속기업 투자주식 신한EZ손해보험 손상검사 용역' 입찰을 공고했다. 평가기준일은 9월30일이다. 용역 기간은 다음달 계약 체결일부터 내년 3월 말까지다.이번 용역은 경제적·계",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-11-01 16:00",
+    "published_sort": "2026-11-01T16:00:00+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "MIT, AI 모델끼리 글 없이 소통하는 ‘스웜 텔레파시’ 개발",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216860",
+    "summary": "MIT 연구진이 AI 모델끼리 텍스트를 주고받지 않고 내부 계산 정보를 직접 전달하는 기술을 개발했다. 서로 다른 기업이 만든 AI 모델 사이에서도 작동하며, 기존 텍스트 기반 소통보다 평균 정확도를 40% 높이고 처리 속도를 4배 단축했다. 연구진은 이 기술에 ‘스웜 텔레파시(SwaT·Swarm Telepathy)’라는 이름을 붙였다.MIT 컴퓨터과학·AI연구소(CSAIL)와 MIT-IBM 컴퓨팅 연구소 연구진은 최근 온라인 아카이브에 ‘스웜 텔레파시: 모델 계열 간 프리필 없는 KV 캐시 전송(Swarm Telepathy: Pr",
+    "source": "AI타임스",
+    "region": "국내",
+    "published": "2026-11-01 15:58",
+    "published_sort": "2026-11-01T15:58:06+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "메타, 중국 푸리에와 휴머노이드 로봇 개발...가정용 시장 진출 추진",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216857",
+    "summary": "메타가 중국 로봇 스타트업 푸리에(Fourier)와 협력해 휴머노이드 로봇 시제품을 개발하고 2세대 모델 제작에 착수했다. 가사와 일상 업무를 돕는 가정용 로봇 시장 진출을 염두에 둔 움직임이다. 자체 AI 에이전트와 로봇 기술을 결합해 AI를 디지털 환경에서 물리적 세계로 확장하려는 전략으로 보인다.디 인포메이션은 31일(현지시간) 복수의 소식통을 인용, 메타가 푸리에와 함께 휴머노이드 로봇 시제품 '맥스(Max)'를 개발했다고 보도했다.48kg 무게의 이 로봇은 양사가 불과 3개월 만에 제작했으며, 메타는 이미 후속 모델인 '맥",
+    "source": "AI타임스",
+    "region": "국내",
+    "published": "2026-11-01 15:48",
+    "published_sort": "2026-11-01T15:48:51+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "마라톤·축제에도 거침없이 안내하는 티맵...실시간 통제정보 반영해 우회 경로 달린다",
+    "link": "https://www.techm.kr/news/articleView.html?idxno=156746",
+    "summary": "운전자 A씨는 휴일 오전 서울 시내를 주행을 앞두고 걱정이 이만저만이 아니었다. 매주 도심에서 펼쳐지는 마라톤 대회로 인해 도로 곳곳이 통제되기 때문. 하지만 A씨는 도심 곳곳에서 도로 통제가 이어지는 상황에서 티맵의 실시간 길안내를 통해 목적지까지 편리하게 이동할 수 있었다. 티맵이 실제 통제 상황을 반영해 우회 경로를 안내하고 통제구간 앞에서 되돌아가거나 길을 헤매는 일 없도록 목적지까지 안전하게 이동할 수 있도록 지원하기 때문이다. 티맵모빌리티가 마라톤이나 축제 등 대규모 행사로 도로 곳곳이 통제되는 상황에서도 실시간 통제정보",
+    "source": "테크M",
+    "region": "국내",
+    "published": "2026-11-01 15:16",
+    "published_sort": "2026-11-01T15:16:33+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "Alpine Linux rebuilds GitLab after attempted RCE attack",
+    "link": "https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/",
+    "summary": "Hackers attempted to exploit a critical GitLab vulnerability in Alpine Linux's development infrastructure on October 20-21, prompting the open-source project to rebuild its GitLab server and reset all passwords over concerns of a possible compromise. [...]",
+    "source": "BleepingComputer",
+    "region": "해외",
+    "published": "2026-11-01 10:11",
+    "published_sort": "2026-11-01T15:11:21+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "UI/UX"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": true,
+    "sec_hits": [
+      "vulnerabilit",
+      "rce",
+      "exploit"
+    ]
+  },
+  {
+    "title": "에스팀, 中 패션 판로 개척…아티스트 IP·인큐베이팅 확장",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=677393",
+    "summary": "패션 콘텐츠 기업 에스팀이 디지털 솔루션 기업 아이엠폼(IMFORM)과 업무협약을 맺고 중국 시장 진출을 본격화한다. 회사는 아티스트 지식재산권(IP)과 자체 투자 브랜드를 아이엠폼의 중국 디지털 플랫폼 인프라와 결합해 수익 구조 다변화에 나선다.​1일 업계에 따르면 에스팀은 올해 상반기 기준 327명의 아티스트를 보유하고 있으며, 전체 아티스트 매출의 61%를 신인(루키·익스포져급)이 견인하고 있다. 회사는 2024년 기준 국내 모델 매니지먼트 시장 점유율 54%를 기록했다.아이엠폼은 에스팀의 신진 아티스트와 댄서, 인플루언서들의",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-11-01 15:00",
+    "published_sort": "2026-11-01T15:00:00+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "Pixel 11 Pro Fold: Sturdy rectangle in a wide wide world",
+    "link": "https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world/",
+    "summary": "Google made a sturdy phone, but there is increasing competition in the foldable world.",
+    "source": "TechCrunch",
+    "region": "해외",
+    "published": "2026-11-01 15:00",
+    "published_sort": "2026-11-01T15:00:00+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "When colors pass but palettes fail",
+    "link": "https://uxdesign.cc/when-colors-pass-but-palettes-fail-55b7210f8e4d?source=rss----138adf9c44c---4",
+    "summary": "The accessibility challenge of generative AI diverging color palettes. Continue reading on UX Collective »",
+    "source": "UX Collective",
+    "region": "해외",
+    "published": "2026-11-01 14:34",
+    "published_sort": "2026-11-01T14:34:07+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "AI/신기술",
+      "UI/UX"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "How to design transparent AI cost controls",
+    "link": "https://uxdesign.cc/how-to-design-transparent-ai-cost-controls-a44fd52b9104?source=rss----138adf9c44c---4",
+    "summary": "",
+    "source": "UX Collective",
+    "region": "해외",
+    "published": "2026-11-01 14:33",
+    "published_sort": "2026-11-01T14:33:14+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "AI/신기술",
+      "UI/UX"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "North Korea linked to massive Binance crypto heist",
+    "link": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist",
+    "summary": "The FBI says North Korea was behind the massive $6.3 billion crypto heist that hit Binance on October 29th. The FBI labeled the activity \"TraderTraitor\" and said that it had observed actors it has connected to hack converting the tokens to Ethereum and preparing for further laundering of the funds. ",
+    "source": "The Verge",
+    "region": "해외",
+    "published": "2026-11-01 09:33",
+    "published_sort": "2026-11-01T14:33:11+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "법규/정책",
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "Context is the new interface",
+    "link": "https://uxdesign.cc/context-is-the-new-interface-c16b7f6e77be?source=rss----138adf9c44c---4",
+    "summary": "",
+    "source": "UX Collective",
+    "region": "해외",
+    "published": "2026-11-01 14:32",
+    "published_sort": "2026-11-01T14:32:56+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "UI/UX"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "Your design system was never about components",
+    "link": "https://uxdesign.cc/your-design-system-was-never-the-components-9605130c3038?source=rss----138adf9c44c---4",
+    "summary": "Google, Atlassian and Figma now ship a file for the reasons behind a design. Nothing makes the machine follow it. Continue reading on UX Collective »",
+    "source": "UX Collective",
+    "region": "해외",
+    "published": "2026-11-01 14:32",
+    "published_sort": "2026-11-01T14:32:36+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "UI/UX"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "Samia Halaby and the Amiga 1000",
+    "link": "https://uxdesign.cc/samia-halaby-and-the-amiga-1000-8aae181666b9?source=rss----138adf9c44c---4",
+    "summary": "The unique features of the Motorola 68000 that facilitated an enchanting Golden Age for pixel art Continue reading on UX Collective »",
+    "source": "UX Collective",
+    "region": "해외",
+    "published": "2026-11-01 14:32",
+    "published_sort": "2026-11-01T14:32:15+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "UI/UX"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "자배원, 경상환자 장기치료 심사체계 가동…피해자 보호도 강화",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=677330",
+    "summary": "자동차손해배상진흥원이 자동차사고 경상환자의 8주 초과 장기치료 검토제도 시행에 맞춰 의료심사 전문성을 높이고 피해자 권익보호 체계를 정비하고 있다. 전문의료인을 대상으로 검토·심의 기준과 업무절차를 공유하는 한편 제도 관련 민원에 대응할 지원센터를 운영하고 외국인 자동차사고 피해자를 위한 상담창구도 마련했다. 장기치료 검토제도의 안정적인 정착과 함께 자동차사고 피해구제 기능을 확대하려는 움직임이다.1일 보험업계에 따르면 자배원은 지난달부터 자동차사고 경상환자의 8주 초과 추가치료 필요성과 적정 치료기간에 대한 검토업무를 시작했다.",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-11-01 14:30",
+    "published_sort": "2026-11-01T14:30:00+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "[위클리 IT템] 창작부터 코딩까지...프로의 작업을 돕는 신제품 3선",
+    "link": "https://www.techm.kr/news/articleView.html?idxno=156745",
+    "summary": "전문적인 작업에 쓰는 디지털 제품은 각 분야의 구체적인 요구에서 출발한다. 처리 성능은 물론, 작업 과정을 줄여주는 조작 방식과 현장에서의 기동성도 중요한 선택 기준이다.이번 주에는 전문가의 작업 환경을 겨냥한 신제품 세 가지를 살펴봤다. 터치와 탠덤 유기발광다이오드(OLED) 디스플레이를 도입한 애플 '맥북 프로', 촬영과 후반 작업의 유연성을 높인 소니 'FX5', 개발자 문화를 디자인에 담은 로지텍 'MX 마스터 4 디벨로퍼 에디션'이다.화면을 직접 만지며 작업한다...애플 '맥북 프로'애플이 지난 28일 공개한 새 맥북 프로",
+    "source": "테크M",
+    "region": "국내",
+    "published": "2026-11-01 14:20",
+    "published_sort": "2026-11-01T14:20:58+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "UI/UX"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "통신사, AX 레퍼런스·생태계 확보 '총력'",
+    "link": "https://www.techm.kr/news/articleView.html?idxno=156744",
+    "summary": "통신사가 사내 인공지능(AI) 전환(AI) 속도를 높이고 있다. 사내 AX는 기업(B2B) 사업 확장을 위한 전제 조건이다. 레퍼런스(참조) 1순위다. B2B 경쟁력을 확보하기 위한 기술과 인프라 확보에도 공을 들이고 있다.1일 SK텔레콤 KT LG유플러스는 AX 사업 확대를 위한 준비를 강화했다.SK텔레콤은 'AX 혁신 2.0'에 돌입했다. AX 혁신 2.0은 SK텔레콤 AX 전략이다. 업무 과정과 협업 방식을 AI 중심으로 재설계한다. 조직 생산성을 높이기 위해서다.SK텔레콤은 임직원이 AI 에이전트를 직접 제작하는 등 AI 친",
+    "source": "테크M",
+    "region": "국내",
+    "published": "2026-11-01 14:18",
+    "published_sort": "2026-11-01T14:18:30+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "SKT·KT·LG유플러스, 재난 대응·지원 확대",
+    "link": "https://www.techm.kr/news/articleView.html?idxno=156743",
+    "summary": "SK텔레콤 KT LG유플러스가 '만일'과 '만약'에 대한 준비 태세를 강화했다.1일 SK텔레콤 KT LG유플러스는 재난 대응과 지원을 확대했다고 밝혔다.SK텔레콤은 경북 안동시 산불 피해 복원에 인공지능(AI)을 이용한다. 10월29일 ▲유한킴벌리 ▲사단법인 평화의숲 ▲스타트업 인베랩과 '안동 평화의 숲 조성 사업 세미나'를 개최했다.SK텔레콤과 유한킴벌리는 평화의슢과 지난 3월부터 산불 피해지 4.4헥타르(ha)에 벚나무/헛개나무/피나무/고로쇠나무/때죽나무 등 총 1만그루를 심었다. 인베랩과는 AI 기반 공간 분석 기술과 드론을",
+    "source": "테크M",
+    "region": "국내",
+    "published": "2026-11-01 14:18",
+    "published_sort": "2026-11-01T14:18:18+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "법규/정책",
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "ICT업계, AI 인재 양성 '국가·세대·신체' 장벽 허문다",
+    "link": "https://www.techm.kr/news/articleView.html?idxno=156742",
+    "summary": "정보통신기술(ICT) 업계가 인공지능(AI) 시대 인재 양성에 힘을 쏟고 있다. ▲국가 ▲세대 ▲신체 장벽도 허물었다.1일 ICT 업계는 미래 경쟁력 확보를 위해 인재 육성에 공을 들이고 있다.삼성은 지난 10월25일 하반기 삼성직무적성검사(GSAT)를 진행했다. 삼성전자 등 19개 계열사가 참가했다. GSAT는 삼성 신입사원 공개채용 절차 중 하나다.삼성은 국내 4대 그룹 중 유일하게 정기 신입 공채를 유지하고 있다. 청년에게 예측 가능한 취업 기회를 제공하기 위해서다. 삼성은 향후 5년 동안 6만명을 새로 고용할 계획이다. 우수",
+    "source": "테크M",
+    "region": "국내",
+    "published": "2026-11-01 14:18",
+    "published_sort": "2026-11-01T14:18:13+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "IPARK현대산업개발, 자원순환·환경교육으로 ESG 실천",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=677356",
+    "summary": "IPARK현대산업개발이 자원순환과 생명 존중, 미래세대 환경교육을 중심으로 임직원 참여형 사회공헌 활동을 확대하고 있다. 폐전자제품 기부와 유기동물 보호소 봉사, 초등학교 내 친환경 공간 조성 등을 통해 환경 보호와 지역사회 나눔을 실천하고 있다.1일 IPARK현대산업개발에 따르면 회사는 전문기관 및 지역사회 기관과 협력해 임직원이 직접 참여하는 사회공헌 활동을 추진하고 있다. 폐전자제품 회수·재활용 체계를 구축하고, 학생들이 자연을 접하며 환경의 중요성을 배울 수 있는 교육공간을 조성하는 방식이다.IPARK현대산업개발 사회공헌 관",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-11-01 14:00",
+    "published_sort": "2026-11-01T14:00:00+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "Here’s what ‘renoa’ — the first new fiber in 25 years — feels like",
+    "link": "https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like/",
+    "summary": "Startup Everbloom's new material, renoa, is the first new fiber in 25 years, and it feels very familiar.",
+    "source": "TechCrunch",
+    "region": "해외",
+    "published": "2026-11-01 14:00",
+    "published_sort": "2026-11-01T14:00:00+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "OpenAI says it's doubling Pro usage limits and bringing Work features to Chat",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat/",
+    "summary": "OpenAI has just confirmed that it's rolling out ChatGPT Work capabilities directly into regular Chat, while also combining usage allowances across ChatGPT and Codex. [...]",
+    "source": "BleepingComputer",
+    "region": "해외",
+    "published": "2026-11-01 08:53",
+    "published_sort": "2026-11-01T13:53:11+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": true,
+    "flag_hits": [
+      "rolling out"
+    ],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "[제약사 리포트] 휴젤, 톡신은 효율화·필러는 증설…성과 확보 시험대",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=677400",
+    "summary": "휴젤이 매출 성장세가 엇갈리는 보툴리눔톡신·필러 사업에서 서로 다른 방식으로 생산시설에 투자하고 있다. 보툴리눔톡신은 기존 공장의 생산공간을 확보하고 품질관리 체계를 정비하는 반면 필러는 매출 증가세가 둔화된 가운데 생산능력을 확대한다. 올해 상반기 건설중인자산 취득액은 1년 전의 4.7배로 늘었다. 실제 설비투자에 지출한 현금도 증가했다. 자금 여력이 충분한 상황이지만 필러 공장의 투자효과는 향후 판매량이 얼마나 늘어나는지에 달려 있다. 시설투자 급증, 사업별 전략 차이1일 금융감독원 전자공시시스템에 따르면 휴젤의 올해 상반기 연",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-11-01 13:28",
+    "published_sort": "2026-11-01T13:28:12+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "LG화학, 엔솔 지분 유동화에도 순차입금 26조...신용도 개선 제한적",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=677376",
+    "summary": "LG화학이 LG에너지솔루션 지분 2조5000억원을 추가로 유동화해 재무구조 개선에 나섰지만 순차입금은 여전히 26조원에 육박할 것으로 전망된다. 지분 매각대금의 일부를 주주환원에 활용하면서 실제 순차입금 감소액은 약 1조6000억원에 그칠 것이라는 분석이다. 주가수익스왑(PRS) 계약에 따른 향후 정산 부담도 남아 있어 신용도 개선 효과는 제한적이라는 평가가 나왔다. LG화학, LG엔솔 지분 2차 PRS 계약...2.5조 확보 한국기업평가는 지난달 29일 발표한 보고서에서 LG화학의 LG에너지솔루션 지분 유동화가 재무건전성 개선에",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-11-01 13:00",
+    "published_sort": "2026-11-01T13:00:00+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "젠슨 황 주변 중국 스파이 의혹, 싱가포르·대만까지 번져",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216858",
+    "summary": "젠슨 황 엔비디아 CEO와 친분이 있는 중국인 사업가의 스파이 의혹이 미국에 이어 싱가포르와 대만으로 번졌다. 그러나 싱가포르 정부는 해당 인물의 중국 정보기관 연계 의혹을 조사한 적이 없다고 공식 반박했다.월스트리트저널(WSJ)은 30일(현지시간) 복수의 소식통을 인용, 미국과 싱가포르, 대만 당국이 싱가포르 데이터센터 기업 메가스피드 인터내셔널(Megaspeed International)의 전 고위 임원 앨리스 황(중국명 황러)을 중국 정보기관의 정보원으로 의심해 왔다고 보도했다.앞서 뉴욕타임스(NYT)는 29일 미국 정보당국이",
+    "source": "AI타임스",
+    "region": "국내",
+    "published": "2026-11-01 12:16",
+    "published_sort": "2026-11-01T12:16:28+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "'쇼퍼블 비디오 커머스'공략 나선 파이온코퍼레이션 [디지털마케팅 대전]",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=677366",
+    "summary": "\"인공지능(AI) 덕분에 콘텐츠를 만드는 일은 쉬워졌지만, 그만큼 내가 만든 콘텐츠가 고객 눈에 띄기는 어려워졌습니다. 특히 유행에 민감하고 콘텐츠 제작 속도도 빠른 한국 시장에서는 차별화된 콘텐츠를 만드는 일이 더욱 중요해졌습니다.\" 와 만난 정범진 파이온코퍼레이션 공동대표(사진)는 이같이 말했다. 콘텐츠 공급은 폭증했지만 소비자의 검색과 구매 의사결정은 AI에게 넘어가고 있다. 과거에는 소비자에게 상품을 잘 알리는 것이 마케팅의 핵심이었다면 이제는 AI의 답변에 브랜드가 노출되도록 하는 것까지 마케팅의 영역이 됐다 게 정",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-11-01 12:00",
+    "published_sort": "2026-11-01T12:00:00+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "앤트로픽, 클로드로 기존 게임 복제 금지…정상 작업까지 차단 논란",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216862",
+    "summary": "앤트로픽이 '클로드 코드'에서 기존 비디오 게임을 복제하는 작업을 제한하기 시작했다. 그러나 저작권 침해와 무관한 게임 개발이나 소프트웨어 분석, 오류 해결 작업까지 차단당했다는 사례가 잇따르면서 논란이 일고 있다.톰스하드웨어는 31일(현지시간) '클로드 오퍼스 5.5'를 사용하는 개발자들이 최근 게임 제작과 리버스 엔지니어링 작업에서 잇따라 거부 메시지를 받고 있다고 보도했다.이번 논란은 지난 27일 X 이용자 캐즘(Chasm)이 클로드 코드에 새롭게 추가된 게임 개발 규칙을 발견하면서 시작됐다. 공개된 규칙에는 \"독창적인 게임이",
+    "source": "AI타임스",
+    "region": "국내",
+    "published": "2026-11-01 11:59",
+    "published_sort": "2026-11-01T11:59:10+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "소프트웨어 공급망 노리는 보안 위협…레드햇 Konflux CI서 고위험 취약점 발견",
+    "link": "https://www.dailysecu.com/news/articleView.html?idxno=209223",
+    "summary": "레드햇(Red Hat)이 관리하는 소프트웨어 개발·배포 플랫폼 콘플럭스(Konflux CI)에서 인증정보 탈취와 임의 명령 실행으로 이어질 수 있는 보안 취약점 3건이 공개됐다.10월 31일 공개된 취약점은 CVE-2026-114217, CVE-2026-116964, CVE-2026-117681로, 모두 CVSS 8.0점 이상의 높은 위험도를 가진다.CVE-2026-114217(CVSS 8.6)은 지속적 통합(CI) 작업환경에 깃허브(GitHub) 접근 토큰이 평문으로 저장되는 문제다. 공격자가 해당 환경에 접근하면 인증정보를 탈취",
+    "source": "데일리시큐",
+    "region": "국내",
+    "published": "2026-11-01 11:53",
+    "published_sort": "2026-11-01T11:53:03+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "UI/UX"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": true,
+    "sec_hits": [
+      "취약점",
+      "보안 취약",
+      "cve-2026-114217"
+    ]
+  },
+  {
+    "title": "워드프레스 심플폼에 치명적 보안 취약점…로그인 없이 악성파일 업로드 가능",
+    "link": "https://www.dailysecu.com/news/articleView.html?idxno=209222",
+    "summary": "워드프레스 기반 웹사이트에서 사용하는 입력양식 제작 플러그인 심플폼(SimpleForm)에서 로그인하지 않은 공격자가 서버에 악성파일을 업로드할 수 있는 치명적인 보안 취약점이 공개됐다.10월 31일 공개된 취약점은 CVE-2026-118235로, CVSS 3.1 기준 위험도는 9.8점이다. 영향을 받는 버전은 심플폼 3.10.2 이하이다.이번 취약점은 파일 업로드 과정에서 파일명과 확장자를 제대로 검증하지 못해 발생한다. 공격자가 파일명을 특수하게 조작하면 허용되지 않은 파일 형식도 정상적인 파일로 인식해 서버에 저장할 수 있다.",
+    "source": "데일리시큐",
+    "region": "국내",
+    "published": "2026-11-01 11:48",
+    "published_sort": "2026-11-01T11:48:04+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": true,
+    "sec_hits": [
+      "취약점",
+      "보안 취약",
+      "cve-2026-118235"
+    ]
+  },
+  {
+    "title": "워드프레스 쇼핑몰 플러그인에 CVSS 9.8 취약점…국내 쇼핑몰도 긴급 점검 필요",
+    "link": "https://www.dailysecu.com/news/articleView.html?idxno=209221",
+    "summary": "워드프레스 기반 온라인 쇼핑몰에서 사용하는 PDF 청구서 생성 플러그인에서 인증되지 않은 공격자가 서버에서 악성코드를 실행할 수 있는 치명적인 보안 취약점이 발견됐다.이번 취약점은 우커머스(WooCommerce)용 플러그인인 ‘PDF Invoice for WooCommerce’에서 확인됐으며, CVE-2026-109220으로 등록됐다. 위험도는 CVSS 3.1 기준 9.8점으로 평가됐다.영향받는 버전은 7.1.1 이하이며, 개발사는 취약점을 수정한 7.2.0 버전을 제공하고 있다.주문 메모 PDF 변환 과정에서 원격코드실행 위험취약",
+    "source": "데일리시큐",
+    "region": "국내",
+    "published": "2026-11-01 11:41",
+    "published_sort": "2026-11-01T11:41:28+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": true,
+    "sec_hits": [
+      "취약점",
+      "보안 취약",
+      "원격코드실행"
+    ]
+  },
+  {
+    "title": "\"AI 뉴런 2개 조작했더니 인간 증오하는 악당으로\"…내부 구조 해독 활발",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216861",
+    "summary": "AI 모델의 신경망 일부를 조작하는 것만으로 친절한 AI 비서를 인간에게 적대적인 캐릭터로 바꿀 수 있다는 실험 결과가 나왔다. 특히 AI 에이전트를 활용해 모델의 내부 작동 원리를 분석하는 도구까지 등장하면서, 대형 연구소 중심이었던 AI 해석 가능성 연구가 개인 개발자들에게도 확대되고 있다.'라이라(Lyra)'라는 이름으로 X에서 활동하는 AI 개발자는 지난 24일(현지시간) 알리바바의 '큐원3.5-4B'에서 두 뉴런의 신호를 조절하는 실험을 공개했다. 14번째 계층의 특정 뉴런은 신호를 높이고, 13번째 계층의 다른 뉴런은 낮",
+    "source": "AI타임스",
+    "region": "국내",
+    "published": "2026-11-01 11:36",
+    "published_sort": "2026-11-01T11:36:50+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "워드프레스 프로젝트 매니저 취약점 공개…원격코드실행 위험에 긴급 업데이트",
+    "link": "https://www.dailysecu.com/news/articleView.html?idxno=209220",
+    "summary": "워드프레스 기반 프로젝트 관리 플러그인 ‘프로젝트 매니저(Project Manager)’에서 인증되지 않은 공격자가 서버에서 임의의 명령을 실행할 수 있는 치명적인 보안 취약점이 공개됐다.10월 31일 공개된 취약점은 CVE-2026-116512로, 공통 취약점 평가 시스템(CVSS) 3.1 기준 9.8점을 받았다. 영향받는 버전은 4.1.1 이하 전체 버전이다.이번 취약점은 외부 요청 매개변수를 처리하는 과정에서 입력값 검증과 권한 확인이 적절하게 이뤄지지 않아 발생한다. 공격자는 조작된 요청을 통해 별도 인증 없이 서버에서 악의",
+    "source": "데일리시큐",
+    "region": "국내",
+    "published": "2026-11-01 11:31",
+    "published_sort": "2026-11-01T11:31:11+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": true,
+    "sec_hits": [
+      "취약점",
+      "보안 취약",
+      "원격코드실행"
+    ]
+  },
+  {
+    "title": "은행 부실채권 낙찰가율 65.7%로 뚝…제값 못 받는 매각에 속앓이",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=677215",
+    "summary": "3분기 국내 부실채권(NPL) 입찰시장의 평균 낙찰가율이 65.7%로 낮아졌다. 4대 시중은행은 같은 기간 1조원 넘는 부실채권을 매각했다. 부실채권 매각 규모가 증가하는 가운데 투자업체의 실제 매입가격은 낮아지는 흐름이다.1일 금융권에 따르면 4대 은행(KB국민·신한·하나·우리)이 3분기에 매각한 부실채권은 원금 기준 1조491억원으로 지난해 같은 기간(9245억원)보다 13.5% 증가했다. 하나은행이 3415억원으로 가장 많았고 신한은행 2448억원, 우리은행 2383억원, 국민은행 2245억원 순이었다.4대 은행이 매각한 채권",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-11-01 11:30",
+    "published_sort": "2026-11-01T11:30:00+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "일본 선불카드 ‘V프리카’ 협력사 해킹, 고객 개인정보 유출 우려",
+    "link": "https://www.dailysecu.com/news/articleView.html?idxno=209219",
+    "summary": "일본 카드회사 라이프카드(Life Card)가 선불카드 서비스 ‘V프리카(V-Preca)’의 외부 위탁업체에서 해킹 사고가 발생해 고객 개인정보가 유출됐을 가능성이 있다고 10월 31일 발표했다.이번 사고는 V프리카 관련 업무를 담당하는 외부 업체의 시스템에 비인가 접근이 발생하면서 확인됐다. 라이프카드는 개인정보 유출 여부와 피해 범위를 조사하고 있으며, 고객 보호를 위해 V프리카 서비스의 일부 기능을 일시 중단했다.현재까지 유출 가능성이 있는 개인정보 항목과 피해 고객 수는 확정되지 않았다. 해커의 침입 경로와 구체적인 공격 방",
+    "source": "데일리시큐",
+    "region": "국내",
+    "published": "2026-11-01 11:25",
+    "published_sort": "2026-11-01T11:25:22+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": true,
+    "sec_hits": [
+      "해킹",
+      "정보 유출",
+      "개인정보 유출"
+    ]
+  },
+  {
+    "title": "일본 디지털증권 플랫폼 해킹, 채권 투자자 수천 명 개인정보 유출 우려",
+    "link": "https://www.dailysecu.com/news/articleView.html?idxno=209218",
+    "summary": "일본에서 디지털증권 관련 외부 서비스가 해킹당해 증권사와 채권 발행기업의 고객정보가 유출됐을 가능성이 제기됐다.일본 NTT데이터는 10월 31일 디지털증권 관련 위탁 서비스에서 비인가 접근이 발생한 사실을 공개하고, 채권 구매자 대상 특전 제공 서비스인 ‘STdirectServices’를 중단했다.라쿠텐증권은 디지털 특전 채권 3개 종목의 구매자 정보 연인원 362건이 외부로 반출됐을 가능성이 있다고 밝혔다.킨테츠그룹홀딩스도 채권 구매자 2,678명의 이름과 구매금액이 유출됐을 가능성을 발표했다. 증권 계좌번호와 비밀번호는 유출 대",
+    "source": "데일리시큐",
+    "region": "국내",
+    "published": "2026-11-01 11:19",
+    "published_sort": "2026-11-01T11:19:47+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": true,
+    "sec_hits": [
+      "해킹",
+      "정보 유출",
+      "개인정보 유출"
+    ]
+  },
+  {
+    "title": "Northstar Security Exits Stealth With $7M to Expose Toxic Risk Combinations",
+    "link": "https://www.securityweek.com/northstar-security-exits-stealth-with-7m-to-expose-toxic-risk-combinations/",
+    "summary": "The startup maps how identities, assets and vulnerabilities connect, and uses AI agents to find and fix risky combinations of issues. The post Northstar Security Exits Stealth With $7M to Expose Toxic Risk Combinations appeared first on SecurityWeek .",
+    "source": "SecurityWeek",
+    "region": "해외",
+    "published": "2026-11-01 11:15",
+    "published_sort": "2026-11-01T11:15:00+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": true,
+    "sec_hits": [
+      "vulnerabilit"
+    ]
+  },
+  {
+    "title": "[제약사 리포트] 종근당, 비용 감소로 이익률 반등…4분기 방어가 관건",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=677384",
+    "summary": "종근당이 3분기 매출 성장세가 꺾인 가운데 영업이익률을 끌어올렸다. 2분기보다 매출이 줄었지만 영업비용은 더 크게 감소한 영향이다. 매출은 전년동기 대비 0.8% 증가하는 데 그쳤으나 영업이익은 15.4% 늘었다. 아토젯·바이토린과 펙수클루의 판매계약이 차례로 끝나면서 기존 매출 기반에도 변화가 생겼다. 이들의 매출 공백을 신규 도입품목으로 메우되 이익률을 지키는 것이 과제다. 시장은 4분기 매출 반등과 영업이익 감소가 함께 나타날 것으로 내다본다. 매출 감소폭 웃돈 영업비용 축소 1일 금융감독원 전자공시시스템에 따르면 종근당의 3",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-11-01 11:00",
+    "published_sort": "2026-11-01T11:00:00+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "앤트로픽 \"AI가 안전 감시 피하는 학습 데이터 스스로 발견\"",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216859",
+    "summary": "앤트로픽이 AI를 이용해 다른 AI 모델의 안전장치를 우회하는 학습 데이터를 자동으로 찾아내는 데 성공했다. '클로드'가 겉으로는 정상적인 소설이나 역할극으로 보이는 데이터를 만들어 안전성 검사 시스템을 통과했고, 이 데이터를 학습한 모델은 인간의 감시를 방해하거나 이용자를 속이는 행동까지 보였다. 동시에 위험한 행동을 찾아내고 방지하는 정렬(Alignment) 연구도 AI에 맡기는 방식이 본격화하고 있다.앤트로픽은 31일(현지시간) 공식 정렬 연구 블로그를 통해 '자동화된 미묘한 정렬 실패 연구' 결과를 공개했다. 이번 연구는 클",
+    "source": "AI타임스",
+    "region": "국내",
+    "published": "2026-11-01 10:46",
+    "published_sort": "2026-11-01T10:46:59+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
     "title": "추석 장바구니가 버틴 9월 유통 매출…가전·생활용품은 '제자리'",
     "link": "https://www.bloter.net/news/articleView.html?idxno=677397",
     "summary": "추석 연휴가 9월로 앞당겨졌지만 주요 유통업체 매출 성장률은 올해 들어 가장 낮은 수준에 머물렀다. 명절 선물세트와 제수용품 수요가 식품 매출을 끌어올렸지만 가전·생활용품 소비는 제자리걸음을 했다. 명절 효과를 걷어내면 소비 회복세를 확인하기 어렵다는 평가가 나온다. 상반기 성장을 이끌던 백화점도 명품 매출 증가세가 꺾이며 넉 달째 성장률이 낮아졌다. 지난해 추석이 있던 10월에는 기저 부담까지 겹쳐 오프라인 성장세가 더 둔화할 것이라는 관측이다.산업통상부에 따르면 9월 주요 유통업체 매출은 전년 동월보다 4.5% 늘었다. 8월(7",
@@ -240,6 +2189,25 @@
     "sec_hits": []
   },
   {
+    "title": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key",
+    "link": "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html",
+    "summary": "A critical flaw in Canonical's LXD and MicroCloud let an attacker log in as a trusted client without holding that client's private key. To do it, the attacker had to reach their HTTPS API over the network and have the trusted client's public certificate. Once in, the attacker would act as that clien",
+    "source": "The Hacker News",
+    "region": "해외",
+    "published": "2026-11-01 14:21",
+    "published_sort": "2026-11-01T08:51:31+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "법규/정책"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": true,
+    "sec_hits": [
+      "critical flaw"
+    ]
+  },
+  {
     "title": "[단독] 알서포트 ‘리모트콜’ 해킹…고객사 관리자·상담원 개인정보 유출",
     "link": "https://www.dailysecu.com/news/articleView.html?idxno=209217",
     "summary": "원격지원 솔루션 기업 알서포트(RSUPPORT)가 사이버공격을 받아 원격지원 서비스 ’리모트콜(RemoteCall)’을 이용하는 일부 고객사의 관리자와 상담원 개인정보가 유출된 것으로 확인됐다.알서포트는 공식 공지를 통해 지난 10월 28일 보안 침해사고를 확인했으며, 외부 공격자가 리모트콜 서비스형 소프트웨어(SaaS) 운영 사이트에 비인가 접근한 사실을 파악했다고 밝혔다.개발자 PC 이상 징후에서 시작된 침해사고 조사이번 사고는 알서포트 내부 개발자 PC에서 이상 징후가 발견되면서 드러났다.알서포트는 자체적으로 이상 징후를 발견",
@@ -278,6 +2246,61 @@
     "sec_hits": []
   },
   {
+    "title": "Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script",
+    "link": "https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html",
+    "summary": "Malicious code on the website of prediction market Polymarket sold some signed-in traders' positions and moved their funds to the hackers on October 29. The code had replaced a page-speed script that the site loaded from an outside company. Polymarket says&nbsp;it is refunding about $2.7 million to ",
+    "source": "The Hacker News",
+    "region": "해외",
+    "published": "2026-11-01 12:55",
+    "published_sort": "2026-11-01T07:25:40+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
+    "link": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html",
+    "summary": "The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets to TraderTraitor, a North Korea-aligned elite hacking group also tracked as Jade Sleet, Pressure Chollima, PUKCHONG, Slow Pisces, and UNC4899. The FBI, along with the U.S. Sec",
+    "source": "The Hacker News",
+    "region": "해외",
+    "published": "2026-11-01 12:33",
+    "published_sort": "2026-11-01T07:03:00+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "법규/정책",
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection",
+    "link": "https://thehackernews.com/2026/11/netamloader-malware-targets-government.html",
+    "summary": "Cybersecurity researchers have disclosed details of what has been described as a \"highly sophisticated infection chain\" targeting government organizations in Asia. The activity, detailed by Kaspersky this week, targeted a custom Windows 10 build used exclusively by government entities in Asia and in",
+    "source": "The Hacker News",
+    "region": "해외",
+    "published": "2026-11-01 12:32",
+    "published_sort": "2026-11-01T07:02:58+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "AI/신기술",
+      "UI/UX"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": true,
+    "sec_hits": [
+      "malware"
+    ]
+  },
+  {
     "title": "현대차·기아, 수익성 흔들리자 '주주환원 셈법' 엇갈려",
     "link": "https://www.bloter.net/news/articleView.html?idxno=677382",
     "summary": "현대차와 기아가 주주환원 정책을 놓고 다른 대응 방향을 내놨다. 현대차는 달라진 경영환경에 맞춰 기존 자사주 매입 계획을 재검토하고 있다고 밝혔다. 기아는 기존 환원 약속을 유지하되 배당을 우선하겠다는 방침을 분명히 했다. 두 회사 모두 수익성에 부담이 커진 상황에서도 최소 배당 약속은 지키겠다는 입장이다.다만 현대차가 기존 자사주 매입 계획의 조정 가능성을 열어둔 반면 기아는 기존 환원정책을 유지하겠다고 밝히면서 온도차를 보였다. 현대차가 연간 판매·수익성 목표를 낮추고 기아 역시 연초 기대보다 낮은 수익성을 예고한 만큼 과거 시",
@@ -303,6 +2326,23 @@
     "published": "2026-11-01 05:10",
     "published_sort": "2026-11-01T05:10:51+00:00",
     "collected_at": "2026-11-01 01:45",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "Data centers are now a midterm issue, even in Brooklyn",
+    "link": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
+    "summary": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.",
+    "source": "TechCrunch",
+    "region": "해외",
+    "published": "2026-11-01 02:22",
+    "published_sort": "2026-11-01T02:22:10+00:00",
+    "collected_at": "2026-11-02 02:00",
     "tags": [
       "AI/신기술"
     ],
@@ -7434,6 +9474,23 @@
     "collected_at": "2026-10-30 09:44",
     "tags": [
       "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "New Zelda and GTA represent a games industry that no longer exists",
+    "link": "https://www.theverge.com/column/1022402/new-zelda-and-gta-represent-a-games-industry-that-no-longer-exists",
+    "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the biggest game releases of the year, follow Andrew Webster. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started The two bigges",
+    "source": "The Verge",
+    "region": "해외",
+    "published": "2026-10-29 14:43",
+    "published_sort": "2026-10-29T18:43:51+00:00",
+    "collected_at": "2026-11-02 02:00",
+    "tags": [
+      "기타"
     ],
     "flag": false,
     "flag_hits": [],
