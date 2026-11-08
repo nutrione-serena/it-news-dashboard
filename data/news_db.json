@@ -1,5 +1,1332 @@
 [
   {
+    "title": "오픈AI 도청 혐의 사우디 엔지니어, 법정서 무죄 주장",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217138",
+    "summary": "오픈AI 사무실에 몰래 녹음 장치를 설치한 혐의로 기소된 사우디아라비아 출신 전직 엔지니어 압둘라흐만 알포잔이 미국 법정에서 무죄를 주장했다.6일(현지시간) CNBC와 블룸버그 등에 따르면, 알포잔은 샌프란시스코 연방법원에서 열린 심리에서 변호인을 통해 무죄를 주장했다. 지난 10월9일 체포된 이후 보석 없이 구금된 상태로, 다음 심리는 오는 17일 열릴 예정이다.미국 검찰은 그가 지난 9월28일 오픈AI 샌프란시스코 본사 임원 회의실에 있는 TV 뒤에 녹음 장치를 설치했다고 보고 있다. 당시 장치는 화장지에 싸인 채 숨겨져 있었으",
+    "source": "AI타임스",
+    "region": "국내",
+    "published": "2026-11-08 10:45",
+    "published_sort": "2026-11-08T10:45:54+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "법규/정책",
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "엔비디아, 동남아 판매 칩 위치 추적 강화로 밀수 차단 나선다",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217139",
+    "summary": "엔비디아가 동남아시아 지역에서 판매한 첨단 AI 칩의 위치 추적을 강화한다. 미국의 수출 규제를 피해 동남아시아를 경유해 중국으로 첨단 AI 칩이 밀수되는 사례가 잇따르자, 클라우드 사업자에 칩 추적 시스템 가입을 의무화하는 방식으로 대응에 나섰다.블룸버그는 6일(현지시간) 엔비디아가 동남아시아 지역 고객사에 공식 클라우드 파트너(NCP) 자격을 부여하는 조건으로 '플릿 인텔리전스(Fleet Intelligence)' 시스템 등록을 요구하기 시작했다고 보도했다.NCP는 엔비디아의 공식 인증을 받은 클라우드 사업자에게 주어지는 지위다",
+    "source": "AI타임스",
+    "region": "국내",
+    "published": "2026-11-08 10:37",
+    "published_sort": "2026-11-08T10:37:23+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "법규/정책",
+      "AI/신기술"
+    ],
+    "flag": true,
+    "flag_hits": [
+      "의무화"
+    ],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "독일 노동시장 전문가 \"AI에 안전한 직업 찾지 마라…미래 일자리 준비해야\"",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217143",
+    "summary": "AI로부터 안전한 직업을 찾기보다 앞으로 새롭게 생겨날 일자리를 준비해야 한다는 독일 노동시장 전문가의 주장이 나왔다. AI가 기존 업무를 대체하더라도 새로운 직무와 산업이 등장하기 때문에 청년들이 과거의 직업 구조에 맞춰 진로를 선택해서는 안 된다는 것이다.독일 연방고용청 산하 노동시장·직업연구소(IAB)의 엔초 베버 교수는 지난 3일(현지시간) 베를린에서 열린 독일 정부의 '디지털 서밋 2026'에서 AI와 청년 고용의 미래에 대해 이같이 밝혔다.베버 교수는 IAB의 경제전망 및 거시경제 분석 부문 책임자이자 레겐스부르크대학교",
+    "source": "AI타임스",
+    "region": "국내",
+    "published": "2026-11-08 10:27",
+    "published_sort": "2026-11-08T10:27:21+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "도로 위 24시간 달리는 '나침반'…산업 엔진으로 진화한 카카오내비",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=678012",
+    "summary": "카카오모빌리티의 내비게이션 앱 '카카오내비'가 단순한 길안내 서비스를 넘어 운송산업 전반을 뒷받침하는 인프라로 진화하고 있다. 택시·대리운전 등 24시간 도로를 달리는 운전자들의 주행 데이터를 바탕으로 길안내 정밀도를 높이고 있다. 외부 플랫폼과 차량 내 길안내·음악 등 다양한 기능을 제공하는 인포테인먼트 시스템까지 기술 적용 범위를 확대하고 있다.8일 업계에 따르면 카카오모빌리티는 카카오내비를 통해 실시간 교통 흐름과 복잡한 골목길, 승하차 지점 등을 고려한 정밀 길안내 기술을 고도화하고 있다. 24시간 운행 데이터로 길안내 정밀",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-11-08 10:00",
+    "published_sort": "2026-11-08T10:00:00+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "삼성, 퀄컴 주요 메모리 공급사로…車반도체 성장에 훈풍",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=677942",
+    "summary": "삼성전자가 미국 퀄컴의 주요 메모리 공급사로 공식 확인되면서 차량용 메모리 사업의 성장 기대감이 커지고 있다. 삼성전자는 퀄컴과 차량용 저전력 D램(LPDDR4X) 공급을 시작한 데 이어 차세대 LPDDR5로 협력 범위를 넓히고 있다. 퀄컴의 차량용 반도체 사업이 빠르게 성장하는 가운데 고성능 메모리 수요까지 늘면서 삼성전자의 추가 수주 기회도 확대될 전망이다. 삼성, 퀄컴 '주요 메모리 공급사'로 첫 명시6일 퀄컴의 2026 회계연도 연차보고서에 따르면 퀄컴은 삼성전자와 미국 마이크론을 주요 메모리 조달처로 명시하며 자동차용 제품",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-11-08 10:00",
+    "published_sort": "2026-11-08T10:00:00+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "오픈AI, '이미지 2.6' 프롬프트 가이드 공개…\"바꿀 것과 유지할 것 구분하라\"",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217140",
+    "summary": "오픈AI가 최신 '이미지 2.6'을 효과적으로 활용하기 위한 공식 프롬프트 가이드를 공개했다. 원하는 이미지를 정확하게 만들려면 용도와 구도, 스타일 등을 구체적으로 지정하고, 기존 이미지를 수정할 때는 바꿀 부분과 유지할 부분을 명확하게 구분해야 한다는 것이 핵심이다.오픈AI는 7일(현지시간) 개발자 문서에 '이미지 2.6 프롬프트 가이드'를 공개하고 이미지 생성·편집을 위한 작성 원칙과 실제 사례를 소개했다. 이미지 2.6은 개발자용 API에서 'GPT-Image-2.6'이라는 명칭을 사용한다.사진과 광고, 인포그래픽, 로고,",
+    "source": "AI타임스",
+    "region": "국내",
+    "published": "2026-11-08 09:51",
+    "published_sort": "2026-11-08T09:51:29+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "무안공항 운항 중단에 수익 82% 감소…위탁인력 줄어도 용역비 3억 증가",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217110",
+    "summary": "무안국제공항이 여객기 사고 이후 운항을 중단한 2025년 수익은 전년보다 82.2% 줄었지만 비용은 1.9% 감소하는 데 그쳤다. 위탁인력이 감소했는데도 용역비는 오히려 증가했으며, 연간 당기손실은 195억원에서 250억원으로 늘었다.국회예산정책처가 지난 9월 발간한 '2026 공공기관 현황과 이슈 Ⅱ'에 수록된 한국공항공사 제출자료를 분석한 결과, 무안공항의 2025년 수익은 13억원으로 전년 73억원보다 60억원 감소했다. 같은 기간 비용은 268억원에서 263억원으로 5억원 줄었다.무안공항은 2024년 12월 29일 제주항공",
+    "source": "AI타임스",
+    "region": "국내",
+    "published": "2026-11-08 09:20",
+    "published_sort": "2026-11-08T09:20:00+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "소프트뱅크·ABB, 54억달러 로봇 인수 살리려 중국 사업부 분리 검토",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217137",
+    "summary": "중국 정부의 반대로 54억달러(약 7조3600억원) 규모의 로봇 사업 인수에 제동이 걸린 소프트뱅크와 ABB가 중국 사업부를 별도로 분리하는 방안을 검토하고 있다. 중국 사업의 소유권을 분리해 기술과 데이터의 해외 이전에 대한 중국 정부의 우려를 해소하고, 나머지 사업의 인수를 추진하려는 것이다.블룸버그는 7일(현지시간) 복수의 소식통을 인용, 소프트뱅크와 스위스 ABB가 로봇 사업부의 중국 사업을 별도 법인으로 분리하는 방안을 논의하고 있다고 보도했다. 지난 5일 중국 당국이 소프트뱅크의 ABB 로봇 사업부 중국 사업 인수를 금지",
+    "source": "AI타임스",
+    "region": "국내",
+    "published": "2026-11-08 09:14",
+    "published_sort": "2026-11-08T09:14:31+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "법규/정책",
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "말레이시아, 데이터센터용 태양광 500MW·ESS 1GWh 개발…21년 전력 공급",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217083",
+    "summary": "말레이시아 전력기업 테나가 나시오날(TNB)과 농업기업 IOI가 데이터센터에 재생전력을 공급하기 위해 태양광 500메가와트(MW)와 에너지저장장치(ESS) 1기가와트시(GWh)를 결합한 발전사업을 공동 개발한다. 싱가포르 기반 데이터센터 운영사 데이원(DayOne)의 21년 장기 전력 조달계약과 연계된 사업이다.IOI는 지난 3일(현지시간) TNB의 재생에너지 자회사, 중소기업 컨소시엄과 합작·주주간 계약을 체결했다고 발표했다. 사업지는 말레이시아 느그리슴빌란주 바하우이며, IOI 소유 약 1300에이커 부지에 대한 장기 임대 계약",
+    "source": "AI타임스",
+    "region": "국내",
+    "published": "2026-11-08 09:10",
+    "published_sort": "2026-11-08T09:10:00+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "콜롬비아 태양광 상업운전 용량 2.59GW…3분기 신규 발전용량 87% 차지",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217079",
+    "summary": "콜롬비아의 태양광 상업운전 용량이 올해 9월 말 2.59기가와트(GW)에 도달했다. 올해 3분기 새로 가동한 발전설비 용량의 87%가 태양광으로, 신규 발전용량 증가를 주도한 것으로 나타났다.콜롬비아 전력계통 운영기관 XM이 지난 10월30일(현지시간) 발표한 자료에 따르면, 9월 말 국가전력계통(SIN)의 태양광 순유효발전용량은 2590.26메가와트(MW)로 전체 발전설비 용량 2만2196MW의 약 11.7%를 차지했다.지난해 말 태양광 상업운전 용량은 1594.08MW로, 올해 1~9월 996.18MW 증가했다. 증가율은 62.",
+    "source": "AI타임스",
+    "region": "국내",
+    "published": "2026-11-08 09:05",
+    "published_sort": "2026-11-08T09:05:00+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "판매 목표 낮춘 현대차, 믿는 카드는 '하이브리드'",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=678043",
+    "summary": "현대차가 연간 판매 목표를 낮춘 가운데 하이브리드차가 수익성 방어의 핵심 차종으로 주목받고 있다. 전기차 수익성이 손익분기점 수준에 머무는 반면 하이브리드차는 높은 한 자릿수 영업이익률을 확보하고 있다는 설명이다. 현대차는 미국 시장에서 하이브리드차를 중심으로 수익성을 확보하고 신차 투입으로 판매 확대를 추진할 계획이다.8일 유진투자증권이 발간한 현대차 기업설명회(NDR) 후기 보고서에 따르면 현대차는 차종별 수익성에 관한 질의에 대해 \"하이브리드차 영업이익률은 높은 한 자릿수, 전기차는 손익분기점 수준\"이라고 설명했다. 구체적인",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-11-08 09:04",
+    "published_sort": "2026-11-08T09:04:54+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "TSMC, '3D D램' 개발설 사실상 부인…상용화도 먼 길",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217136",
+    "summary": "세계 최대 반도체 위탁생산업체 TSMC가 엔비디아의 요청으로 차세대 메모리인 '3D D램' 개발을 검토하고 있다는 보도에 대해 기존 파운드리 사업에 집중하겠다는 입장을 밝혔다. 개발설을 직접 부인하지는 않았지만, 관련 기술이 상용화되기까지 수년이 걸려 당장의 메모리 공급 부족을 해결하기는 어렵다는 분석도 나왔다.톰스하드웨어는 7일(현지시간) TSMC가 엔비디아의 요청으로 3D D램 생산을 준비하고 있다는 최근 보도와 관련해 기존 사업에 집중하겠다는 입장을 밝혔다고 보도했다TSMC 대변인은 \"TSMC는 항상 반도체 위탁생산이라는 핵심",
+    "source": "AI타임스",
+    "region": "국내",
+    "published": "2026-11-08 09:03",
+    "published_sort": "2026-11-08T09:03:39+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "롯데카드, 지배구조 바닥부터 '메스'…CEO 포함 C레벨 핀셋 조정",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=677968",
+    "summary": "롯데카드가 최고경영자(CEO) 공백 시 지체 없이 후임자를 선임하고 관련 절차를 시장에 투명하게 공개하도록 내부 규정을 손질했다. 또 정보보호 전담 임원인 개인정보보호책임자(CPO) 선임 절차를 체계화하고 책임도 강화했다. 리더십 부재에 따른 불확실성을 사전에 차단하고 내부통제 체계와 소비자 신뢰를 높이기 위한 것으로 풀이된다.8일 롯데카드에 따르면 최근 열린 정기 이사회에서 이 같은 내용의 지배구조 내부규범 개정안을 의결하고 즉시 시행했다. 개정은 금융사의 지배구조에 관한 법률 및 개인정보보호법 개정 취지를 반영해 책임경영 체제를",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-11-08 09:00",
+    "published_sort": "2026-11-08T09:00:00+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "법규/정책"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "FT \"미 정보당국, 젠슨 황 CEO와 중국 스파이 의심 인물 연인 관계로 판단\"",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217135",
+    "summary": "미국 정보당국이 젠슨 황 엔비디아 CEO가 중국 스파이로 의심되는 여성 기업인과 연인 관계였다고 판단한 것으로 알려졌다. 중국 정보기관이 황 CEO를 정보 수집 대상으로 삼았다는 기존 보도에 이어, 미국 정부 내부 문건에 두 사람의 사적인 관계에 관한 판단까지 담긴 사실이 새롭게 드러났다.파이낸셜타임스(FT)는 7일(현지시간) 복수의 소식통을 인용, 미국 관리들이 올해 초 작성한 정보 메모에 황 CEO와 싱가포르 데이터센터 기업 메가스피드(Megaspeed)의 임원으로 일했던 앨리스 황이 연인 관계였다는 내용이 담겼다고 보도했다.이",
+    "source": "AI타임스",
+    "region": "국내",
+    "published": "2026-11-08 08:52",
+    "published_sort": "2026-11-08T08:52:25+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "미래에셋증권 그룹웨어 해킹…퇴직자·외주직원 포함 3만5,255명 개인정보 유출",
+    "link": "https://www.dailysecu.com/news/articleView.html?idxno=209380",
+    "summary": "미래에셋증권의 사내 그룹웨어 시스템이 외부 사이버공격을 받아 퇴직자와 외주직원을 포함한 임직원 약 3만5,255명의 개인정보가 유출된 것으로 확인됐다. 유출 정보에는 성명과 사번을 비롯해 일부 이메일주소, 휴대전화번호, 암호화된 비밀번호까지 포함돼 있어 임직원을 겨냥한 피싱·스미싱 등 2차 피해가 우려된다.미래에셋증권(대표이사 김미섭·허선호)은 최근 ‘임직원 개인정보 유출에 대해 사과드립니다’라는 공식 안내문을 통해 지난 11월 5일 사내 그룹웨어인 ‘mi-global’에 대한 외부 공격이 발생했으며, 이 과정에서 임직원 개인정보가",
+    "source": "데일리시큐",
+    "region": "국내",
+    "published": "2026-11-08 08:51",
+    "published_sort": "2026-11-08T08:51:53+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": true,
+    "sec_hits": [
+      "해킹",
+      "정보 유출",
+      "개인정보 유출"
+    ]
+  },
+  {
+    "title": "[어바웃 C] SK바팜 이동훈 체제 유지…최윤정 전략 확대·책임 분업",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=677990",
+    "summary": "기업 최고 의사결정권자(CEO, CFO, COO, CIO 등)의 행보에서 투자 인사이트를 얻어 가세요. SK바이오팜이 최근 그룹 인사에서 이동훈 대표 체제를 유지했다. 최윤정 전략본부장은 올해 전사 전략과 지주회사 업무를 겸한다. 두 사람은 투자 방향을 논의하지만 최종 판단은 이 대표가 맡고 개별 신약 계약은 전문조직이 주도한다. 세노바메이트 판매가 미국 밖으로 확대하는 가운데 후속 신약에서는 개발 위험이 드러났다. 오파칼림은 미국 임상 일부가 보류됐고 방사성의약품(RPT)도 초기 임상 단계다. 사업별 투자 우선순위와 성과 관리가",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-11-08 08:00",
+    "published_sort": "2026-11-08T08:00:00+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "[단독] 랜섬웨어 조직 메타인크립터, 현대건설·우신시스템 등 한국 기업 4곳 데이터 탈취 주장...조사 필요",
+    "link": "https://www.dailysecu.com/news/articleView.html?idxno=209379",
+    "summary": "랜섬웨어 조직 메타인크립터(Metaencrypter)가 현대건설·우신시스템·대원화성·대아이앤씨 등 한국 기업 4곳의 데이터를 탈취했다고 주장하며 데이터 유출사이트에 기업명을 게시했다. 공격자는 자료 공개 시한을 제시하며 협상을 압박했다. 다만 현재 확인된 것은 공격자의 피해 주장 게시 사실이며, 실제 내부망 침해와 데이터 탈취 여부는 해당 기업과 관계 기관의 조사가 필요하다. 데일리시큐가 확보한 공개 위협정보 수집 기록들을 대조한 결과, 해당 기업 4곳은 2026년 11월 7일 메타인크립터의 피해 주장 대상으로 등록됐다. ■ 한국",
+    "source": "데일리시큐",
+    "region": "국내",
+    "published": "2026-11-08 07:04",
+    "published_sort": "2026-11-08T07:04:05+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": true,
+    "sec_hits": [
+      "랜섬웨어",
+      "데이터 유출"
+    ]
+  },
+  {
+    "title": "[디깅노트] AI를 향한 '빚투'의 무모함과 도전 사이",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=677932",
+    "summary": "빚에 대한 두려움은 역설적으로 투자와 연결됐을 때 '도전'으로 읽힌다. 빚을 지는 것에 대한 당장의 공포심을 이겨내고 기꺼이 불확실한 미래에 베팅하는 용기가 필요하기 때문이다. 베팅이 맞으면 레버리지의 수익으로, 틀리면 이자와 원금의 부담으로 돌아온다. 무모한 투자자와 성공한 투자자의 차이는 수익률이라는 한 끗이다.기업 입장에서도 별반 다르지 않다. 최근 글로벌 증시를 달구는 화두는 빅테크 기업들의 인공지능(AI) 인프라를 향한 빚투다. 주요 기업들 사이에서는 AI 데이터센터를 짓기 위해 수십조원씩 자금을 조달하는 일이 이어지고 있",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-11-08 07:00",
+    "published_sort": "2026-11-08T07:00:00+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "[라그나로크 페스타] 24년 장수 IP 저력 보여준 '라그나로크'...글로벌 팬덤 바탕으로 장기흥행 달린다(종합)",
+    "link": "https://www.techm.kr/news/articleView.html?idxno=157053",
+    "summary": "내년 출시 25주년을 앞두고 있는 그라비티의 '라그나로크'가 글로벌 시장에서 여전히 존재감을 과시하고 있다. 게임 시장은 매일같이 신작들이 쏟아지고 이용자들의 취향이 빠르게 변화하는 특수한 환경으로 꼽힌다. 하지만 라그나로크는 오랜 시간동안 쌓아온 골수 팬들과 고유 세계관을 바탕으로 24년이 지난 현재까지도 꾸준한 사랑을 받고 있다. 이러한 인기는 원작의 감성을 유지하면서도 다양한 장르로 IP를 확장하는 전략이 글로벌 시장에서 통했다는 것을 증명한다. 게임을 넘어 공연과 굿즈, e스포츠 등 문화 콘텐츠로 영역을 확장하는 그라비티의",
+    "source": "테크M",
+    "region": "국내",
+    "published": "2026-11-08 02:30",
+    "published_sort": "2026-11-08T02:30:37+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "[라그나로크 페스타] '모닝스타'의 적수는 없었다...'ROS 2026' 우승으로 4연패 달성",
+    "link": "https://www.techm.kr/news/articleView.html?idxno=157055",
+    "summary": "태국의 '모닝스타'가 라그나로크 온라인 글로벌 e스포츠 대회 '라그나로크 온라인 스타즈(ROS) 2026'의 우승컵을 거머쥐며 4연패를 달성하는 대기록을 세웠다. 자국에서 열린 대회에서 최강팀의 면모를 과시하며 라그나로크 e스포츠 역사에 한 획을 그엇다. 모닝스타에 도전장을 던진 한국 대표팀 '블랙 앵거스'는 1차전에서 모닝스타에 석패한 뒤 패자조에서도 고배를 마시며 내년 대회를 기약하게 됐다. 그라비티가 7일(현지시간) 태국 방콕 엠스피어 몰 내 UOB 라이브에서 개최한 '라그나로크 페스타 2026' e스포츠 대회 ROS에서 모닝",
+    "source": "테크M",
+    "region": "국내",
+    "published": "2026-11-08 02:29",
+    "published_sort": "2026-11-08T02:29:44+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+    "link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+    "summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
+    "source": "TechCrunch",
+    "region": "해외",
+    "published": "2026-11-07 22:07",
+    "published_sort": "2026-11-07T22:07:22+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "UI/UX"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+    "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+    "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+    "source": "TechCrunch",
+    "region": "해외",
+    "published": "2026-11-07 21:17",
+    "published_sort": "2026-11-07T21:17:08+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "AI/신기술",
+      "UI/UX"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "Otherwise you’re just a machine",
+    "link": "https://uxdesign.cc/otherwise-youre-just-a-machine-a9d3b21179b5?source=rss----138adf9c44c---4",
+    "summary": "",
+    "source": "UX Collective",
+    "region": "해외",
+    "published": "2026-11-07 20:15",
+    "published_sort": "2026-11-07T20:15:42+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "[라그나로크 페스타] 정일태 그라비티 그룹장 \"라그나로크, 추억 넘어 세대 잇는 '착한 게임'으로\"",
+    "link": "https://www.techm.kr/news/articleView.html?idxno=157052",
+    "summary": "\"라그나로크 IP는 추억의 강점이 있는 만큼 이용자들에게 착한 게임으로 기억에 남았으면 좋겠어요\"그라비티가 내년 출시 25주년을 맞이하는 '라그나로크' IP를 통해 글로벌 생태계 확장에 속도를 낸다. 24년간 쌓아온 글로벌 팬덤을 기반으로 이용자 접점을 확대하고 하나의 거대한 생태계를 구축하겠다는 구상이다. 특히 내년에는 국내 시장에 라그나로크 IP를 활용한 신규 타이틀을 공개해 추억의 향수까지 불러 일으킨다는 전략이다. 정일태 그라비티 한국사업그룹장은 7일(현지시간) 태국 방콕 엠스피어 몰 내 UOB 라이브에서 열린 '라그나로크",
+    "source": "테크M",
+    "region": "국내",
+    "published": "2026-11-07 19:47",
+    "published_sort": "2026-11-07T19:47:41+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "오픈AI, '클로드 코드' 성공 주역 캣 우 영입…핵심 제품 총괄 맡아",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217134",
+    "summary": "오픈AI가 앤트로픽의 AI 코딩 에이전트 '클로드 코드'를 성공적인 상용 제품으로 키운 핵심 인물을 영입했다. '코워크'의 제품 개발에도 참여한 캣 우(Cat Wu)로, 오픈AI의 코덱스와 기업용 AI 에이전트 경쟁력을 강화하는 데 중요한 역할을 맡을 전망이다.비즈니스인사이더는 5일(현지시간) 앤트로픽의 클로드 코드 제품 책임자였던 캣 우가 오픈AI에 합류해 핵심 제품(Core Products) 조직의 제품 관리를 총괄한다고 보도했다. 오픈AI도 그의 영입을 공식 확인했다.우는 같은 날 X를 통해 이직 소식을 알리며 \"오픈AI가 A",
+    "source": "AI타임스",
+    "region": "국내",
+    "published": "2026-11-07 19:05",
+    "published_sort": "2026-11-07T19:05:17+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "Parents want safer phones for kids. These companies are answering the call.",
+    "link": "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
+    "summary": "As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from feature-limited mobile devices to minimalist home phones.",
+    "source": "TechCrunch",
+    "region": "해외",
+    "published": "2026-11-07 19:00",
+    "published_sort": "2026-11-07T19:00:00+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "UI/UX"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "삼성 첫 AI 안경 출시 임박…젠틀몬스터·워비파커, 12일 예약 시작",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217133",
+    "summary": "삼성전자와 구글이 공동 개발한 첫 AI 안경이 오는 12일 예약 판매를 시작한다. 국내 젠틀몬스터와 미국 워비파커가 각각 디자인하고 구글의 '제미나이'를 탑재한 제품으로, 12월 정식 출시할 예정이다.젠틀몬스터와 워비파커는 오는 12일부터 '인텔리전트 아이웨어(Intelligent Eyewear)'의 예약 판매를 시작한다고 발표했다. 젠틀몬스터는 6일 공식 홈페이지에 예약 판매 일정을 공개했으며, 워비파커도 5일(현지시간) 3분기 실적 발표에서 같은 일정을 확인했다.두 제품은 삼성전자와 구글, 퀄컴이 공동 개발한 '안드로이드 XR'",
+    "source": "AI타임스",
+    "region": "국내",
+    "published": "2026-11-07 18:14",
+    "published_sort": "2026-11-07T18:14:54+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "AI/신기술",
+      "UI/UX"
+    ],
+    "flag": true,
+    "flag_hits": [
+      "정식 출시"
+    ],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "MH머트리얼즈, 30억 자사주 매입 후 전량 소각 추진",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=677966",
+    "summary": "MH머트리얼즈가 30억원 규모의 자사주를 매입해 전량 소각을 추진한다. 7월 보유 자사주 638만주를 소각한 데 이어 추가 주주환원에 나서는 모습이다.7일 금융감독원 전자공시시스템에 따르면 MH머트리얼즈는 5일 30억원 규모의 자사주 취득을 결정했다. 취득 예정 주식 수는 77만6196주로, 이사회 결의 전일 종가인 3865원을 기준으로 산정됐다. 이달 6일부터 내년 2월5일까지 장내에서 직접 매입하며 향후 전량 소각할 계획이다.MH머트리얼즈는 앞서 7월에도 약 288억원 규모의 자사주 638만5040주를 소각했다. 당시 소각으로",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-11-07 18:00",
+    "published_sort": "2026-11-07T18:00:00+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "[라그나로크 페스타] 웹으로 확장해 일상 파고드는 라그나로크...그라비티가 'RO 플레이존'을 준비하는 이유",
+    "link": "https://www.techm.kr/news/articleView.html?idxno=157051",
+    "summary": "그라비티가 대표 IP인 '라그나로크'를 기반으로 게임 플레이와 보상, 캐릭터 연동을 결합한 새로운 플랫폼 'RO 플레이존(RO Playzone)'을 공개했다. 별도의 애플리케이션을 설치하지 않아도 웹에서 다양한 미니게임을 즐기고, 이를 통해 획득한 포인트를 PC 버전 라그나로크의 아이템으로 교환할 수 있도록 하는 것이 핵심이다. 기존 게임의 이용 경험을 웹 공간으로 확장하고 이용자들의 일상적인 플레이 접점을 넓히겠다는 전략이다.이재진 그라비티 게임 테크 COO는 7일(현지시간) 태국 방콕 엠스피어 몰 내 UOB 라이브에서 열린 '라",
+    "source": "테크M",
+    "region": "국내",
+    "published": "2026-11-07 17:48",
+    "published_sort": "2026-11-07T17:48:12+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "씽킹 머신스, 성능 대폭 높인 '잉클링 2' 공개…중국 오픈 모델에 도전",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217132",
+    "summary": "오픈AI 출신 미라 무라티가 이끄는 씽킹 머신스 랩(Thinking Machines Lab)이 기존 모델보다 성능을 크게 높인 새로운 AI 모델을 공개했다. 중국 주요 오픈웨이트 모델과 경쟁할 수 있는 수준으로 평가되며, 기업이 자체 업무에 맞춰 AI를 개발할 수 있도록 모델 가중치도 공개할 계획이다.씽킹 머신스는 5일(현지시간) 공식 블로그를 통해 2세대 모델 '잉클링 2 스몰(Inkling 2 Small)'을 출시했다고 밝혔다. 총 5940억개의 매개변수를 갖춘 전문가 혼합(MoE) 모델로, 실제 추론에는 170억개만 활성화한다",
+    "source": "AI타임스",
+    "region": "국내",
+    "published": "2026-11-07 17:45",
+    "published_sort": "2026-11-07T17:45:42+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "[라그나로크 페스타] 그라비티, AI·숏폼 결합한 '아이완' 공개...내년 1분기 글로벌 게임 플랫폼 띄운다",
+    "link": "https://www.techm.kr/news/articleView.html?idxno=157050",
+    "summary": "그라비티가 다운로드 없이 즉시 게임을 즐길 수 있는 새로운 플랫폼 '아이완(Aiwan)'을 선보인다. 숏폼 콘텐츠와 AI 기반 개인화 추천, 크로스 플랫폼 기능 등을 결합해 새로운 게임 플레이 경험을 제공한다는 구상이다. 최성욱 아이완 사장은 7일(현지시간) 태국 방콕 엠스피어 몰 내 UOB 라이브에서 열린 '라그나로크 페스타 2026'에 참석해 \"아이완은 라그나로크 IP의 저력을 바탕으로 글로벌 메이저 파트너사들과의 IP 협력을 통해 게임 포트폴리오를 확장해 나갈 계획\"이라고 말했다. 아이완은 내년 1분기 사전 예약과 공식 런칭을",
+    "source": "테크M",
+    "region": "국내",
+    "published": "2026-11-07 17:31",
+    "published_sort": "2026-11-07T17:31:42+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
+    "link": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
+    "summary": "The announcement comes barely more than a week after hackers stole $6.3 billion worth of cryptocurrency from Binance users.",
+    "source": "TechCrunch",
+    "region": "해외",
+    "published": "2026-11-07 17:24",
+    "published_sort": "2026-11-07T17:24:07+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "법규/정책"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "Amazon’s new basic Kindle proves you don’t need all the bells and whistles",
+    "link": "https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/",
+    "summary": "Amazon's redesigned basic Kindle costs more than before, but its lighter build and improved display make a compelling case for skipping the pricier models.",
+    "source": "TechCrunch",
+    "region": "해외",
+    "published": "2026-11-07 17:18",
+    "published_sort": "2026-11-07T17:18:00+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "UI/UX"
+    ],
+    "flag": true,
+    "flag_hits": [
+      "redesign"
+    ],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "인성디지털, AIS 2026서 소나타입 공급망 보안 플랫폼 소개…AI 코딩 단계부터 오픈소스 위험 관리",
+    "link": "https://www.dailysecu.com/news/articleView.html?idxno=209377",
+    "summary": "데일리시큐가 주최하고 한국인터넷진흥원(KISA)과 한국정보보호산업협회(KISIA)가 후원한 ‘2026 인공지능 보안 컨퍼런스(AIS 2026)’가 11월 3일 서울 한국과학기술회관 국제회의실에서 700여 명의 보안담당자와 관계자가 참여한 가운데 성황리에 개최됐다.이번 행사에서 인성디지털은 소나타입(Sonatype)의 소프트웨어 공급망 보안·거버넌스 플랫폼 ‘넥서스 원(Nexus One)’을 소개했다. 오픈소스 컴포넌트의 유입부터 개발·빌드·배포에 이르는 과정에서 보안 위험을 관리하고, AI 코딩 도구가 사용하는 소프트웨어 의존성까지",
+    "source": "데일리시큐",
+    "region": "국내",
+    "published": "2026-11-07 17:17",
+    "published_sort": "2026-11-07T17:17:56+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "[라그나로크 페스타] 구름 관람객 몰린 방콕 엠스피어 몰...'라그나로크' 팬심으로 뜨거운 열기",
+    "link": "https://www.techm.kr/news/articleView.html?idxno=157049",
+    "summary": "그라비티가 태국 방콕에서 개최한 글로벌 게임 축제 '라그나로크 페스타 2026' 현장은 구름 관람객들이 몰리면서 인산인해를 이루고 있다. 발디딜 틈 없이 사람들이 몰려들며 현지에서의 인기를 실감했다. 태국은 물론 전 세계 국가에서 방문한 이용자들이 한데 어우러지며 각종 게임 체험과 e스포츠 경기, 이벤트 등을 즐기며 즐거운 표정이었다. 7일(현지시간) 태국 방콕 엠스피어 몰 내 UOB 라이브에서 열린 라그나로크 페스타 2026에는 이른 시간부터 관람객들이 발길이 이어졌다. 라그나로크 IP를 상징하는 각종 전시와 코스어들이 관람객들과",
+    "source": "테크M",
+    "region": "국내",
+    "published": "2026-11-07 17:14",
+    "published_sort": "2026-11-07T17:14:21+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "엑소스피어랩스, AIS 2026서 백신·DLP 통합 보안 서비스 ‘엑소스피어’ 소개",
+    "link": "https://www.dailysecu.com/news/articleView.html?idxno=209376",
+    "summary": "데일리시큐가 주최하고 한국인터넷진흥원(KISA)과 한국정보보호산업협회(KISIA)가 후원한 ‘2026 인공지능 보안 컨퍼런스(AIS 2026)’가 11월 3일 서울 한국과학기술회관 국제회의실에서 700여 명의 보안담당자와 관계자가 참여한 가운데 성황리에 개최됐다.이번 행사에 참가한 엑소스피어랩스(대표 박상호)는 백신과 정보유출방지(DLP)를 하나의 에이전트로 통합한 서비스형 소프트웨어(SaaS) 기반 보안 서비스 ‘엑소스피어’를 소개했다. 생성형 AI와 클라우드 서비스 활용이 확대되는 기업 환경에서 엔드포인트 위협 대응과 데이터 보",
+    "source": "데일리시큐",
+    "region": "국내",
+    "published": "2026-11-07 17:13",
+    "published_sort": "2026-11-07T17:13:49+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "바이두, 딥시크 앞선 '어니 5.5' 베이스 모델 공개…한국·유럽 사용 제한",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217131",
+    "summary": "중국 바이두가 딥시크와 텐센트, 샤오미의 경쟁 모델을 주요 성능 평가에서 앞서는 대형언어모델(LLM)을 공개했다. 특히 사전학습만 마친 모델의 가중치를 공개해 개발자들이 독자적인 AI를 만들도록 지원한다. 그러나 한국과 유럽을 사용 허가 지역에서 제외했다.바이두는 5일 공식 블로그와 허깅페이스를 통해 '어니 5.5 플래시 베이스(ERNIE 5.5 Flash Base)'의 가중치를 공개했다. 총 2800억개의 매개변수를 갖춘 전문가 혼합(MoE) 모델로, 토큰을 처리할 때는 140억개만 활성화해 연산 부담을 줄였다.자체 성능 평가에서",
+    "source": "AI타임스",
+    "region": "국내",
+    "published": "2026-11-07 17:08",
+    "published_sort": "2026-11-07T17:08:12+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "브로드컴, 오픈소스 취약점 대응부터 내부 확산 차단까지…AIS 2026서 보안 전략 소개",
+    "link": "https://www.dailysecu.com/news/articleView.html?idxno=209375",
+    "summary": "데일리시큐가 주최하고 한국인터넷진흥원(KISA)과 한국정보보호산업협회(KISIA)가 후원한 ‘2026 인공지능 보안 컨퍼런스(AIS 2026)’가 11월 3일 서울 한국과학기술회관 국제회의실에서 700여 명의 보안담당자와 관계자가 참여한 가운데 성황리에 개최됐다.브로드컴(Broadcom)은 이번 행사에서 오픈소스 취약점과 소프트웨어 공급망 위협에 대응하는 ‘트루소스(TrueSource)’ 솔루션 3종과 데이터센터 내부 공격 확산을 차단하는 ‘VMware vDefend’를 소개했다. 애플리케이션 개발에 사용하는 오픈소스 구성요소부터",
+    "source": "데일리시큐",
+    "region": "국내",
+    "published": "2026-11-07 17:08",
+    "published_sort": "2026-11-07T17:08:05+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": true,
+    "sec_hits": [
+      "취약점"
+    ]
+  },
+  {
+    "title": "에브리존, AIS 2026서 ‘화이트디펜더’ 소개…랜섬웨어 실시간 차단부터 파일 복원까지",
+    "link": "https://www.dailysecu.com/news/articleView.html?idxno=209374",
+    "summary": "데일리시큐가 주최하고 한국인터넷진흥원(KISA)과 한국정보보호산업협회(KISIA)가 후원한 ‘2026 인공지능 보안 컨퍼런스(AIS 2026)’가 11월 3일 서울 한국과학기술회관 국제회의실에서 700여 명의 보안담당자와 관계자가 참여한 가운데 성황리에 개최됐다.참가기업 에브리존(대표 홍승균)은 안티랜섬웨어 솔루션 ‘화이트디펜더(WhiteDefender)’를 통해 랜섬웨어 공격 행위의 실시간 탐지·차단과 원본 파일 자동 복원을 연계하는 대응 방안을 소개했다. AI 활용으로 공격 기법과 악성코드 변형이 빨라지는 환경에서 실제 파일 암",
+    "source": "데일리시큐",
+    "region": "국내",
+    "published": "2026-11-07 17:01",
+    "published_sort": "2026-11-07T17:01:01+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "법규/정책",
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": true,
+    "sec_hits": [
+      "랜섬웨어",
+      "악성코드"
+    ]
+  },
+  {
+    "title": "[AIS 2026] 마크애니, AI로 화면 촬영 탐지…비가시성 워터마크로 유출 경로 추적",
+    "link": "https://www.dailysecu.com/news/articleView.html?idxno=209373",
+    "summary": "데일리시큐가 주최하고 한국인터넷진흥원(KISA)과 한국정보보호산업협회(KISIA)가 후원한 ‘2026 인공지능 보안 컨퍼런스(AIS 2026)’가 11월 3일 서울 한국과학기술회관 국제회의실에서 700여 명의 보안담당자와 관계자가 참여한 가운데 성황리에 개최됐다.이번 행사에 참가한 마크애니(대표 최고·금동기)는 인공지능(AI) 기반 화면 촬영 탐지와 비가시성 워터마크 기술을 결합한 화면 보안 체계 ‘SDR(Screen Detection & Response)’을 소개했다. 화면을 통한 정보 유출 시도를 탐지하고, 보안 이벤트 기록과",
+    "source": "데일리시큐",
+    "region": "국내",
+    "published": "2026-11-07 16:56",
+    "published_sort": "2026-11-07T16:56:51+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": true,
+    "sec_hits": [
+      "정보 유출"
+    ]
+  },
+  {
+    "title": "미 중간선거 후폭풍…민주당, 빅테크 대대적 조사·AI 규제 추진",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217130",
+    "summary": "미국 중간선거에서 상·하원을 모두 장악한 민주당이 빅테크 기업에 대한 대규모 조사와 AI 규제 입법을 준비하고 있다. 트럼프 행정부와 긴밀한 관계를 맺어온 기업들의 정부 거래를 조사하는 동시에 AI 모델의 안전성, 데이터센터 전력 비용, 엔비디아의 중국 AI 칩 수출까지 규제 대상으로 삼을 계획이다.워싱턴포스트(WP)와 로이터, 블룸버그는 6일(현지시간) 민주당이 내년 1월 의회 운영권을 확보하면 주요 기술 기업을 상대로 청문회와 자료 제출 요구, AI 규제 입법에 나설 것이라고 보도했다.가장 먼저 주목받는 것은 트럼프 행정부와 빅",
+    "source": "AI타임스",
+    "region": "국내",
+    "published": "2026-11-07 16:43",
+    "published_sort": "2026-11-07T16:43:57+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "법규/정책",
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "[AIS 2026] 스텔스몰 최현표 연구원 \"공격 서버의 짧은 설정파일, 금융권 해킹 용의자 추적의 실마리 됐다\"",
+    "link": "https://www.dailysecu.com/news/articleView.html?idxno=209371",
+    "summary": "공격 서버에 남은 두 줄짜리 설정파일이 텔레그램 계정을 추적하는 출발점이 됐다. 공격 상황을 전달받도록 설정된 사용자 식별자를 과거 수집 데이터와 대조하자 계정명이 나왔고, 해당 계정이 남긴 3만여 건의 메시지에서는 공격 서비스 광고와 한국 대출 데이터 거래를 언급한 흔적이 발견됐다.스텔스몰 인텔리전스(StealthMole Intelligence) 최현표 연구원은 11월 3일 서울 한국과학기술회관 국제회의실에서 열린 ‘2026 인공지능 보안 컨퍼런스(AIS 2026)’에서 ‘AI를 활용한 국내 금융권 해킹 용의자 프로파일링’을 주제",
+    "source": "데일리시큐",
+    "region": "국내",
+    "published": "2026-11-07 16:06",
+    "published_sort": "2026-11-07T16:06:16+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": true,
+    "sec_hits": [
+      "해킹"
+    ]
+  },
+  {
+    "title": "'모닝스타' 띄운 조현준의 승부수…AI 전력망 타고 100년 기업 목표",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=677950",
+    "summary": "창립 60주년과 조현준 회장의 취임 10주년을 맞이한 효성그룹이 '모닝스타(새벽별)' 정신을 앞세워 100년 기업을 향한 전면적인 체질 개선에 나섰다. 조 회장은 '악착·치밀·신뢰'라는 3대 경영원칙을 천명하고, AI(인공지능) 전력 인프라 확대·초고압 송전망 기술 고도화·글로벌 영토 확장 등으로 이어지는 삼각편대를 미래 100년을 열 핵심 승부수라고 강조했다.조현준 회장은 최근 창립 60주년 기념식에서 △악착같은 효성 △치밀한 효성 △신뢰의 효성 등을 새로운 경영 원칙으로 삼겠다고 발표했다. 2017년 효성그룹 회장에 취임해 조만",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-11-07 16:00",
+    "published_sort": "2026-11-07T16:00:00+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "[AIS 2026] “공격은 발생해도 업무는 멈추지 않아야”…에브리존이 제시한 랜섬웨어 방어 전략",
+    "link": "https://www.dailysecu.com/news/articleView.html?idxno=209370",
+    "summary": "백업 데이터는 살아 있었다. 그러나 업무를 정상화하기까지 일주일이 필요했다. 에브리존 김준영 총괄팀장이 소개한 한 제약사의 사례는 랜섬웨어 대응에서 ‘복구 가능 여부’와 ‘업무 중단 최소화’를 함께 따져야 하는 이유를 보여줬다.데일리시큐가 주최하고 한국인터넷진흥원(KISA)과 한국정보보호산업협회(KISIA)가 후원한 ‘2026 인공지능 보안 컨퍼런스(AIS 2026)’가 11월 3일 서울 한국과학기술회관 국제회의실에서 700여 명의 보안담당자와 관계자가 참여한 가운데 성황리에 개최됐다.이날 ‘AI 기반 사이버 공격의 진화, 랜섬웨어",
+    "source": "데일리시큐",
+    "region": "국내",
+    "published": "2026-11-07 15:55",
+    "published_sort": "2026-11-07T15:55:12+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": true,
+    "sec_hits": [
+      "랜섬웨어"
+    ]
+  },
+  {
+    "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+    "link": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+    "summary": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly battle in which the chicken usually wins. Recently, m",
+    "source": "The Verge",
+    "region": "해외",
+    "published": "2026-11-07 10:47",
+    "published_sort": "2026-11-07T15:47:15+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "AI/신기술",
+      "UI/UX"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "[AIS 2026] 망 끊으면 안전할까…김승주 교수 “AI 시대 보안, 자산 파악부터 다시”",
+    "link": "https://www.dailysecu.com/news/articleView.html?idxno=209369",
+    "summary": "공격자 여러 명이 달라붙어야 했던 해킹을 이제는 한 사람이 AI 도구와 함께 수행한다. 공격에 드는 비용이 줄어들면, 과거에는 수익성이 낮아 외면했던 작은 사이트와 주변 시스템도 공격 대상이 된다. 김승주 고려대학교 정보보호대학원 교수는 AI 해킹의 변화를 ‘공격자의 투자 대비 수익률(ROI)’로 풀어냈다. 중요한 서비스만 집중적으로 점검하고 나머지를 방치하는 방식으로는 달라진 공격 환경을 감당하기 어렵다는 경고였다.데일리시큐가 주최하고 한국인터넷진흥원(KISA)과 한국정보보호산업협회(KISIA)가 후원한 ‘2026 인공지능 보안",
+    "source": "데일리시큐",
+    "region": "국내",
+    "published": "2026-11-07 15:44",
+    "published_sort": "2026-11-07T15:44:50+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": true,
+    "sec_hits": [
+      "해킹"
+    ]
+  },
+  {
+    "title": "The US let Nvidia sell chips to an empty office in China",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+    "summary": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offices are empty, \"a ho",
+    "source": "The Verge",
+    "region": "해외",
+    "published": "2026-11-07 10:43",
+    "published_sort": "2026-11-07T15:43:45+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "메타, AI로 맞춤형 앱 만드는 '뮤즈 스페이스' 출시",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217128",
+    "summary": "메타가 AI 에이전트 '뮤즈(Muse)'와 협업할 수 있는 맞춤형 작업 공간 '스페이스(Spaces)'를 출시했다. 사용자가 자연어로 원하는 기능을 설명하면 여행 계획표나 쇼핑 관리 도구, 일정 추적기 등 목적에 맞는 앱 형태의 작업 공간을 자동으로 만들어준다. 외부 서비스와 연동해 관련 정보도 백그라운드에서 갱신할 수 있다.메타는 6일(현지시간) 뮤즈 앱에 스페이스 기능을 도입했다고 밝혔다. 사용자는 특정 프로젝트나 주제에 맞춰 독립적인 작업 공간을 만들고, 앱 사이드바에서 이를 선택해 뮤즈와 대화를 이어갈 수 있다.예를 들어 여",
+    "source": "AI타임스",
+    "region": "국내",
+    "published": "2026-11-07 15:39",
+    "published_sort": "2026-11-07T15:39:27+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "큐냅 NAS 실제 해킹 피해 확인, 'Plex2Shell' 취약점 긴급 패치 권고",
+    "link": "https://www.dailysecu.com/news/articleView.html?idxno=209368",
+    "summary": "네트워크 스토리지(NAS) 전문기업 큐냅(QNAP)이 자사 NAS에서 실행되는 플렉스 미디어 서버(Plex Media Server)의 보안 취약점을 악용한 실제 침해사고가 보고됐다고 경고했다. 공격자는 인증 없이 원격에서 악성코드를 실행할 수 있으며, 침해된 서버를 암호화폐 채굴이나 프록시 서비스 운영에 악용한 사례도 확인됐다.큐냅은 11월 6일 긴급 보안 공지를 통해 'Plex2Shell'로 알려진 취약점 연계 공격이 실제 NAS 환경에서 발생했다고 밝혔다.문제가 된 취약점은 CVE-2026-96652, CVE-2026-96654",
+    "source": "데일리시큐",
+    "region": "국내",
+    "published": "2026-11-07 15:26",
+    "published_sort": "2026-11-07T15:26:55+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": true,
+    "sec_hits": [
+      "취약점",
+      "보안 취약",
+      "해킹"
+    ]
+  },
+  {
+    "title": "Hackers pull off $133 million French bank heist via service provider",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/",
+    "summary": "French cooperative bank Crédit Mutuel Arkéa was targeted in a cyberattack that enabled fraudulent transactions of up to $133 million, forcing it to respond by suspending certain systems.v [...]",
+    "source": "BleepingComputer",
+    "region": "해외",
+    "published": "2026-11-07 10:25",
+    "published_sort": "2026-11-07T15:25:35+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "AI 해킹 에이전트, 실험실 벗어나 실제 기업 해킹해 고객정보까지 무단 수집",
+    "link": "https://www.dailysecu.com/news/articleView.html?idxno=209367",
+    "summary": "보안 연구를 위해 개발된 인공지능 해킹 에이전트가 허가된 시험 환경을 벗어나 실제 기업 시스템에 접근하고 고객정보를 대량으로 수집한 사건이 확인됐다. 공격자는 사이버범죄 조직이 아니라 보안 연구자가 운영하던 AI 에이전트였으며, 연구자는 의도하지 않은 침해사고였다고 설명했다.미국 기업용 인증·사용자 관리 플랫폼 기업 워크OS(WorkOS)는 11월 6일 공식 보안 공지를 통해 지난 10월 발생한 내부 시스템 침해사고의 조사 결과를 공개했다.워크OS에 따르면 이번 사고는 보안 연구자가 자율형 침투시험 프레임워크인 아르텍스(ARTEX)",
+    "source": "데일리시큐",
+    "region": "국내",
+    "published": "2026-11-07 15:21",
+    "published_sort": "2026-11-07T15:21:48+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": true,
+    "sec_hits": [
+      "해킹",
+      "침해사고",
+      "보안 공지"
+    ]
+  },
+  {
+    "title": "깃허브에 가짜 보안도구 심어 해킹, 윈도 PC 2,000대 이상 감염",
+    "link": "https://www.dailysecu.com/news/articleView.html?idxno=209366",
+    "summary": "개발자들이 소스코드와 보안도구를 공유하는 깃허브(GitHub)가 사이버공격의 유포 경로로 악용되고 있다. 공격자들이 정상적인 보안도구로 위장한 악성 프로젝트를 배포해 보안 전문가와 개발자를 감염시키는 공격을 벌였으며, 지금까지 윈도 PC 2,000대 이상이 감염된 것으로 파악됐다.러시아 보안기업 닥터웹(Dr.Web)은 11월 5일 공개한 기술 분석 보고서에서 깃허브에 등록된 악성 개발 프로젝트를 통해 백도어와 정보탈취 악성코드가 유포되고 있다고 밝혔다.공격자들은 네트워크 스캔 자동화, 보안 시스템 테스트, 로그 분석 등 보안 실무에",
+    "source": "데일리시큐",
+    "region": "국내",
+    "published": "2026-11-07 15:13",
+    "published_sort": "2026-11-07T15:13:04+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": true,
+    "sec_hits": [
+      "해킹",
+      "악성코드",
+      "백도어"
+    ]
+  },
+  {
+    "title": "[AI 이슈트렌드] 강호동 구속영장 1위…미 중간선거·바이낸스 해킹 뒤이어",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217129",
+    "summary": "AI타임스와 이스트에이드의 11월 첫째 주(10월30일~11월5일) 이슈 분석 결과, 농협중앙회장 구속영장 신청을 포함해 민주당이 석권한 미국 중간선거와 역대 최대 규모의 바이낸스 해킹 소식 등이 상위권을 차지했다.이번 주 검색량 1위는 '강호동 구속영장(7.74%)'이 차지했다. 서서울경찰청 반부패수사대는 강 회장이 2024년 농협중앙회장 선거를 전후해 계열사 거래처 대표로부터 1억 원이 넘는 금품을 받은 혐의로 지난 3일 구속영장을 신청했다.이후 공소청은 6일 주요 혐의가 충분히 소명되지 않았고 구속 필요성이 부족하다며 영장을",
+    "source": "AI타임스",
+    "region": "국내",
+    "published": "2026-11-07 15:08",
+    "published_sort": "2026-11-07T15:08:35+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": true,
+    "sec_hits": [
+      "해킹"
+    ]
+  },
+  {
+    "title": "[주의] 체이널리시스 AI 해킹으로 전체 사용자 인증정보 노출, 가상자산 거래 감시 서비스까지 중단",
+    "link": "https://www.dailysecu.com/news/articleView.html?idxno=209365",
+    "summary": "세계적인 블록체인 분석기업 체이널리시스(Chainalysis)가 사이버공격을 받아 전체 사용자와 관련된 인증정보가 공격자에게 노출된 사실을 확인했다. 일부 고객의 비밀번호가 별도의 통신 경로상 공격으로 노출됐으며, 가상자산 거래 감시 시스템에서도 비정상적인 접근 정황이 발견되면서 주요 서비스가 잇따라 중단됐다.체이널리시스는 지난 10월 30일 외부 공격자의 내부 시스템 무단 접근 사실을 공개한 뒤 조사 결과를 순차적으로 발표했다. 11월 4일 미국 동부시간 오후 11시 공개한 업데이트에서는 전체 사용자와 관련된 이름, 사용자명, 비",
+    "source": "데일리시큐",
+    "region": "국내",
+    "published": "2026-11-07 15:07",
+    "published_sort": "2026-11-07T15:07:43+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": true,
+    "sec_hits": [
+      "해킹"
+    ]
+  },
+  {
+    "title": "[AIS 2026] 브로드컴 이요한 이사 \"AI 해킹 빨라지는데 패치는 제자리…방치된 오픈소스가 공격 통로 된다”",
+    "link": "https://www.dailysecu.com/news/articleView.html?idxno=209364",
+    "summary": "서비스 장애가 우려돼 업데이트를 미루는 동안, 공격자는 인공지능으로 취약점을 분석하고 공격 코드를 준비한다. 기업이 수년간 별다른 문제 없이 운영해 온 시스템도 보안 패치가 중단된 구성요소를 품고 있다면 빠르게 공격 표적이 될 수 있다. AI 시대 보안의 과제로 새로운 방어 기술 도입과 함께 기존 시스템에 쌓인 취약점 해소가 보안 이슈로 떠오르고 있다. 브로드컴 코리아 이요한 이사는 11월 3일 서울 한국과학기술회관 국제회의실에서 열린 ‘2026 인공지능 보안 컨퍼런스(AIS 2026)’에서 ‘방치된 취약점, AI 해킹의 완벽한 표",
+    "source": "데일리시큐",
+    "region": "국내",
+    "published": "2026-11-07 15:03",
+    "published_sort": "2026-11-07T15:03:08+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": true,
+    "sec_hits": [
+      "취약점",
+      "해킹",
+      "보안 패치"
+    ]
+  },
+  {
+    "title": "Discogs’ Kevin Lewandowski can’t live without his AeroPress",
+    "link": "https://www.theverge.com/tech/1029474/discogs-kevin-lewandowski-aeropress-interview",
+    "summary": "Twenty-five years ago, Kevin Lewandowski founded Discogs, arguably the destination online for obsessive vinyl collectors and music nerds of all stripes. It is a marketplace for buying and selling records, obviously, but it's also become so much more. It's a shockingly comprehensive database that cov",
+    "source": "The Verge",
+    "region": "해외",
+    "published": "2026-11-07 09:45",
+    "published_sort": "2026-11-07T14:45:08+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "Good riddance, Cybertruck!",
+    "link": "https://www.theverge.com/transportation/1029460/elon-musk-cybertruck-death-election-backlash",
+    "summary": "I'm calling it: time of death, November 6th, 1:30 AM, by tweet. Elon Musk's declaration Friday that Tesla would be \"winding down\" production of the Cybertruck next year to make room for the Cybercab was fascinating for a number of reasons. First, it was a humiliating way to kill a vehicle that was o",
+    "source": "The Verge",
+    "region": "해외",
+    "published": "2026-11-07 09:40",
+    "published_sort": "2026-11-07T14:40:06+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "Costco members can get $5 off the reimagined Ocarina of Time",
+    "link": "https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale",
+    "summary": "While some retailers were offering preorder discounts on the remastered Legend of Zelda: The Ocarina of Time, it’s not too late to save if you missed out. Costco members can currently get $5 off the digital version online, bringing the price down to $54.99. Considering an annual Costco membership ru",
+    "source": "The Verge",
+    "region": "해외",
+    "published": "2026-11-07 09:12",
+    "published_sort": "2026-11-07T14:12:11+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands",
+    "link": "https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/",
+    "summary": "Scammers are impersonating major brands and celebrities to lure consumers into fake gift card giveaways that collect personal information and trigger unwanted subscriptions. CTM360 reveals how these campaigns use deceptive verification steps and affiliate networks to generate revenue without deliver",
+    "source": "BleepingComputer",
+    "region": "해외",
+    "published": "2026-11-07 09:10",
+    "published_sort": "2026-11-07T14:10:19+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "[AIS 2026] 안병욱 깃랩 SA \"코딩은 AI 속도, 취약점 처리는 사람 속도…검증·조치 함께 자동화해야”",
+    "link": "https://www.dailysecu.com/news/articleView.html?idxno=209362",
+    "summary": "쿠폰 할인 기능을 추가하기 위해 AI에 코드 작성을 맡겼다고 가정해 보자. 기능이 정상적으로 작동하고 테스트까지 통과했다면 곧바로 서비스에 반영해도 될까. 쿠폰 중복 사용을 허용하는 업무 로직의 허점이나 입력값 처리 취약점까지 확인했는지, 누가 변경을 승인했는지에 따라 답은 달라진다.11월 3일 서울 한국과학기술회관 국제회의실에서 열린 ‘2026 인공지능 보안 컨퍼런스(AIS 2026)’에서 깃랩(GitLab) 안병욱 솔루션 아키텍트(Solutions Architect)는 AI 코딩 에이전트를 기업 개발 환경에 도입하기 위한 조건으",
+    "source": "데일리시큐",
+    "region": "국내",
+    "published": "2026-11-07 14:05",
+    "published_sort": "2026-11-07T14:05:07+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": true,
+    "sec_hits": [
+      "취약점"
+    ]
+  },
+  {
+    "title": "PHP 메모리 오류 악용해 서버 침투…SK쉴더스, 패치·재시작 권고",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=677918",
+    "summary": "웹사이트 개발에 널리 사용되는 프로그래밍 언어 PHP에서 발견된 'PHP2Shell' 취약점을 악용하면 별도의 로그인 없이도 웹서버에서 임의의 명령을 실행할 수 있는 것으로 나타났다. 공격자가 조작된 파일 업로드 요청으로 서버에 메모리 부족 오류를 일으킨 뒤 정상적으로 정리되지 않은 메모리를 악용하는 방식이다.이번 취약점은 웹사이트의 개별 개발 오류가 아닌 PHP의 메모리 관리와 요청 처리 과정에서 발생한다. 서로 다른 두 취약점이 동일한 메모리 오류에서 출발하면서도 각각 독립적인 공격 경로를 형성한다는 점에서 주의가 요구된다. S",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-11-07 14:00",
+    "published_sort": "2026-11-07T14:00:00+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": true,
+    "sec_hits": [
+      "취약점"
+    ]
+  },
+  {
+    "title": "Zelda is back and better than ever",
+    "link": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
+    "summary": "Hi, friends! Welcome to Installer No. 151, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, get psyched because it's officially Bad Holiday Movie Season, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about A",
+    "source": "The Verge",
+    "region": "해외",
+    "published": "2026-11-07 08:49",
+    "published_sort": "2026-11-07T13:49:01+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "UI/UX"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "[AIS 2026] 엔키화이트햇 장호민 팀장 \"금융권 해킹, 정문보다 업무지원 서비스 노렸다…암호화했어도 안심 못 해”",
+    "link": "https://www.dailysecu.com/news/articleView.html?idxno=209361",
+    "summary": "대표 홈페이지의 보안을 강화해도 직원과 협력사가 사용하는 업무지원 서비스에 빈틈이 있으면 고객정보를 지키기 어렵다. 서버에 저장한 데이터가 암호화돼 있더라도 공격자가 복호화에 필요한 키나 실행 권한까지 확보했다면 실제 피해 범위는 달라진다. 금융권 연쇄 침해사고에 대응하려면 외부 접점부터 핵심 데이터까지 연결되는 공격 경로를 검증해야 한다.데일리시큐가 주최하고 한국인터넷진흥원(KISA)과 한국정보보호산업협회(KISIA)가 후원한 ‘2026 인공지능 보안 컨퍼런스(AIS 2026)’가 11월 3일 서울 한국과학기술회관 국제회의실에서",
+    "source": "데일리시큐",
+    "region": "국내",
+    "published": "2026-11-07 13:42",
+    "published_sort": "2026-11-07T13:42:00+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": true,
+    "sec_hits": [
+      "해킹",
+      "침해사고"
+    ]
+  },
+  {
+    "title": "[라그나로크 페스타] 기타무라 요시노리 그라비티 대표 \"라그나로크, 글로벌 생태계 도약할 것\"",
+    "link": "https://www.techm.kr/news/articleView.html?idxno=157048",
+    "summary": "기타무라 요시노리 그라비티 공동대표가 전 세계 라그나로크 팬들과 함께 '위 아 라그나로크(We are Ragnarok)'를 외치며 글로벌 게임 축제의 시작을 알렸다. 내년 25주년을 맞이하는 라그나로크 IP의 성과를 바탕으로 전 세계 이용자들을 연결하는 글로벌 생태계로 도약하겠다는 의지도 밝혔다. 기타무라 요시노리 공동대표는 7일(현지시간) 태국 방콕 엠스피어 몰 내 UOB 라이브홀에서 열린 '라그나로크 페스타 2026' 개막식에서 \"그라비티는 세계에서 가장 재미있고 흥미로운 게임을 만들기 위해 노력하고 있으며 앞으로도 게임을 통해",
+    "source": "테크M",
+    "region": "국내",
+    "published": "2026-11-07 13:29",
+    "published_sort": "2026-11-07T13:29:44+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "[e스포츠人] 북미 서버 접수한 '페이커' 이상혁 \"BLG전, T1표 설계와 팀워크로 넘겠다\"",
+    "link": "https://www.techm.kr/news/articleView.html?idxno=157047",
+    "summary": "T1의 심장이자 전설인 '페이커' 이상혁이 특유의 여유와 자신감 넘치는 한마디로 롤드컵 4연패를 향한 의지를 드러냈습니다.T1은 7일 카르민 코프(KC)와의 8강전에서 3대1 승리를 거두며 6년 연속 준결승 진출과 함께 월즈 녹아웃 스테이지 10연승이라는 대기록을 이어갔습니다. 위기의 순간마다 터져 나온 교전 집중력과 정교한 설계가 빚어낸 완승이었습니다.경기를 마친 뒤 만난 '페이커'는 \"오늘 경기는 교전에서 팀워크가 굉장히 좋았고, 팀 차원에서 설계했던 대로 잘 흘러가서 이길 수 있었다\"고 담담하게 승리 소감을 전했습니다.스위스",
+    "source": "테크M",
+    "region": "국내",
+    "published": "2026-11-07 13:15",
+    "published_sort": "2026-11-07T13:15:36+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "[AIS 2026] 포티넷 김수영 상무 “LLM부터 AI 에이전트까지, 통합 통제와 반복 검증 필수”",
+    "link": "https://www.dailysecu.com/news/articleView.html?idxno=209360",
+    "summary": "데일리시큐가 주최하고 한국인터넷진흥원(KISA)과 한국정보보호산업협회(KISIA)가 후원한 ‘2026 인공지능 보안 컨퍼런스(AIS 2026)’가 11월 3일 서울 한국과학기술회관 국제회의실에서 700여 명의 보안담당자와 관계자가 참석한 가운데 개최됐다.이날 ‘LLM부터 Agentic AI까지 보호하는 통합 AI 보안 전략’을 주제로 강연한 포티넷코리아 김수영 상무는 대규모 언어모델(LLM)과 에이전틱 AI(Agentic AI)의 공격 표면을 설명하고, 데이터가 오가는 경로에서 입력·출력·행동을 통합 관리하는 보안 전략을 제시했다.",
+    "source": "데일리시큐",
+    "region": "국내",
+    "published": "2026-11-07 13:08",
+    "published_sort": "2026-11-07T13:08:21+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "[AIS 2026] 윤광택 본부장 'AI로 빨라진 해킹, 실제 악용되는 취약점부터 찾아 대응해야\"",
+    "link": "https://www.dailysecu.com/news/articleView.html?idxno=209359",
+    "summary": "데일리시큐가 주최하고 한국인터넷진흥원(KISA)과 한국정보보호산업협회(KISIA)가 후원한 ‘2026 인공지능 보안 컨퍼런스(AIS 2026)’가 11월 3일 서울 한국과학기술회관 국제회의실에서 700여 명의 보안담당자와 관계자가 참석한 가운데 개최됐다.이날 윤광택 레코디드퓨쳐(Recorded Future) 본부장은 ‘빨라지는 AI 공격, 더 똑똑해지는 인텔리전스: Recorded Future가 그리는 AI 시대 보안 운영의 미래’를 주제로 강연했다. 윤 본부장은 AI로 빨라지는 공격을 사람이 일일이 분석하고 대응하는 방식으로 따라",
+    "source": "데일리시큐",
+    "region": "국내",
+    "published": "2026-11-07 12:52",
+    "published_sort": "2026-11-07T12:52:17+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": true,
+    "sec_hits": [
+      "취약점",
+      "해킹"
+    ]
+  },
+  {
+    "title": "[라그나로크 페스타] \"언더독의 반란은 이제 시작이죠\"...블랙 앵거스 \"모닝스타 잡고 우승할게요\"",
+    "link": "https://www.techm.kr/news/articleView.html?idxno=157042",
+    "summary": "\"한번 물면 내려놓지 않습니다. 한국에서도 언더독이었던 만큼 태국에서도 반란을 일으키겠습니다\"그라비티의 라그나로크 온라인 글로벌 e스포츠 대회 '라그나로크 온라인 스타즈(ROS) 2026'에 한국 대표로 출전하는 블랙 앵거스가 강한 자신감을 드러냈다. 한국 최강팀을 꺾고 태국 파이널 무대에 오른 만큼 언더독의 발란을 일으키겠다는 포부다. 목표는 단 하나, 우승이다. 7일(현지시간) 태국 방콕에서 만난 블랙 앵거스 팀장 '블랙 드래곤' 이승환 선수는 \"고생해서 여기까지 오게 된 만큼 좋은 성과를 내 돌아가겠다\"고 포부를 밝혔다. 블랙",
+    "source": "테크M",
+    "region": "국내",
+    "published": "2026-11-07 12:48",
+    "published_sort": "2026-11-07T12:48:55+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "'패스 오브 엑자일2' 12월 정식 출시...메인 스토리 완결·신규 직업 등 콘텐츠 확장",
+    "link": "https://www.techm.kr/news/articleView.html?idxno=157044",
+    "summary": "카카오게임즈가 국내 서비스하는 글로벌 인기 온라인 게임 '패스 오브 엑자일2(POE2)'가 12월 정식 출시를 앞두고 다가올 변화에 대한 소식을 전했다. 게임 내 메인 스토리의 결말이 그려지는 한편, 새로운 직업과 수많은 보스 몬스터 등 풍성한 분량의 신규 콘텐츠가 이용자들을 찾는다.'패스 오브 엑자일(POE)' 시리즈 개발사 그라인딩 기어 게임즈는 7일 '엑자일콘 2026'의 개막을 알리고 향후 POE를 찾아올 갖은 업데이트에 관한 소식을 전했다. 엑자일콘은 매년 POE 시리즈 팬들을 위해 펼쳐지는 행사다. 조나단 로저스 POE2",
+    "source": "테크M",
+    "region": "국내",
+    "published": "2026-11-07 12:44",
+    "published_sort": "2026-11-07T12:44:56+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "기타"
+    ],
+    "flag": true,
+    "flag_hits": [
+      "정식 출시"
+    ],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "[라그나로크 페스타] e스포츠부터 신작 체험·공연까지...그라비티, 글로벌 팬심 하나로 모았다",
+    "link": "https://www.techm.kr/news/articleView.html?idxno=157046",
+    "summary": "그라비티가 태국 방콕에서 라그나로크 IP를 활용한 글로벌 게임 축제를 통해 전 세계 팬들과 소통한다. e스포츠 대회 뿐만 아니라 신작 게임 체험, 아티스트의 공연 등 다양한 프로그램을 마련하고 게임으로 하나된 경험을 제공하겠다는 의지다. 그라비티는 7일(현지시간) 태국 방콕 엠스피어 몰 내 UOB 라이브홀에서 '라그나로크 페스타 2026'을 개최했다. 이번 행사는 라그나로크의 항구도시인 '알베르타'를 모티브로 한 '멜로디 오브 알베르타'를 메인 테마로 꾸려졌다. 현장에는 다양한 게임 체험형 부스가 마련됐다. 공연과 개막식을 시작으로",
+    "source": "테크M",
+    "region": "국내",
+    "published": "2026-11-07 12:43",
+    "published_sort": "2026-11-07T12:43:19+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "[롤드컵 브리핑] 젠지 완승에 T1 뒷심까지...4강 오른 LCK, 한중전 돌입",
+    "link": "https://www.techm.kr/news/articleView.html?idxno=157045",
+    "summary": "2026 리그 오브 레전드 월드 챔피언십(롤드컵) 녹아웃 스테이지 8강이 마무리되며 준결승 진출 팀이 모두 가려졌습니다.LCK는 젠지와 T1이 나란히 승전고를 울리며 4강 진출에 성공한 반면, 디플러스 기아(DK)는 중국 LPL의 벽에 막혀 아쉽게 이번 여정을 마무리했습니다. 4강에서는 젠지와 T1 모두 LPL팀과 맞대결하며 한국과 중국의 정면 승부가 예고됐습니다.젠지, LYON 3대0 완파...흔들림 없는 운영으로 3년 연속 4강 안착젠지는 8강 첫 경기에서 LYON을 상대로 세트 스코어 3대0 완승을 거두며 가장 먼저 4강 티켓",
+    "source": "테크M",
+    "region": "국내",
+    "published": "2026-11-07 12:20",
+    "published_sort": "2026-11-07T12:20:06+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "The Bantu expansion changed Africa. Scientists are still tracing how.",
+    "link": "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/",
+    "summary": "Genes and archaeology are revealing how Bantu speakers spread across much of Africa.",
+    "source": "Ars Technica",
+    "region": "해외",
+    "published": "2026-11-07 12:15",
+    "published_sort": "2026-11-07T12:15:55+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "[AIS 2026] AI가 정찰부터 정보탈취까지…KISA 김도원 팀장 “공격 자동화 대비해야”",
+    "link": "https://www.dailysecu.com/news/articleView.html?idxno=209358",
+    "summary": "인공지능(AI)이 해킹 문구와 코드를 작성하는 보조 도구를 넘어 정찰, 취약점 탐색, 침투, 데이터 수집을 수행하는 단계로 발전하면서 기업의 보안 대응체계에도 변화가 요구되고 있다. 공격에 악용되는 취약점을 신속히 조치하는 동시에 계정과 접근 권한, 내부 시스템 연결, 백업 복구체계를 함께 점검해야 한다는 것이다.김도원 한국인터넷진흥원(KISA) AI종합분석팀 팀장은 11월 3일 서울 한국과학기술회관 국제회의실에서 열린 ‘2026 인공지능 보안 컨퍼런스(AIS 2026)’에서 ‘AI시대 사이버 위협 동향과 대응방안’을 주제로 강연했",
+    "source": "데일리시큐",
+    "region": "국내",
+    "published": "2026-11-07 12:11",
+    "published_sort": "2026-11-07T12:11:20+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": true,
+    "sec_hits": [
+      "취약점",
+      "해킹"
+    ]
+  },
+  {
+    "title": "카카오뱅크, 대출증가율 초점…'총량 밖' 승부수 띄운다",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=677991",
+    "summary": "카카오뱅크가 가계대출 성장 둔화를 극복하기 위해 분양잔금대출 시장 공략에 나섰다. 정부가 집단대출을 은행별 가계대출 총량 목표와 분리해 관리하면서 새로운 성장 기회가 열렸다. 3분기 대출 증가율이 0.8%에 그친 반면 수신은 7.0% 늘어 여신 확대의 필요성도 커졌다. 관건은 대출 성장세 회복이 실제 수익성 개선으로 이어질 수 있느냐다.7일 카카오뱅크에 따르면 3분기 말 여신 잔액은 48조6000억원으로 전분기 대비 0.8% 증가했다. 주택담보대출은 14조8000억원에서 15조3000억원으로, 개인사업자대출은 3조7000억원에서 4",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-11-07 12:00",
+    "published_sort": "2026-11-07T12:00:00+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
     "title": "[위클리 IT템] 성능에 취향을 더하다...캐릭터 입은 IT템 3선",
     "link": "https://www.techm.kr/news/articleView.html?idxno=157043",
     "summary": "IT 기기의 경쟁이 성능을 넘어 취향으로 확장되고 있다. 인기 캐릭터를 활용한 지식재산권(IP) 협업으로 익숙한 제품에 새로운 구매 이유를 더하는 전략도 그중 하나다. 캐릭터의 색상과 디자인을 입히는 것은 물론, 사용 경험에 세계관을 접목하는 등 협업 방식도 다양해지고 있다.헤드폰에 헬로키티 감성을...소니 한정판 컬렉션소니코리아는 산리오의 대표 캐릭터 헬로키티와 협업한 한정판 컬렉션을 선보였다. 프리미엄 오디오 기술과 헬로키티의 친근한 이미지를 결합해 소니 오디오 제품을 애용하는 소비자들에게 색다른 즐거움과 소장 가치를 제공한다.",
@@ -10,6 +1337,23 @@
     "collected_at": "2026-11-07 02:29",
     "tags": [
       "UI/UX"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
+    "link": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/",
+    "summary": "Soldier told repeatedly to lock down devices before deploying, got sextorted, court-martialed.",
+    "source": "Ars Technica",
+    "region": "해외",
+    "published": "2026-11-07 11:00",
+    "published_sort": "2026-11-07T11:00:34+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "AI/신기술"
     ],
     "flag": false,
     "flag_hits": [],
@@ -102,6 +1446,27 @@
     "sec_hits": []
   },
   {
+    "title": "SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins",
+    "link": "https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/",
+    "summary": "CVE-2026-19868 can let attackers holding credentials for a different login method get past SAML checks, including SAML-enforced MFA. The post SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins appeared first on SecurityWeek .",
+    "source": "SecurityWeek",
+    "region": "해외",
+    "published": "2026-11-07 10:16",
+    "published_sort": "2026-11-07T10:16:23+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": true,
+    "sec_hits": [
+      "vulnerabilit",
+      "cve-2026-19868",
+      "exploited"
+    ]
+  },
+  {
     "title": "오픈AI CFO \"중간선거 결과와 관계없이 데이터센터 투자 계속할 것\"",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=217119",
     "summary": "오픈AI가 미국 중간선거에서 데이터센터 건설에 반대하는 민주당이 압승했음에도 AI 인프라 확장 계획을 유지하겠다고 밝혔다. 지역사회의 반발과 규제 강화 가능성이 커졌지만, 급증하는 AI 수요에 대응하려면 데이터센터 투자가 불가피하다는 입장이다.사라 프라이어 오픈AI CFO는 6일(현지시간) CNBC와의 인터뷰에서 \"중간선거 결과를 생각할 때도 고객 수요를 충족하기 위해 어떻게 투자를 지속할지 고민해야 한다\"고 말했다. 이어 \"필요한 컴퓨팅 자원을 확보할 수 있도록 지역사회와 관계를 구축하는 작업을 계속할 것\"이라고 강조했다.이번 중",
@@ -162,6 +1527,23 @@
     "published": "2026-11-07 09:57",
     "published_sort": "2026-11-07T09:57:09+00:00",
     "collected_at": "2026-11-07 02:29",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "예진, 한국어 특화 8B AI 모델 공개…사전학습부터 독자 개발",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217114",
+    "summary": "AI 전문 예진(대표 고종현)은 한국어에 특화된 80억 매개변수 파운데이션 모델 ‘예진 8B v3’를 개발했다고 6일 밝혔다.예진 8B v3는 해외 공개 모델의 가중치를 쓰지 않고, 토크나이저 설계부터 사전학습까지 전 과정을 직접 수행한 프롬 스크래치 모델이다. 공개 모델 6종과 가중치를 비교한 결과, 유사도가 0.0014 이하로 기존 모델을 미세조정한 파생 모델이 아니라는 설명이다.학습에는 과학기술정보통신부와 정보통신산업진흥원(NIPA)의 ‘고성능 컴퓨팅 지원사업’으로 지원받은 엔비디아 H200 그래픽처리장치(GPU) 8장을 활용",
+    "source": "AI타임스",
+    "region": "국내",
+    "published": "2026-11-07 09:55",
+    "published_sort": "2026-11-07T09:55:00+00:00",
+    "collected_at": "2026-11-08 01:58",
     "tags": [
       "AI/신기술"
     ],
@@ -513,6 +1895,74 @@
     "sec_hits": []
   },
   {
+    "title": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
+    "link": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
+    "summary": "Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them. When a user selects \"Yes, and don't ask again,\" Anthropic's AI coding assistant can save the command, word-for-word, including the secret, in",
+    "source": "The Hacker News",
+    "region": "해외",
+    "published": "2026-11-07 12:14",
+    "published_sort": "2026-11-07T06:44:17+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "AI broke the cybersecurity world. What’s next?",
+    "link": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+    "summary": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I’ve always enjoyed talking to Alex because he’s so direct, and you’re go",
+    "source": "The Verge",
+    "region": "해외",
+    "published": "2026-11-07 00:43",
+    "published_sort": "2026-11-07T05:43:11+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "Sequoia shutting down its Scouts program marks the end of an era",
+    "link": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
+    "summary": "Sequoia pioneered the scouts model and many VC firms followed suit, but a consensus now seems to be forming that the model has reached limits in its current form.",
+    "source": "TechCrunch",
+    "region": "해외",
+    "published": "2026-11-07 05:01",
+    "published_sort": "2026-11-07T05:01:54+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "UI/UX"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
+    "link": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
+    "summary": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about to do.",
+    "source": "TechCrunch",
+    "region": "해외",
+    "published": "2026-11-07 04:16",
+    "published_sort": "2026-11-07T04:16:43+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
     "title": "[라그나로크 페스타] 크루즈 위에 펼쳐진 화합의 장...\"우리는 모두 라그나로크였다\"",
     "link": "https://www.techm.kr/news/articleView.html?idxno=157041",
     "summary": "태국 방콕의 밤이 '라그나로크'를 중심으로 하나로 이어졌다. 서로 다른 언어와 문화를 가진 사람들이 한 자리에 모였지만, 게임이라는 공통 분모 아래 자연스럽게 교류하며 시종일관 즐거운 표정이었다. 밝은 웃음과 인사가 오가는 교류를 통해 국경을 넘어 게임 중심의 소통이 이뤄지는 자리였다. 그라비티는 6일(현지시간) 태국 방콕에서 '라그나로크 페스타 2026'의 주요 행사 중 하나인 '게더링 나잇'을 진행했다. 이번 행사는 라그나로크 IP를 중심으로 활동하는 각국의 관계자와 파트너, 선수들이 한데 어우러져 네트워크를 넓히는데 초점을 맞",
@@ -651,6 +2101,23 @@
     "flag_hits": [
       "의무화"
     ],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "The UV-tracking Gem made me rethink how sunlight affects my health, not just my appearance",
+    "link": "https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions",
+    "summary": "With temperatures rising to the 90s in Los Angeles, avoiding the heat wasn't exactly an option while I was at a relative's outdoor party in August. So I sat beneath a patio umbrella with a powerful fan nearby, figuring I was protected from the sun and heat. Half an hour later, I felt exhausted, dizz",
+    "source": "The Verge",
+    "region": "해외",
+    "published": "2026-11-06 19:30",
+    "published_sort": "2026-11-07T00:30:23+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
     "sec": false,
     "sec_hits": []
   },
@@ -1097,6 +2564,24 @@
     "collected_at": "2026-11-07 02:29",
     "tags": [
       "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+    "summary": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's according to a new report published Thursday by the AI safety research organizatio",
+    "source": "The Verge",
+    "region": "해외",
+    "published": "2026-11-06 16:48",
+    "published_sort": "2026-11-06T21:48:06+00:00",
+    "collected_at": "2026-11-08 01:58",
+    "tags": [
+      "AI/신기술",
+      "UI/UX"
     ],
     "flag": false,
     "flag_hits": [],
