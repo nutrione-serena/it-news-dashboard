@@ -1,5 +1,1111 @@
 [
   {
+    "title": "'금' 거래 밀고 'IT' 끌고…아이티센글로벌 3분기 누적 매출 7조 돌파",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=678604",
+    "summary": "아이티센글로벌의 올해 1~3분기 누적 매출이 7조원을 돌파했다. 2021년 같은 기간과 비교하면 5년 새 매출 규모가 3.1배로 커졌다. 금 거래를 중심으로 한 웹3 사업이 매출 성장을 이끌었고 정보기술(IT) 서비스 부문은 영업이익을 3배 이상 늘렸다. 5년 새 매출 3.1배…금 거래 중심으로 성장15일 금융감독원 전자공시시스템에 따르면 아이티센글로벌의 올해 1~3분기 누적 매출은 7조1114억원(이하 연결기준)으로 전년 동기 4조6306억원보다 53.6% 증가했다. 같은 기간 영업이익은 1199억원에서 1013억원으로 15.5%",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-11-15 11:00",
+    "published_sort": "2026-11-15T11:00:00+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "[CPS 시큐어 AX 서밋 2026] 송재은 앤앤에스피 본부장, OT 망연계 기술 소개",
+    "link": "https://www.dailysecu.com/news/articleView.html?idxno=209528",
+    "summary": "산업제어망에서 수집한 설비 데이터를 인공지능(AI) 분석에 활용하려면 외부로 보낼 데이터의 범위를 정해야 한다. 외부에서 받은 보안 패치를 제어망에 들여올 때는 파일의 안전성과 설비 운영에 미칠 영향을 함께 확인해야 한다. 송재은 앤앤에스피(NNSP) 본부장은 13일 서울 양재 엘타워에서 열린 ‘CPS(OT/ICS) Secure AX Summit 2026’에서 망분리를 유지하면서 허용된 데이터만 검증해 전달하는 망연계 보안 기술(CDS·Cross Domain Solution)을 소개했다.‘AX 시대, 산업현장의 안전한 연결과 안정적",
+    "source": "데일리시큐",
+    "region": "국내",
+    "published": "2026-11-15 10:33",
+    "published_sort": "2026-11-15T10:33:51+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": true,
+    "sec_hits": [
+      "보안 패치"
+    ]
+  },
+  {
+    "title": "[CPS 시큐어 AX 서밋 2026] 김기현 앤앤에스피 CTO “제어망 보안 경보와 통신 품질 함께 봐야”",
+    "link": "https://www.dailysecu.com/news/articleView.html?idxno=209527",
+    "summary": "산업제어망에서 장비 응답이 늦어지거나 통신이 끊기면 보안팀은 공격 가능성을, 설비 운영팀은 장비나 네트워크 장애 가능성을 먼저 살핀다. 원인을 가리려면 두 팀이 같은 시간대의 보안 경보와 통신 품질 데이터를 함께 봐야 한다.김기현 앤앤에스피(NNSP) 최고기술책임자(CTO)는 13일 서울 양재 엘타워에서 열린 ‘CPS(OT/ICS) Secure AX Summit 2026’에서 이 같은 운영기술(OT) 제어망 통합 모니터링 전략을 제시했다. 현장 진단에서는 시험 때 사용한 설정이 실제 운영망에 남아 불필요한 통신을 일으키고, 제어장비",
+    "source": "데일리시큐",
+    "region": "국내",
+    "published": "2026-11-15 10:22",
+    "published_sort": "2026-11-15T10:22:44+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "[CPS 시큐어 AX 서밋 2026] “산업제어망 보안, 솔루션 도입 전 설비 연결 구조부터 파악해야”",
+    "link": "https://www.dailysecu.com/news/articleView.html?idxno=209526",
+    "summary": "김수득 후디스코리아(h00dies Korea) 법인장은 13일 서울 양재 엘타워에서 열린 ‘CPS(OT/ICS) Secure AX Summit 2026’에서 산업제어망 해킹이 생산 중단과 설비 안전 문제로 번질 수 있다며 운영기술(OT) 환경에 맞는 사고 보고·복구 체계를 마련해야 한다고 밝혔다. 정부에는 제어설비 피해를 반영한 보고 기준과 관계기관 공조 체계를, 기업에는 제어망 연결 구조 점검과 업종별 복구 절차 마련을 제안했다.김 법인장은 ‘CPS(OT/ICS) 위협 동향과 국가·기반시설 보안 정책 대응 전략’을 주제로 한 초청",
+    "source": "데일리시큐",
+    "region": "국내",
+    "published": "2026-11-15 10:07",
+    "published_sort": "2026-11-15T10:07:03+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "법규/정책"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": true,
+    "sec_hits": [
+      "해킹"
+    ]
+  },
+  {
+    "title": "기업 자금줄 선점 경쟁…은행이 '공급망 금융'에 꽂힌 까닭",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=678560",
+    "summary": "은행권 기업금융 영업이 개별 기업에서 공급망 전체로 넓어지고 있다. 원자재를 사고 제품을 만들어 대금을 받기까지 필요한 금융을 제공하면서 구매기업과 협력사를 함께 확보하는 방식이다. 기업의 반복적인 상거래에 은행 서비스를 결합해 거래 기반을 넓히는 경쟁이 본격화하는 모습이다.15일 금융권에 따르면 KB국민·신한·하나·우리·NH농협은행은 플랫폼 연계 대출과 보증부 생산자금 지원 등 공급망 금융 서비스를 확대하고 있다. 이달 신한은행의 카드결제 연계 대출과 우리은행의 발주정보 기반 상품이 더해지면서 은행별 공략 지점도 구체화되고 있다.",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-11-15 10:00",
+    "published_sort": "2026-11-15T10:00:00+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "메타엠 고객상담 시스템 해킹…전화번호·상담 내용 등 개인정보 유출 확인",
+    "link": "https://www.dailysecu.com/news/articleView.html?idxno=209525",
+    "summary": "국내 고객상담 서비스 전문기업 메타엠(MetaM)이 해킹 공격을 받아 일부 고객상담 시스템에 저장된 전화번호와 상담 대화 내용 등 개인정보가 무단 조회되거나 외부로 반출된 정황이 확인됐다. 메타엠은 11월 12일 오전 6시 3분 고객상담 서비스 장애를 계기로 침해사고를 인지했으며, 조사 과정에서 이전부터 일부 서비스에 비정상적인 접근이 있었던 사실도 파악했다. 회사는 13일 한국인터넷진흥원(KISA)에 사고를 신고하고 피해 고객사와 개인정보 유출 범위를 조사하고 있다.메타엠은 11월 14일 자사 홈페이지에 ‘개인정보 유출 및 유출",
+    "source": "데일리시큐",
+    "region": "국내",
+    "published": "2026-11-15 09:22",
+    "published_sort": "2026-11-15T09:22:39+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": true,
+    "sec_hits": [
+      "해킹",
+      "침해사고",
+      "정보 유출"
+    ]
+  },
+  {
+    "title": "[롤드컵 브리핑] LCK 독식 끝났다...'바이퍼' 앞세운 BLG, LCK 4팀 모두 꺾고 롤드컵 우승",
+    "link": "https://www.techm.kr/news/articleView.html?idxno=157360",
+    "summary": "빌리빌리 게이밍(BLG)이 젠지 e스포츠를 꺾고 2026 리그 오브 레전드 월드 챔피언십(롤드컵) 챔피언 자리에 올랐습니다. 한국 시각으로 15일 미국 뉴욕 바클레이스 센터에서 열린 롤드컵 결승전에서 젠지는 치열한 접전 끝에 세트 스코어 1대3으로 패하며 9년 만의 정상 탈환이 좌절됐습니다. 반면 BLG는 창단 첫 롤드컵 우승을 차지함과 동시에 지난 4년간 이어져 온 리그오브레전드 챔피언스 코리아(LCK)의 롤드컵 독식을 깨고 중국 LPL의 부활을 알렸습니다.특히 BLG는 이번 대회에서 한화생명e스포츠, 디플러스 기아, T1에 이어",
+    "source": "테크M",
+    "region": "국내",
+    "published": "2026-11-15 09:22",
+    "published_sort": "2026-11-15T09:22:16+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "[단독] 한국발명진흥회 '아이디어로' 플랫폼 해킹…악성코드 설치 후 62MB 데이터 외부 유출",
+    "link": "https://www.dailysecu.com/news/articleView.html?idxno=209524",
+    "summary": "한국발명진흥회가 운영하는 '아이디어로(IDEARO)' 플랫폼이 해킹 공격을 받아 약 62MB의 데이터가 외부로 전송된 사실이 확인됐다. 공격자는 플랫폼의 파일 등록 기능에 존재하는 보안 취약점을 악용해 서버에 침입한 뒤 악성 프로그램을 설치·실행한 것으로 파악됐다. 특히 이용자들이 제출한 첨부파일이 보관된 저장장치에도 접근할 수 있었던 것으로 확인돼 개인정보뿐 아니라 사업 참여 과정에서 제출한 자료의 유출 가능성도 조사할 필요가 있는 상황이다.한국발명진흥회는 11월 14일 '개인정보 유출 가능성에 대한 안내' 공지를 통해 아이디어로",
+    "source": "데일리시큐",
+    "region": "국내",
+    "published": "2026-11-15 09:06",
+    "published_sort": "2026-11-15T09:06:59+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": true,
+    "sec_hits": [
+      "취약점",
+      "보안 취약",
+      "해킹"
+    ]
+  },
+  {
+    "title": "커지는 AI 청구서 잡는다…LGU+, '토큰 최적화' 승부수 [현장+]",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=678501",
+    "summary": "인공지능(AI) 에이전트가 기업 업무와 일상에 빠르게 확산하면서 AI 서비스의 핵심 경쟁력이 모델 성능에서 운영 비용 효율화로 이동하고 있다. AI가 복잡한 업무를 수행할수록 추론 과정에서 소비하는 토큰이 급증하기 때문이다. LG유플러스 역시 이러한 시장 변화에 대응해 토큰 최적화 기술 확보에 속도를 내고 있다. 단순히 저렴한 모델을 사용하는 데 그치지 않고 AI 에이전트의 업무 수행 경로부터 모델 선택, 하드웨어 자원 배분까지 전 과정을 최적화한다는 전략이다. 특히 내년부터 관련 사업화에도 본격적으로 나선다. AI 에이전트 확산에",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-11-15 09:00",
+    "published_sort": "2026-11-15T09:00:00+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "LG유플러스 \"2027년 토큰팩토리 진출...'질의·답변·인프라' 효율 극대화\"",
+    "link": "https://www.techm.kr/news/articleView.html?idxno=157352",
+    "summary": "LG유플러스가 2027년 토큰 팩토리 진출을 선언했다. 이로써 통신 3사 모두가 토큰 팩토리 사업을 공식화했다. 토큰 팩토리는 인공지능(AI) 연산 단위인 토큰의 비용 효율화가 목표다. LG유플러스는 적은 비용으로 최대의 결과를 얻기 위해 ▲질문 ▲답변 ▲인프라 각각을 최적화하는 방안을 제시했다.12일 LG유플러스는 서울 서대문구 위드스페이스에서 '토큰 효율화 연구 현황 스터디'를 개최했다.토큰은 AI 정보 처리 단위다. 종량제 AI 이용 과금 단위로도 쓴다. 토큰을 적게 쓰면서도 적절한 결과를 내는 것이 효율화 성패를 가른다. 토",
+    "source": "테크M",
+    "region": "국내",
+    "published": "2026-11-15 09:00",
+    "published_sort": "2026-11-15T09:00:00+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "전문인력 매칭 '모두의잡스’ 해킹 당해 홈페이지 변조…해커는 웹쉘 판매자",
+    "link": "https://www.dailysecu.com/news/articleView.html?idxno=209523",
+    "summary": "전문인력 매칭과 생활 서비스 예약을 제공하는 ‘모두의잡스’ 홈페이지에서 메인 화면이 변조된 정황이 확인됐다. 15일 모두의잡스 대표 도메인(modoojobs.co.kr)을 확인한 결과, 기존 서비스 안내 대신 ‘더 널 소사이어티(The Null Society)’ 명의의 해킹 주장 화면이 표시됐다. 이 화면에 적힌 닉네임은 홈페이지가 연결한 텔레그램 채널의 웹셸 판매 홍보 게시물에도 등장했다. 홈페이지에 ‘CaptainSmok3r’ 닉네임…텔레그램에서 웹쉘 판매자모두의잡스 메인 페이지의 제목은 ‘Hacked By The Null So",
+    "source": "데일리시큐",
+    "region": "국내",
+    "published": "2026-11-15 08:53",
+    "published_sort": "2026-11-15T08:53:59+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": true,
+    "sec_hits": [
+      "해킹",
+      "웹셸"
+    ]
+  },
+  {
+    "title": "MS, 전 세계 서비스 장애 완전 복구…팩스 부활에 밈까지 등장",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217414",
+    "summary": "마이크로소프트(MS)가 전 세계 기업과 정부 기관에 큰 혼란을 일으킨 클라우드 서비스 장애를 완전히 복구했다. 24시간 넘게 이어진 장애로 이메일과 일부 협업 서비스에 장애가 발생하면서 금융기관들은 팩스와 전화 등 구식 통신 수단까지 동원했다. 한편에서는 이메일이 끊긴 덕분에 업무에서 잠시 해방됐다며 반기는 직장인들이 등장했고, 이를 소재로 한 밈도 쏟아졌다.MS는 14일(현지시간) X를 통해 아웃룩과 팀즈를 비롯한 마이크로소프트 365 서비스의 전 세계 장애를 모두 해결했다고 발표했다. \"사고의 근본적인 문제를 해결하기 위한 작업",
+    "source": "AI타임스",
+    "region": "국내",
+    "published": "2026-11-15 08:20",
+    "published_sort": "2026-11-15T08:20:19+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "[롤드컵 브리핑] 매서운 BLG의 스노우볼...젠지, 한타 역전패로 3세트 내주며 '벼랑 끝'",
+    "link": "https://www.techm.kr/news/articleView.html?idxno=157359",
+    "summary": "젠지가 빌리빌리 게이밍(BLG)의 치밀한 운영과 거센 한타 집중력에 밀려 역전패를 당했습니다. 한국 시각으로 15일 미국 뉴욕 바클레이스 센터에서 열린 2026 리그 오브 레전드 월드 챔피언십 결승전 3세트에서 젠지는 초반 오브젝트 싸움에서 우위를 점하고도 중반 이후 연달아 교전에서 패하며 세트 스코어 1대2 역전을 허용, 매치 포인트를 내주고 말았습니다.경기 초반 양팀은 팽팽한 신경전을 이어가며 엎치락뒤치락하는 양상을 보였습니다. 바텀에서 '듀로' 주민규가 먼저 잡히며 BLG이 선취점을 가져갔지만, 젠지는 곧바로 '룰러' 박재혁이",
+    "source": "테크M",
+    "region": "국내",
+    "published": "2026-11-15 08:20",
+    "published_sort": "2026-11-15T08:20:04+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "애니플러스, 영업익 69% 급감…콘텐츠 매출 부진 여파",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=678593",
+    "summary": "애니플러스의 수익성이 큰 폭으로 악화됐다. 주력인 애니메이션 콘텐츠 매출 감소로 본업 실적이 뒷걸음질 친 데다 팬덤 플랫폼과 글로벌 시장으로 사업 구조를 재편하는 과정에서 대규모 투자 지출과 차입 부담까지 불어난 탓이다. 완전 자회사로 편입한 라프텔이 성장세를 이어갔지만 일부 자회사들이 적자를 내며 연결 실적의 발목을 잡았다. 콘텐츠 매출 감소·라프텔 인수에 차입 부담 확대금융감독원 전자공시시스템에 따르면 애니플러스의 올해 3분기 누적 연결 기준 매출액은 922억원으로 전년 동기 대비 18.9% 감소했다. 같은 기간 영업이익은 75",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-11-15 08:00",
+    "published_sort": "2026-11-15T08:00:00+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "엔비디아 투자자들 \"젠슨 황 복귀 검토해야\"…머스크 등 거물 가세",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217413",
+    "summary": "젠슨 황 전 엔비디아 CEO의 복귀를 요구하는 목소리가 실리콘밸리 기술 업계에서 주요 투자자들로 이어지고 있다. 엔비디아 지분 20억달러 이상을 보유한 투자사 두 곳이 이사회에 후임 CEO 선임을 서두르지 말고, 황의 복귀 가능성을 검토하라고 촉구했다. 일론 머스크 CEO 등 기술 업계 거물들도 황의 퇴진이 엔비디아의 사업 경쟁력과 미국 AI 산업에 타격을 줄 수 있다며 복귀를 지지하고 있다.CNBC는 14일(현지시간) 브래드 거스트너 알티미터 캐피털 CEO와 개빈 베이커 아트레이데스매니지먼트 CEO가 엔비디아 이사회에 공동 서한을",
+    "source": "AI타임스",
+    "region": "국내",
+    "published": "2026-11-15 07:52",
+    "published_sort": "2026-11-15T07:52:49+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "[롤드컵 브리핑] 53분 혈투 끝에 내준 2세트...젠지, 치열한 장기전 끝에 BLG에 패하며 승부 원점",
+    "link": "https://www.techm.kr/news/articleView.html?idxno=157358",
+    "summary": "젠지가 53분에 달하는 치열한 장기전 끝에 빌리빌리 게이밍(BLG)에 2세트를 내주며 승부는 원점으로 돌아갔습니다. 한국 시각으로 15일 미국 뉴욕 바클레이스 센터에서 열린 2026 리그 오브 레전드 월드 챔피언십(롤드컵) 결승전 2세트에서 젠지는 불리한 경기를 후반까지 끌고 가는 투혼을 발휘했습니다. 젠지가 장로 드래곤 스틸 등 여러 역전 기회에도 불구하고 끝까지 집중력을 잃지 않은 BLG의 공세를 막아내지 못하며 아쉬운 패배를 기록했습니다.이번 세트는 밴픽 단계부터 '기인' 김기인이 베인을 깜짝 선택하며 이목을 끌었죠. 하지만",
+    "source": "테크M",
+    "region": "국내",
+    "published": "2026-11-15 07:19",
+    "published_sort": "2026-11-15T07:19:46+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "아시아나항공, 해외발 수요 흡수…통합 뒤 노선 재편 과제",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=678596",
+    "summary": "아시아나항공이 해외에서 팔린 항공권을 발판으로 여객 매출을 끌어올렸다. 영업손실은 전년 동기보다 소폭 늘었지만 해외발 방한 수요와 인천 환승 수요를 흡수한 모습이다. 대한항공과의 통합을 앞두고 판매망의 무게중심이 해외로 옮겨가고 있다는 해석이다.15일 아시아나항공의 IR보고서를 보면 올해 3분기 별도기준 여객 노선 수익은 1조2671억원으로 전년 동기 대비 9.7% 늘었다. 국제선이 1조2041억원, 국내선이 630억원이었다. 노선별로는 중국 노선 매출이 29% 늘어 증가율이 가장 높았다. 일본 노선이 23%, 유럽 노선이 16%",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-11-15 07:00",
+    "published_sort": "2026-11-15T07:00:00+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "[롤드컵 브리핑] 젠지, 불리함 뒤집은 '정점의 한타력'...결승 1세트 '기선제압'",
+    "link": "https://www.techm.kr/news/articleView.html?idxno=157357",
+    "summary": "젠지의 한타 교전 능력이 돋보인 경기였습니다.한국 시각으로 15일 미국 뉴욕 바클레이스 센터에서 열린 2026 리그오브레전드 월드 챔피언십(롤드컵) 결승 1세트에서 젠지는 중국 LPL 빌리빌리 게이밍(BLG)을 상대로 기적 같은 역전승을 거두며 기선 제압에 성공했습니다. 경기 초반 주도권은 바텀과 미드 라인을 강하게 밀어 넣은 BLG이 가져가는 모습이었습니다. BLG은 '바이퍼' 박도현의 칼리스타를 앞세워 공허 유충 교전에서 선취점을 올렸으며, 이어진 드래곤 싸움에서도 연달아 승리하며 21분만에 마법공학 드래곤 영혼까지 무난하게 완",
+    "source": "테크M",
+    "region": "국내",
+    "published": "2026-11-15 06:20",
+    "published_sort": "2026-11-15T06:20:36+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "법규/정책"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "은행 기업대출 증가분 52% '대기업' 차지…회사채 상환 집중",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=678498",
+    "summary": "은행권 기업대출 증가세가 대기업을 중심으로 확대되고 있다. 올해 늘어난 기업대출의 절반 이상을 대기업이 차지하면서 기업 규모별 증가 기여도에도 변화가 나타났다. 회사채 만기도래 물량을 은행 차입으로 상환하려는 수요까지 더해지면서 기업들의 자금조달 방식도 달라지고 있다. 대기업이 이끈 대출 증가15일 금융권에 따르면 올해 1~10월 은행권 기업대출은 87조9000억원 늘었다. 지난해 같은 기간(50조9000억원)보다 37조원 많은 규모다. 이 가운데 대기업대출 증가액은 45조7000억원으로, 전체 순증액의 52.0%를 차지했다.지난해",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-11-15 06:00",
+    "published_sort": "2026-11-15T06:00:00+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "'젠슨 황 없는 엔비디아' 복귀론·책임론 정면충돌",
+    "link": "https://www.etnews.com/20261115000051",
+    "summary": "젠슨 황 엔비디아 전 최고경영자(CEO)의 전격 사임 사태가 진실 공방과 복귀 요구가 뒤엉키면서 논란이 번지고 있다. 황 전 CEO가 중국 스파이 의혹을 받는 '앨리스 황'과의 외도 관계를 내부 경영진에 축소 보고했다는 정황이 드러났고, 주요 경영진의 인지 여부에 대한 책임론이 무거워졌다. 주요 기관투자자와 실리콘밸리 거물들은 '황 전 CEO 대체 불가론'을 앞세워 복귀를 요구하고 나섰다. 사태의 불씨가 미국 상무부 책임론과 첨단 반도체 수출",
+    "source": "전자신문",
+    "region": "국내",
+    "published": "2026-11-15 11:00",
+    "published_sort": "2026-11-15T02:00:28+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "게임 속에서 돌아다니며 추모한다…가상 '반려동물 추모관'",
+    "link": "https://www.etnews.com/20261113000304",
+    "summary": "세상을 떠난 반려견을 위해 만든 가상 추모관이 전 세계로 확산되며 화제가 되고 있습니다. 웹 개발자 '미스터 찬찬'은 18살에 세상을 떠난 반려견 '벨라'를 기억하기 위해 온라인 추모관 '라이트 어 포'를 만들었습니다. 이곳에서는 작은 캐릭터를 조종해 3D 추모관을 돌아다니며 반려동물들의 사진과 사연을 살펴볼 수 있습니다. 또한 가상의 촛불을 켜거나 꽃과 추모 메시지를 남길 수 있으며, 누구나 무료로 자신의 반려동물 추모 공간을 만들어 가족이나",
+    "source": "전자신문",
+    "region": "국내",
+    "published": "2026-11-15 11:00",
+    "published_sort": "2026-11-15T02:00:00+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "SpaceX returned its Starship rocket on Saturday—but there's a catch",
+    "link": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
+    "summary": "It felt like stepping into the future.",
+    "source": "Ars Technica",
+    "region": "해외",
+    "published": "2026-11-15 00:40",
+    "published_sort": "2026-11-15T00:40:59+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "[단독] 인제대·경일대 해킹한 해커, 해킹 포럼에 “한국 대학 31곳 데이터 탈취·공개” 주장…수능 앞두고 대학 보안 비상",
+    "link": "https://www.dailysecu.com/news/articleView.html?idxno=209522",
+    "summary": "대학수학능력시험을 닷새 앞두고 해킹 포럼에 국내 대학 31곳의 데이터를 확보해 공개했다는 주장이 올라왔다. 글을 올린 ‘KimJEN’은 앞서 경일대 자료를 공유한다는 게시물을 두 차례 올린 계정이다.경일대는 교직원용 전자문서시스템 침입을, 인제대는 수업용 서버 공격에 따른 개인정보 2만4011건 유출을 각각 공지했다. 대학 두 곳에서 실제 사고가 확인된 상황에서 다른 대학을 지목한 자료 공개 주장까지 나오면서, 수능과 대학별 전형을 앞둔 대학가의 보안 대응이 시급해졌다.데일리시큐가 포럼 게시물과 텔레그램 채널 화면을 대조한 결과,",
+    "source": "데일리시큐",
+    "region": "국내",
+    "published": "2026-11-15 00:39",
+    "published_sort": "2026-11-15T00:39:41+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": true,
+    "sec_hits": [
+      "해킹"
+    ]
+  },
+  {
+    "title": "Where was Nvidia’s security team?",
+    "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+    "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which ",
+    "source": "TechCrunch",
+    "region": "해외",
+    "published": "2026-11-15 00:08",
+    "published_sort": "2026-11-15T00:08:07+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "AI/신기술",
+      "UI/UX"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "“합격 부적부터 보온 도시락까지”…유통가, 수능 응원 마케팅 '활활'",
+    "link": "https://www.etnews.com/20261109000309",
+    "summary": "오는 19일 대학수학능력시험을 앞두고 유통·식품업계가 취향과 실용성을 앞세운 수험생 응원 상품을 선보이고 있다. 찰떡·초콜릿 등 익숙한 합격 기원 선물에 인기 캐릭터와 아이돌 굿즈를 결합하고, 보온 도시락과 간편식으로 선택지를 넓혔다. 합격을 기원하는 상징성에 소장 가치와 활용도를 더해 상품을 차별화하는 전략이다. 유통업계는 수능 응원 상품을 초콜릿·찰떡 등 간식뿐 아니라 캐릭터 소품과 생활용품, 간편식으로 다양화하고 있다. 외식업계도 수험생과",
+    "source": "전자신문",
+    "region": "국내",
+    "published": "2026-11-15 08:45",
+    "published_sort": "2026-11-14T23:45:56+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
+    "link": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
+    "summary": "After aborting a planned catch of Starship Flight 15's booster, SpaceX successfully captured Starship with its \"Mechazilla\" launch and catch tower for the first time. The company has performed 'chopstick' catches of its boosters before, but this is the first time the maneuver has successfully been e",
+    "source": "The Verge",
+    "region": "해외",
+    "published": "2026-11-14 16:44",
+    "published_sort": "2026-11-14T21:44:44+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+    "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+    "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+    "source": "TechCrunch",
+    "region": "해외",
+    "published": "2026-11-14 21:41",
+    "published_sort": "2026-11-14T21:41:22+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "태양계 가로지르는 11m 소행성…설명 안 되는 움직임에 38년 전 실종 '소련 우주선설'까지",
+    "link": "https://www.etnews.com/20261113000201",
+    "summary": "태양계를 이동하는 소행성이 중력만으로는 설명하기 어려운 움직임을 보여 과학계의 관심을 끌고 있다. 소행성 내부에서 분출되는 수증기가 추진력을 만든다는 기존 가설에 의문이 제기되면서, 38년 전 실종된 옛 소련의 우주 탐사선일 수 있다는 주장까지 나왔다. 12일(현지시간) 미국 폭스뉴스와 과학전문매체 사이언스얼러트 등에 따르면 과학자들은 지름 약 11m의 지구 근접 소행성 '1998 KY26'에서 관측된 비정상적인 가속 현상의 원인을 규명하기 위",
+    "source": "전자신문",
+    "region": "국내",
+    "published": "2026-11-15 06:00",
+    "published_sort": "2026-11-14T21:00:00+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "Work to replace old copper wire led to the FAA’s ground stop",
+    "link": "https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire",
+    "summary": "At a press conference today, Transportation Secretary Sean Duffy said that Friday's nationwide ground stop ordered by the FAA was related to work replacing outdated copper wire with a fiber optic line at a \"remote FAA facility.\" The secretary said that this was \"routine maintenance,\" rather than the",
+    "source": "The Verge",
+    "region": "해외",
+    "published": "2026-11-14 15:46",
+    "published_sort": "2026-11-14T20:46:54+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
+    "link": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
+    "summary": "Even Elon Musk said the monthly fee is \"too high.\"",
+    "source": "TechCrunch",
+    "region": "해외",
+    "published": "2026-11-14 20:04",
+    "published_sort": "2026-11-14T20:04:44+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "Magic: The Gathering is getting a Netflix animated series. For real this time.",
+    "link": "https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series",
+    "summary": "\"It's really happening. I promise. For real.\" Those are the first words from Roy Graham, Head of Story at Magic: The Gathering, in a video posted yesterday announcing Planeswalker, the animated series heading to Netflix in 2027. An animated Magic: The Gathering series was first teased back in 2019 w",
+    "source": "The Verge",
+    "region": "해외",
+    "published": "2026-11-14 14:47",
+    "published_sort": "2026-11-14T19:47:40+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "노란우산 홈페이지 해킹, 고객 주민번호 앞자리·주소 등 개인정보 유출 가능성",
+    "link": "https://www.dailysecu.com/news/articleView.html?idxno=209521",
+    "summary": "중소기업중앙회가 운영하는 소기업·소상공인 공제제도 '노란우산' 홈페이지에서 외부 비인가자의 접근으로 일부 고객의 개인정보가 제3자에게 조회됐을 가능성이 확인됐다. 조회 의심 정보에는 성명과 주민등록번호 앞 7자리, 휴대전화번호, 자택 주소 등이 포함돼 있어 실제 유출 여부와 피해 규모에 관심이 집중되고 있다.중소기업중앙회는 11월 14일 노란우산 홈페이지에 '개인정보 유출 가능성 및 침해사고 공지'를 게시하고, 지난 11일 발생한 외부 비정상 접근과 일부 고객정보의 제3자 조회 의심 정황을 공식적으로 알렸다.중소기업중앙회는 공지를",
+    "source": "데일리시큐",
+    "region": "국내",
+    "published": "2026-11-14 19:41",
+    "published_sort": "2026-11-14T19:41:14+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": true,
+    "sec_hits": [
+      "해킹",
+      "침해사고",
+      "정보 유출"
+    ]
+  },
+  {
+    "title": "아마존, 전 세계 상품 정보 통합 추진…AI 쇼핑 주도권 지킨다",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217412",
+    "summary": "아마존이 자사에서 판매하지 않는 제품까지 전 세계 상품 정보를 모으는 방안을 검토하고 있다. 소비자가 제품을 비교하기 위해 다른 사이트로 이동하는 일을 줄이고, 구매를 대신하는 외부 AI 에이전트도 아마존을 찾도록 하려는 구상이다.로이터는 13일(현지시간) 내부 문서와 관계자들을 인용해 아마존이 ‘월드 프로덕트 그래프(World Product Graph)’라는 프로젝트를 추진하고 있다고 보도했다.브랜드에서 제공받는 정보와 다른 유통 사이트에서 수집한 데이터를 결합해 상품 간 차이와 관계를 파악하는 것이 목표다. 이용자가 최신 모델을",
+    "source": "AI타임스",
+    "region": "국내",
+    "published": "2026-11-14 19:19",
+    "published_sort": "2026-11-14T19:19:23+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "[부고] 유창훈 센스톤 대표 부친상",
+    "link": "https://www.dailysecu.com/news/articleView.html?idxno=209519",
+    "summary": "센스톤 유창훈 대표 부친 故유영옥님 별세.□ 부고링크: 링크□ 빈 소 : 서울아산병원 장례식장 23호□ 입 관 : 2026년 11월 15일 09시 00분□ 발 인 : 2026년 11월 16일 10시 00분□ 장 지 : 성남시장례문화사업소 - 이천 영원사□ 부고링크 : https://www.obituary.co.kr/obt/c56a79750611삼가 弔意를 표하며 故人의 冥福을 빕니다.",
+    "source": "데일리시큐",
+    "region": "국내",
+    "published": "2026-11-14 19:15",
+    "published_sort": "2026-11-14T19:15:13+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "미 재무장관, 메가스피드 제재 지연에 상무부 공개 비판…러트닉 경질론까지",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217411",
+    "summary": "스콧 베선트 미국 재무장관이 엔비디아 AI 칩을 구매해 온 싱가포르 기업 메가스피드에 대한 수출 통제를 미뤄 온 상무부를 공개적으로 비판했다. 재무부 등 4개 정부 기관이 수개월 전부터 제재에 찬성했지만, 상무부가 조치를 취하지 않았다는 것이다. 젠슨 황 전 엔비디아 CEO의 퇴진 이후 하워드 러트닉 상무장관의 경질 가능성까지 거론되고 있으며, 러트닉 장관은 다음 달 의회에서 증언하기로 했다.베선트 장관은 13일(현지시간) CNBC 인터뷰에서 메가스피드에 대한 제재 지연 문제를 언급하며 상무부의 대응을 비판했다.그는 \"재무부와 국방",
+    "source": "AI타임스",
+    "region": "국내",
+    "published": "2026-11-14 18:45",
+    "published_sort": "2026-11-14T18:45:47+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": true,
+    "flag_hits": [
+      "제재"
+    ],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "K뷰티 전용 ETF 뉴욕증시 상장…투자 흥행으로 이어질까",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=678626",
+    "summary": "K뷰티 산업이 전 세계적으로 인기를 얻으며 빠르게 성장하는 가운데 미국에서 K뷰티 기업을 담은 상장지수펀드(ETF)가 등장해 투자자들의 관심을 이끌어낼 수 있을지 주목된다. 13일(현지시간) 블룸버그통신에 따르면 기네스앳킨슨자산운용은 K뷰티 기업들을 모은 기네스앳킨슨 K뷰티 ETF(KBTY)를 최근 출시했다. 주요 편입 종목에는 아모레퍼시픽, 파마리서치, 한국콜마 등이 있다. 해당 기업들이 보유한 라네즈, 코스알엑스, 섬머프라이데이스 등은 미국 소셜미디어(SNS)와 화장품 매장에서 큰 인기를 끌고 있다. 짐 앳킨슨 기네스앳킨슨 최고",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-11-14 18:00",
+    "published_sort": "2026-11-14T18:00:00+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "Got an iPhone Duo? These 9 settings make it easier to use",
+    "link": "https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/",
+    "summary": "From Touch ID shortcuts to smarter volume buttons and camera tricks, these tweaks make Apple's foldable iPhone easier to use every day.",
+    "source": "TechCrunch",
+    "region": "해외",
+    "published": "2026-11-14 18:00",
+    "published_sort": "2026-11-14T18:00:00+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "엔비디아 직원들 \"젠슨 황 복귀시켜라\"…사내 게시물에 댓글 1600개",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217410",
+    "summary": "젠슨 황 전 CEO가 물러난 뒤 엔비디아 직원들 사이에서 그의 복귀를 요구하는 목소리가 나오고 있다. 이사회에 황의 거취를 결정할 때 직원들의 의견을 반영하라고 요구한 사내 게시물에는 1600개 이상의 댓글이 달렸다. 회사 밖에서도 복귀 청원이 시작됐으며, 일론 머스크 테슬라 CEO도 참여 의사를 밝혔다.와이어드는 12일(현지시간) 엔비디아 내부 문서를 입수해 황 전 CEO의 복귀를 요구하는 직원들의 움직임을 보도했다.이에 따르면, 엔비디아에서 오랫동안 근무한 한 엔지니어는 황의 사임 발표 전에 회사 내부 건의함에 이사회가 결정을",
+    "source": "AI타임스",
+    "region": "국내",
+    "published": "2026-11-14 17:56",
+    "published_sort": "2026-11-14T17:56:54+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide",
+    "link": "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/",
+    "summary": "FAA administrator Bryan Bedford also said there's \"zero evidence of anything AI-related.\"",
+    "source": "TechCrunch",
+    "region": "해외",
+    "published": "2026-11-14 17:45",
+    "published_sort": "2026-11-14T17:45:04+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "AI/신기술",
+      "UI/UX"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "머스크, 젠슨 황 퇴진에 영화로 경의…앞서 \"영입하면 영광\"",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217409",
+    "summary": "일론 머스크 CEO가 엔비디아에서 물러난 젠슨 황 전 CEO에게 경의를 표하는 게시물을 올렸다. 앞서 황의 해임 가능성이 제기됐을 때는 그를 영입할 수 있다면 영광이라고 밝혔으나, 현재까지 실제 영입 제안이나 구체적인 계획이 알려진 것은 없다.머스크는 13일(현지시간) X에 영화의 한 장면을 공유하며 황 전 CEO에 대한 존경심을 드러냈다.공유한 영상은 2023년 개봉한 영화 '에어(Air)'의 약 2분짜리 장면이다. 나이키가 농구 선수 마이클 조던과 계약해 '에어 조던' 브랜드를 탄생시키는 과정을 그린 작품이다.영상에서 나이키 임",
+    "source": "AI타임스",
+    "region": "국내",
+    "published": "2026-11-14 17:37",
+    "published_sort": "2026-11-14T17:37:48+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+    "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+    "source": "TechCrunch",
+    "region": "해외",
+    "published": "2026-11-14 17:30",
+    "published_sort": "2026-11-14T17:30:00+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "Cursor confirms security breach led to malicious Claude Code extension",
+    "link": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
+    "summary": "Cursor confirmed it suffered a security breach that let hackers distribute a malicious Claude Code extension through its marketplace after stealing credentials from AI infrastructure provider Fireworks AI. [...]",
+    "source": "BleepingComputer",
+    "region": "해외",
+    "published": "2026-11-14 12:27",
+    "published_sort": "2026-11-14T17:27:25+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": true,
+    "sec_hits": [
+      "breach"
+    ]
+  },
+  {
+    "title": "엔비디아, 차기 CEO로 Arm 하스 접촉설…이사회 \"공식 접촉 아직 없어\"",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217407",
+    "summary": "젠슨 황 전 CEO의 후임을 찾고 있는 엔비디아가 영국 반도체 설계 기업 Arm의 르네 하스 CEO와 접촉한 것으로 알려졌다. 그러나 엔비디아 이사회는 아직 어떤 후보와도 공식적으로 접촉하지 않았으며, 외부 헤드헌팅 업체를 선정하는 단계라고 밝혔다.파이낸셜타임스(FT)는 13일(현지시간) 복수의 소식통을 인용, 엔비디아 이사회가 황 전 CEO의 후임 후보 중 한 명으로 하스 CEO에게 접촉했다고 보도했다.하스는 이사회가 검토하는 여러 후보 중 한 명으로, 실제 영입 제안을 받을지 또는 제안을 수락할지는 불확실한 상태다. Arm은 관",
+    "source": "AI타임스",
+    "region": "국내",
+    "published": "2026-11-14 17:03",
+    "published_sort": "2026-11-14T17:03:50+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "[제약사 리포트] 메디톡스, 영업익 3배 불구 '법무비' 제외 이익 제자리",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=678618",
+    "summary": "메디톡스가 3분기 영업이익을 크게 늘렸지만 법무비를 제외한 이익은 직전분기와 비슷한 수준에 머물렀다. 생산 효율이 높아졌어도 매출 감소로 매출총이익은 줄었다. 해외 필러와 국내 보툴리눔톡신이 매출 감소의 대부분을 차지했다. 국내 톡신 출하 지연과 필러 유통망 전환이 겹친 탓이다. 4분기에는 이연 물량과 중국 필러 공급이 실적에 얼마나 반영될지가 관건이다. 법무비 제외 이익 사실상 제자리 14일 메디톡스의 3분기 기업설명(IR) 자료에 따르면 법무비를 제외한 조정 영업이익은 196억원으로 직전분기 199억원과 비슷한 수준이다. 매출",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-11-14 17:00",
+    "published_sort": "2026-11-14T17:00:00+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "법규/정책"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "젠슨 황 투자에 제동 걸었던 CFO가 후임으로…엔비디아 전략 바뀌나",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217406",
+    "summary": "젠슨 황 전 엔비디아 CEO가 대규모 AI 투자에 제동을 걸었던 콜레트 크레스 최고재무책임자(CFO)를 회의에서 공개적으로 깎아내렸던 사실이 드러났다. 황의 공격적인 투자 전략을 견제해 온 크레스가 임시 CEO에 오르면서, 엔비디아의 AI 산업 투자 방식에도 변화가 생길지 주목된다.월스트리트저널(WSJ)과 로이터는 13일(현지시간) 복수의 소식통을 인용, 황 전 CEO와 크레스 임시 CEO가 엔비디아의 대규모 AI 투자와 고객사 금융 지원 문제를 놓고 여러 차례 충돌했다고 보도했다.이에 따르면, 황 전 CEO는 지난 8월 주요 재무",
+    "source": "AI타임스",
+    "region": "국내",
+    "published": "2026-11-14 16:49",
+    "published_sort": "2026-11-14T16:49:31+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "MS, 대규모 장애 공식 사과...\"네트워크 증설 당시 문제\"",
+    "link": "https://www.techm.kr/news/articleView.html?idxno=157350",
+    "summary": "마이크로소프트(MS)는 지난 12일(현지시간)부터 이틀간 이어진 마이크로소프트 365(MS 365) 서비스 장애가 과거 네트워크 용량 증설 과정에서 생긴 문제 때문이라고 밝혔다. 최근 네트워크 설정을 변경하면서 당시 문제가 드러났으며 사이버공격이나 AI 에이전트와 무관하다고 선을 그었다.MS는 13일 공식 엑스(X, 옛 트위터) 계정을 통해 장애 원인과 복구 현황을 공개하고 고객과 파트너에게 사과했다.이번 장애로 세계 각지에서 아웃룩에 접속하지 못하거나 이메일 송수신이 지연되는 문제가 발생했다. 아웃룩과 연동하는 팀즈의 회의 예약",
+    "source": "테크M",
+    "region": "국내",
+    "published": "2026-11-14 16:46",
+    "published_sort": "2026-11-14T16:46:33+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+    "link": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+    "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
+    "source": "TechCrunch",
+    "region": "해외",
+    "published": "2026-11-14 16:34",
+    "published_sort": "2026-11-14T16:34:15+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "법규/정책",
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "[위클리 IT템] 예뻐서 샀는데 똑똑하기까지…디자인에 힘 준 디지털 제품 3선",
+    "link": "https://www.techm.kr/news/articleView.html?idxno=157351",
+    "summary": "디지털 기기의 구매 이유가 취향으로 확장되고 있다. 얼굴에 쓰는 안경부터 목에 거는 헤드폰, 손에 들고 다니는 카메라까지 일상에 드러나는 제품일수록 외관이 선택에 미치는 영향도 크다. 패션 브랜드의 개성을 담거나 오랜 역사를 지닌 디자인을 되살려 '갖고 싶은 물건'으로 만드는 시도가 이어지는 배경이다.삼성전자·구글과 젠틀몬스터가 협업한 인텔리전트 아이웨어, 워크맨의 추억을 꺼낸 소니 MDR-3R, 필름 카메라의 디자인 유산을 품은 캐논 EOS R8 Mark II는 서로 다른 방식으로 이런 흐름을 보여준다. 새로운 기술을 익숙한 일상",
+    "source": "테크M",
+    "region": "국내",
+    "published": "2026-11-14 16:33",
+    "published_sort": "2026-11-14T16:33:13+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "UI/UX"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "엔비디아 실적·앤트로픽 IPO, AI 투자 열기 가늠할 분수령",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=678625",
+    "summary": "다음 주 시장의 기대를 모으고 있는 앤트로픽의 기업공개(IPO)와 위기에 직면한 반도체기업 엔비디아의 분기 실적 발표가 예정돼있어 인공지능(AI) 투자 수요가 시험대에 오르게 됐다. 13일(이하 현지시간) 블룸버그통신에 따르면 엔비디아 주가는 전날 젠슨 황 전 최고경영자(CEO)의 갑작스러운 퇴진 이후 하락세를 이어갔다. 이에 지난해 4월 도널드 트럼프 미국 대통령의 대규모 관세 정책 발표 이후 18개월여 만에 최악의 주간 낙폭을 기록했다. 또한 엔비디아 주가는 6주 연속 떨어져 2012년 이후 가장 긴 하락세를 기록했다. 이번 주",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-11-14 16:00",
+    "published_sort": "2026-11-14T16:00:00+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": true,
+    "flag_hits": [
+      "정책 발표"
+    ],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "말레이시아, 메가스피드 AI 칩 재수출 의혹 조사 착수",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217405",
+    "summary": "말레이시아 정부가 싱가포르 클라우드 컴퓨팅 기업 메가스피드의 현지 계열사가 수입한 엔비디아 AI 칩의 재수출 여부를 조사하고 있다. 젠슨 황 전 엔비디아 CEO와 관련된 의혹으로 주목받은 메가스피드가 미국의 반도체 수출 통제를 우회하는 데 활용됐을 가능성이 제기되자, 말레이시아 정부도 직접 칩 유통 경로 확인에 나선 것이다.말레이시아 투자통상산업부는 13일(현지시간) 세관 당국과 함께 메가스피드 계열사인 스피드매트릭스(Speedmatrix)가 수입한 AI 칩과 서버가 다른 국가로 재수출됐는지, 관련 거래가 자국 법률을 준수했는지 조",
+    "source": "AI타임스",
+    "region": "국내",
+    "published": "2026-11-14 15:53",
+    "published_sort": "2026-11-14T15:53:09+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "법규/정책",
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print",
+    "link": "https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print",
+    "summary": "Tesla is doubling, or perhaps tripling down on its bold claims of an autonomous future with the offer to \"select customers\" to purchase a Cybercab for \"personal use.\" But the gilded, steering-wheel-free two-seater will \"only be available in supported service areas\" - meaning you'll only be able to b",
+    "source": "The Verge",
+    "region": "해외",
+    "published": "2026-11-14 10:22",
+    "published_sort": "2026-11-14T15:22:41+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "US disrupts North Korean campaign behind $400 million crypto theft",
+    "link": "https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/",
+    "summary": "The U.S. government has disrupted a North Korean social engineering campaign called 'FaceStealer', responsible for stealing more than $400 million in cryptocurrency. [...]",
+    "source": "BleepingComputer",
+    "region": "해외",
+    "published": "2026-11-14 10:15",
+    "published_sort": "2026-11-14T15:15:49+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "Jensen Huang and the decline of the visionary showman founder CEO",
+    "link": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+    "summary": "On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely packed with influencers and fans, their faces awash in blue glow, as he made his entrance in a black leat",
+    "source": "The Verge",
+    "region": "해외",
+    "published": "2026-11-14 10:12",
+    "published_sort": "2026-11-14T15:12:19+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "Here are our favorite deals from REI’s giant Holiday Sale",
+    "link": "https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026",
+    "summary": "Black Friday has become a shopping season of its own, with retailers once again offering discounts well ahead of the actual shopping holiday. We’ve already rounded up some of the best early Black Friday deals we’ve come across, but if you’re looking to save on outdoor gear or pick up something for a",
+    "source": "The Verge",
+    "region": "해외",
+    "published": "2026-11-14 09:21",
+    "published_sort": "2026-11-14T14:21:53+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "This tiny gamepad with dual analog thumbsticks pushes the limits of portable controllers",
+    "link": "https://www.theverge.com/tech/1013985/crkd-atom-plus-tmr-analog-thumbstick-controller-gamepad-switch-ios-android-hands-on",
+    "summary": "As much as I appreciate the ingenious design of the Nintendo Switch's Joy-Con, my family and I can't stand using them as standalone gamepads. So when we travel with the Switch 2, we always bring at least one full-size gamepad, plus a couple of 8BitDo's Zero 2 controllers for games that don't use ana",
+    "source": "The Verge",
+    "region": "해외",
+    "published": "2026-11-14 09:16",
+    "published_sort": "2026-11-14T14:16:05+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "UI/UX"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "코웨이, 음식물처리기 판매 106% 급증…11년만의 재도전 통했다",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=678530",
+    "summary": "코웨이가 11년 만에 재진출한 음식물처리기 시장에서 초기 판매 성과를 거두며 사업 확대에 속도를 내고 있다. 이미 다수의 렌탈업체가 경쟁하는 시장에 후발주자로 뛰어들었지만 제품 성능과 렌탈 관리 서비스를 앞세워 소비자 수요를 확보하고 있다. 코웨이는 앞으로 제품군을 다양화하고 렌탈 관리 서비스를 확대해 음식물처리기 시장에서 입지를 더욱 강화할 계획이다. 국내 성장동력 찾는 코웨이…기존 렌탈망 활용해 차별화13일 코웨이에 따르면 3분기 음식물처리기 판매량은 직전 분기 대비 106% 증가했다. 5월 말 '제로 음식물처리기 분쇄형'을 출",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-11-14 14:00",
+    "published_sort": "2026-11-14T14:00:00+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "Is AI Making Us Worse at Cybersecurity?",
+    "link": "https://www.securityweek.com/is-ai-making-us-worse-at-cybersecurity/",
+    "summary": "Overreliance on AI could erode the creativity, clear communication, and critical thinking security teams need when there’s no playbook. The post Is AI Making Us Worse at Cybersecurity? appeared first on SecurityWeek .",
+    "source": "SecurityWeek",
+    "region": "해외",
+    "published": "2026-11-14 14:00",
+    "published_sort": "2026-11-14T14:00:00+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "숲속 땅 파헤치니 현금 261억 무더기 발견… 헝가리 前 장관 뇌물?",
+    "link": "https://www.etnews.com/20261114000034",
+    "summary": "헝가리 당국이 전직 장관의 부패 혐의를 수사하는 과정에서 숲속 땅에 묻혀 있던 현금 등 약 261억원을 압수했다. 지난 4월 정권 교체 이후 빅토르 오르반 전 총리 측근들을 겨냥한 부패 수사가 확대되는 가운데 나온 대규모 현금 압수 사례다. 13일(현지시간) AP통신과 AFP통신 등에 따르면 헝가리 국가자산회수보호청(NVVH)은 이날 성명을 통해 미클로시 셰스타크 전 국가개발부 장관의 뇌물수수 혐의와 관련한 수색에서 총 1950만달러(약 261",
+    "source": "전자신문",
+    "region": "국내",
+    "published": "2026-11-14 22:30",
+    "published_sort": "2026-11-14T13:30:00+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "“이게 게임이라고?”…실사 같은 'GTA 6' 영상",
+    "link": "https://www.etnews.com/20261113000179",
+    "summary": "전 세계 게이머들의 기대를 모으고 있는 'GTA6'의 새로운 게임 영상이 화제입니다. 지난 11일 SNS에 공개된 영상에는 미국 마이애미를 배경으로 한 게임 속 가상 도시 '바이스 시티'의 모습이 담겼습니다. 마치 실제 촬영 영상처럼 보이는 이 장면은 지난 10월 마이애미에서 진행된 GTA 6 자동차 홍보 행사 당시의 모습을 게임 속에 재현한 것으로 보입니다. 영상을 본 일부 누리꾼들은 실제 촬영 영상이거나 AI로 생성한 영상이 아니냐는 반응을",
+    "source": "전자신문",
+    "region": "국내",
+    "published": "2026-11-14 22:30",
+    "published_sort": "2026-11-14T13:30:00+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
+    "link": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity security flaw impacting UnrealIRCd, an open-source Internet Relay Chat (IRC) server, to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation. The vulnerability, tra",
+    "source": "The Hacker News",
+    "region": "해외",
+    "published": "2026-11-14 18:08",
+    "published_sort": "2026-11-14T12:38:35+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "법규/정책"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": true,
+    "sec_hits": [
+      "vulnerabilit",
+      "exploit",
+      "security flaw"
+    ]
+  },
+  {
+    "title": "James Webb telescope finds ice older than the star it orbits",
+    "link": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/",
+    "summary": "Radiation and collisions reshape the planetary building materials.",
+    "source": "Ars Technica",
+    "region": "해외",
+    "published": "2026-11-14 12:15",
+    "published_sort": "2026-11-14T12:15:48+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "UI/UX"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "Winemakers are learning that conservation can be good for business",
+    "link": "https://arstechnica.com/science/2026/11/winemakers-are-learning-that-conservation-can-be-good-for-business/",
+    "summary": "Healthy soils, native plants, and fewer chemicals are helping vineyards adapt.",
+    "source": "Ars Technica",
+    "region": "해외",
+    "published": "2026-11-14 12:05",
+    "published_sort": "2026-11-14T12:05:51+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "유동화증권 발행 10월 '45조' 사상 최대…예금 빼니 역성장",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=678573",
+    "summary": "유동화증권 발행액이 지난달 사상 최대를 기록했지만 정기예금 유동화를 제외한 시장은 전월보다 1조8000억원 줄었다. 올해 누적 발행 증가분의 90% 이상도 정기예금 유동화가 차지했다. 시장의 외형 성장과 다른 자산의 자금조달 흐름 사이에 온도차가 뚜렷해졌다.14일 한국신용평가의 10월 구조화금융 보고서에 따르면 지난달 유동화증권 발행액은 45조7000억원으로 9월보다 12.4% 증가했다. 지난해 10월과 비교하면 51.4% 늘었다. 정기예금 유동화 발행액은 21조7000억원에서 28조5000억원으로 6조8000억원 증가했다. 전체",
+    "source": "블로터",
+    "region": "국내",
+    "published": "2026-11-14 12:00",
+    "published_sort": "2026-11-14T12:00:00+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
     "title": "딥시크·문샷 등 중국 4개사, 수출 통제 '블랙웰' 사용 흔적 발견",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=217397",
     "summary": "딥시크와 문샷 AI 등 중국 주요 AI 기업들이 미국의 수출 통제를 받는 엔비디아 최신 '블랙웰' GPU를 AI 모델 개발에 사용한 정황이 발견됐다. 공개된 모델 가중치에서 블랙웰 특유의 숫자 배열을 찾아낸 것으로, 중국 기업들의 첨단 GPU 사용 의혹을 뒷받침하는 구체적인 기술적 증거가 제시됐다.비영리 연구단체 언엠플로이먼트 랩스(Unemployment Labs)의 윌 드퓌 연구원은 12일(현지시간) 연구 보고서를 통해 중국 AI 기업 4곳이 공개한 모델 6종에서 엔비디아 블랙웰 GPU와 일치하는 초기 가중치 패턴을 발견했다고 밝",
@@ -10,6 +1116,41 @@
     "collected_at": "2026-11-14 02:51",
     "tags": [
       "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "[기고] AI 시대, ‘검색되는 브랜드’에서 ‘추천되는 브랜드’로",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217392",
+    "summary": "생성 AI의 확산은 기업의 업무 방식뿐 아니라 소비자가 제품과 브랜드를 탐색하는 방식까지 바꾸고 있다.포털이나 이커머스 플랫폼에서 키워드를 검색하고 여러 결과를 직접 비교하던 과정에 AI에게 자신의 상황과 조건을 설명하고 적합한 제품을 제안받는 방식이 더해지고 있다.AI 마케팅 솔루션 기업의 전략을 총괄하는 입장에서 이 변화에 주목하는 이유는 명확하다.AI가 업무 생산성을 높이는 도구를 넘어 소비자와 브랜드를 연결하고 구매 결정에 영향을 미치는 새로운 접점으로 부상하고 있기 때문이다.이러한 변화와 함께 주목받는 개념이 AEO(답변",
+    "source": "AI타임스",
+    "region": "국내",
+    "published": "2026-11-14 11:15",
+    "published_sort": "2026-11-14T11:15:00+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "Apple Reveals How Secure Exclaves Shield Camera and Microphone Data",
+    "link": "https://www.securityweek.com/apple-reveals-how-secure-exclaves-shield-camera-and-microphone-data/",
+    "summary": "The tech giant has detailed the architecture designed to isolate ambient sensor data from the main OS on HomeView and new iPhones. The post Apple Reveals How Secure Exclaves Shield Camera and Microphone Data appeared first on SecurityWeek .",
+    "source": "SecurityWeek",
+    "region": "해외",
+    "published": "2026-11-14 11:00",
+    "published_sort": "2026-11-14T11:00:00+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "AI/신기술",
+      "UI/UX"
     ],
     "flag": false,
     "flag_hits": [],
@@ -328,6 +1469,23 @@
     "sec_hits": []
   },
   {
+    "title": "No Signs of Hacking in FAA Ground Stop as FBI Reportedly Probes Software Update",
+    "link": "https://www.securityweek.com/no-signs-of-hacking-in-faa-ground-stop-as-fbi-reportedly-probes-software-update/",
+    "summary": "Officials say there is no evidence of a cyberattack behind the nationwide FAA outage, which may have been caused by a software update. The post No Signs of Hacking in FAA Ground Stop as FBI Reportedly Probes Software Update appeared first on SecurityWeek .",
+    "source": "SecurityWeek",
+    "region": "해외",
+    "published": "2026-11-14 08:40",
+    "published_sort": "2026-11-14T08:40:22+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
     "title": "[주말에 뭐하지] POE·카스·대항해시대 즐겨볼까...카제나·제우스 신규 콘텐츠도 확장",
     "link": "https://www.techm.kr/news/articleView.html?idxno=157345",
     "summary": "11월 중순에 접어들면서 쌀쌀한 날씨와 비 소식이 이어지고 있습니다. 이럴 때일수록 외출보다는 따뜻한 집에서 여유로운 시간을 보내고 싶어지는 주말입니다. 마침 게임업계에서는 신규 캐릭터와 대규모 콘텐츠 업데이트, 풍성한 보상을 앞세운 작품들이 잇따르고 있습니다. 새로운 모험을 시작하거나 오랜만에 즐기던 게임에 복귀해 즐겨보는 것은 어떨까요. 카카오게임즈는 집에서 게임을 즐기는 이용자들을 위해 '패스 오브 엑자일'의 신규 리그 '움브라의 마녀단'을 선보입니다. 이용자들은 수백 년간 이어진 움브라 지역 마녀단의 분쟁을 배경삼아 강력한",
@@ -336,6 +1494,57 @@
     "published": "2026-11-14 08:00",
     "published_sort": "2026-11-14T08:00:00+00:00",
     "collected_at": "2026-11-14 02:51",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "“키 173㎝에 생일도 똑같아”…SNS서 알아본 너와 나, 20년 전 헤어진 쌍둥이였다",
+    "link": "https://www.etnews.com/20261113000223",
+    "summary": "소셜미디어(SNS)에서 자신과 놀라울 정도로 닮은 여성을 발견한 중국 여성이 태어날 때 헤어진 것으로 추정되는 쌍둥이 자매와 약 20년 만에 재회했다. 서로의 존재를 전혀 몰랐던 두 사람이 SNS를 통해 극적으로 만나게 된 사연이 알려지면서 현지에서 화제가 되고 있다. 12일(현지시간) 홍콩 사우스차이나모닝포스트(SCMP)에 따르면 중국 선전에 사는 20세 여성 뤄씨는 최근 태어날 때부터 떨어져 지낸 일란성 쌍둥이로 추정되는 여성과 만난 영상을",
+    "source": "전자신문",
+    "region": "국내",
+    "published": "2026-11-14 17:00",
+    "published_sort": "2026-11-14T08:00:00+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "“남친이 무시하자 썸남에게 달콤한 선물”…中, 도브 초콜릿 광고에 '발끈'",
+    "link": "https://www.etnews.com/20261114000030",
+    "summary": "중국에서 남자친구에게 외면당한 여성이 다른 남성에게 초콜릿을 선물받는 내용의 광고가 불륜을 미화한다는 논란에 휩싸였다. 중국 당국은 해당 광고가 잘못된 연애관과 결혼관을 조장한다며 제작사에 약 1억6000만원의 벌금을 부과했다. 12일(현지시간) AFP통신 등에 따르면 중국 상하이시 시장감독관리국은 미국 초콜릿 브랜드 도브(Dove)의 광고를 제작한 종정식품에 지난달 벌금 80만위안(약 1억6050만원)을 부과했다고 이날 밝혔다. 문제가 된 광",
+    "source": "전자신문",
+    "region": "국내",
+    "published": "2026-11-14 16:05",
+    "published_sort": "2026-11-14T07:05:00+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "정부, MS365 장애 비상대응반 구성…MS “근본 문제 해결”",
+    "link": "https://www.etnews.com/20261114000035",
+    "summary": "정부가 마이크로소프트(MS)의 글로벌 서비스 장애에 대응해 한국MS와 비상대응반을 구성하고 국내 이용자 불편과 피해 상황 점검에 나섰다. MS는 고객과 파트너에게 공식 사과하고, 서비스 전반에서 광범위한 복구와 안정화가 이뤄지고 있다고 설명했다. 과학기술정보통신부(이하 과기정통부)는 한국MS와 비상대응반을 구성해 MS365 서비스 복구 현황과 국내 이용자 불편 상황을 지속 점검하는 등 대응에 나서고 있다고 14일 밝혔다. 지난 13일(한국시간)",
+    "source": "전자신문",
+    "region": "국내",
+    "published": "2026-11-14 16:03",
+    "published_sort": "2026-11-14T07:03:37+00:00",
+    "collected_at": "2026-11-15 02:19",
     "tags": [
       "기타"
     ],
@@ -396,6 +1605,75 @@
     "sec_hits": []
   },
   {
+    "title": "[ET시선] 1.4조달러 앤트로픽 IPO 뒤에 놓인 거대한 청구서",
+    "link": "https://www.etnews.com/20261113000193",
+    "summary": "오픈AI와 함께 생성형 인공지능(AI) 시장 양대 축으로 꼽히는 앤트로픽의 초대형 기업공개(IPO)를 앞두고 시장의 시선이 쏠리고 있다. AI 산업 수익성에 의구심이 커지는 상황에서 앤트로픽이 기대만큼 높은 가치를 인정받고 흥행에 성공한다면 그동안 불거진 거품론을 불식시킬 수 있다. 나아가 AI 투자 열풍과 생태계 지속가능성을 보여주는 근거가 될 수 있다. 앤트로픽은 오는 19일 미국 나스닥 상장을 추진하고 있다. 목표 기업가치는 최대 1조40",
+    "source": "전자신문",
+    "region": "국내",
+    "published": "2026-11-14 15:00",
+    "published_sort": "2026-11-14T06:00:00+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "공공 정보시스템 지진 대응 '허점'…건물 내진에 의존, 전산장비 보호는 사각지대",
+    "link": "https://www.etnews.com/20261113000174",
+    "summary": "화재 등 장애에 대비한 공공 정보시스템의 안전 관리 중요성이 커지는 가운데 지진 대응에는 공백이 있는 것으로 확인됐다. 현행 기준이 정보시스템의 안정성을 직접 보장하지 않는 건축물 자체의 내진설계를 전산장비 보호의 대안으로 인정하고 있기 때문이다. 건물이 지진에 견딜 수 있도록 설계됐더라도 내부 전산장비의 전도나 기능 상실까지 막을 수 있는 것은 아닌 만큼 별도의 보호 기준을 마련해야 한다는 목소리가 나온다. 행정안전부의 '행정기관 및 공공기관",
+    "source": "전자신문",
+    "region": "국내",
+    "published": "2026-11-14 13:36",
+    "published_sort": "2026-11-14T04:36:24+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "기타"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "오픈AI “유럽 중고생 80% AI로 숙제”…韓도 '공교육 AI 활용 기준' 실효성 높여야",
+    "link": "https://www.etnews.com/20261113000219",
+    "summary": "유럽 중고생 10명 가운데 8명은 과제 수행에 인공지능(AI)을 활용하는 것으로 나타났다. 우리나라도 교육 현장에 AI 활용이 늘 것으로 예상되면서, AI 활용 기준 등 법제도 마련이 필요하다는 지적이 제기된다. 오픈AI는 이 같은 내용이 담긴 '교육에서의 책임 있는 AI' 보고서를 최근 발표했다. 이에 따르면, 유럽 싱크탱크 '씽크영'이 13~19세 학생 약 5000명을 조사한 결과 숙제·과제 수행에 AI를 활용한다는 응답은 79%였지만 AI",
+    "source": "전자신문",
+    "region": "국내",
+    "published": "2026-11-14 12:00",
+    "published_sort": "2026-11-14T03:00:00+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "법규/정책",
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "AI 통역 새 시대 연다…딥엘, 말뜻 넘어 감정까지 전달",
+    "link": "https://www.etnews.com/20261111000390",
+    "summary": "“자신의 말을 설명하려고 할 때는 그 말에 담긴 감정적 맥락을 이해하는 것이 정말 중요합니다. 새로운 AI 모델은 화자의 미묘한 뉘앙스를 번역된 언어로 거의 그대로 옮겨 담을 수 있습니다.” 빅 싱 딥엘 엔지니어링 총괄은 최근 미국 샌프란시스코 믹스헤일로 오피스에서 한국 기자단과 만나 차세대 음성 AI 모델 '오러(Aura)'에 대해 이같이 설명했다. '오러'는 화자의 어조와 감정, 강세, 발화 속도 변화를 지속적으로 분석해 번역 음성에 반영한",
+    "source": "전자신문",
+    "region": "국내",
+    "published": "2026-11-14 11:39",
+    "published_sort": "2026-11-14T02:39:07+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
     "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
     "link": "https://www.theverge.com/news/1033489/faa-ground-stop",
     "summary": "Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop at 3:44PM ET \"due to extraordinary circumstances and for reasons of safety,\" while planes in the air will be allowed to land. The FAA tweeted just after 5PM ET that, \"There has been a tempo",
@@ -405,6 +1683,41 @@
     "published_sort": "2026-11-14T02:33:35+00:00",
     "collected_at": "2026-11-14 02:51",
     "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "'AI 안경' 논란에 카메라 켠 세무사 차석 합격자… 해진 교재 보여주며 “안경 자체를 안 썼다”",
+    "link": "https://www.etnews.com/20261114000016",
+    "summary": "최근 세무사 자격시험을 둘러싼 인공지능(AI) 스마트안경 부정행위 의혹이 확산하는 가운데, 차석 합격자가 자신의 시험 성적과 공부 과정을 공개하며 논란 진화에 나섰다. 제63회 세무사 자격시험 차석 합격자 윤정후씨는 지난 12일 자신의 유튜브 채널 '헬짱세무사'에 합격 후기를 담은 영상을 게시했다. 윤씨는 영상에서 최근 온라인 커뮤니티를 중심으로 불거진 AI 안경 부정행위 논란을 언급하며 “안경을 써본 적이 거의 없고, 당연히 시험장에서도 안경",
+    "source": "전자신문",
+    "region": "국내",
+    "published": "2026-11-14 11:29",
+    "published_sort": "2026-11-14T02:29:45+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "로이터 “엔비디아 의존 中 AI 프로젝트 규모 4조6000억원 이상”",
+    "link": "https://www.etnews.com/20261114000015",
+    "summary": "중국 내 인공지능(AI) 프로젝트 중 엔비디아 칩에 의존하는 규모가 230억위안(약 4조6000억원) 이상이라는 외신 집계가 나왔다. 젠슨 황 엔비디아 전 최고경영자(CEO) 스캔들 이후 미국의 대(對) 중국 수출 규제가 강화될 수 있다는 우려가 나오고 있어, 중국 내 AI 프로젝트 영향에 이목이 집중된다. 로이터통신은 13일(현지시간) 중국 내 조달공고·투자계획·건설계약·기업공시 등 150여건 자료를 토대로 엔비디아 칩에 기반을 둔 AI 프로",
+    "source": "전자신문",
+    "region": "국내",
+    "published": "2026-11-14 11:20",
+    "published_sort": "2026-11-14T02:20:52+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "법규/정책",
       "AI/신기술"
     ],
     "flag": false,
@@ -447,6 +1760,23 @@
     "sec_hits": []
   },
   {
+    "title": "A gadget to make your dumb house smarter",
+    "link": "https://www.theverge.com/tech/1033761/home-assistant-tk-tripod-tabletop-installer",
+    "summary": "Hi, friends! Welcome to Installer No. 152, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, thank you for taking time away from Zelda to be here, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about school ap",
+    "source": "The Verge",
+    "region": "해외",
+    "published": "2026-11-13 19:48",
+    "published_sort": "2026-11-14T00:48:59+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "UI/UX"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
     "title": "[현장] 앤앤에스피, ‘CPS 시큐어 AX 서밋 2026’ 개최…AI 시대 산업제어망 보안 전략 공유",
     "link": "https://www.dailysecu.com/news/articleView.html?idxno=209516",
     "summary": "공장 설비가 갑자기 멈췄을 때 장비가 고장 난 것인지, 통신에 문제가 생긴 것인지, 비정상적인 제어 명령이 들어온 것인지에 따라 대응은 달라진다. 설비가 네트워크로 연결되고 인공지능(AI)이 현장 데이터를 활용하는 범위가 넓어질수록, 어떤 장비가 어떻게 통신하는지 파악하고 이상 징후의 원인을 가려내는 일이 중요해진다.13일 서울 양재 엘타워에서 열린 ‘CPS(OT/ICS) Secure AX Summit 2026’에서는 AI 활용에 필요한 데이터를 안전하게 연결하면서 산업제어망과 설비를 안정적으로 운영하는 방안을 논의했다. 공공기관과",
@@ -456,6 +1786,24 @@
     "published_sort": "2026-11-14T00:16:12+00:00",
     "collected_at": "2026-11-14 02:51",
     "tags": [
+      "AI/신기술"
+    ],
+    "flag": false,
+    "flag_hits": [],
+    "sec": false,
+    "sec_hits": []
+  },
+  {
+    "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
+    "link": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+    "summary": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy community, though she is perhaps best known for",
+    "source": "The Verge",
+    "region": "해외",
+    "published": "2026-11-13 19:06",
+    "published_sort": "2026-11-14T00:06:40+00:00",
+    "collected_at": "2026-11-15 02:19",
+    "tags": [
+      "법규/정책",
       "AI/신기술"
     ],
     "flag": false,
